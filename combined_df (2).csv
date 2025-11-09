@@ -1,0 +1,1781 @@
+,intake_method,referer,age,appointment_location,appointment_time,Medication_Management,Talk_Therapy
+0,Call,Bariatric Doctor,20-30,Virtual,Evening,0,1
+1,Call,Family/Friend,10-20,Virtual,Afternoon,0,1
+2,Boom Form,Family/Friend,20-30,Freehold,Afternoon,0,1
+3,Boom Form,Family/Friend,20-30,Freehold,Afternoon,0,1
+4,Boom Form,Family/Friend,30-40,Freehold,Afternoon,0,1
+5,Boom Form,Family/Friend,20-30,Virtual,Afternoon,0,1
+6,Boom Form,Family/Friend,30-40,Virtual,Afternoon,0,1
+7,Boom Form,Family/Friend,20-30,Virtual,Afternoon,1,0
+8,Boom Form,Family/Friend,30-40,Princeton,Afternoon,0,1
+9,Boom Form,Family/Friend,20-30,Princeton,Afternoon,0,1
+10,Boom Form,Family/Friend,10-20,Freehold,Afternoon,0,1
+11,Boom Form,Family/Friend,20-30,Virtual,Afternoon,0,1
+12,Call,Family/Friend,30-40,Virtual,Afternoon,0,1
+13,Call,Family/Friend,10-20,Princeton,Evening,0,1
+14,Boom Form,Family/Friend,20-30,Princeton,Evening,0,1
+15,Boom Form,Family/Friend,60-70,Virtual,Evening,0,1
+16,Boom Form,Family/Friend,10-20,Freehold,Evening,0,1
+17,Boom Form,Family/Friend,40-50,Virtual,Evening,0,1
+18,Boom Form,Family/Friend,0-10,Freehold,Evening,0,1
+19,Text,Family/Friend,20-30,Freehold,Evening,1,0
+20,Boom Form,Family/Friend,0-10,Freehold,Evening,0,1
+21,Call,Family/Friend,0-10,Freehold,Evening,0,1
+22,Boom Form,Family/Friend,20-30,Virtual,Evening,0,1
+23,Boom Form,Family/Friend,40-50,Freehold,Morning,0,1
+24,Boom Form,Family/Friend,50-60,Freehold,Morning,0,1
+25,Boom Form,Family/Friend,20-30,Freehold,Morning,0,1
+26,Boom Form,Family/Friend,30-40,Virtual,Morning,0,1
+27,Boom Form,Family/Friend,50-60,Virtual,Morning,0,1
+28,Boom Form,Family/Friend,10-20,Freehold,Morning,0,1
+29,Boom Form,Family/Friend,20-30,Virtual,Morning,0,1
+30,Boom Form,Family/Friend,50-60,Princeton,Morning,0,1
+31,Boom Form,Family/Friend,30-40,Virtual,Morning,1,0
+32,Boom Form,Family/Friend,20-30,Virtual,Morning,0,1
+33,Boom Form,Family/Friend,20-30,Princeton,Morning,0,1
+34,Boom Form,Family/Friend,50-60,Freehold,Morning,0,1
+35,Boom Form,Family/Friend,20-30,Freehold,Morning,0,1
+36,Boom Form,Family/Friend,50-60,Freehold,Morning,0,1
+37,Call,Family/Friend,20-30,Virtual,Morning,1,1
+38,Boom Form,Family/Friend,20-30,Virtual,Morning,0,1
+39,Boom Form,Google or another search engine,30-40,Freehold,Afternoon,0,1
+40,Boom Form,Google or another search engine,20-30,Virtual,Afternoon,0,1
+41,Call,Google or another search engine,20-30,Virtual,Afternoon,0,1
+42,Boom Form,Google or another search engine,20-30,Princeton,Evening,0,1
+43,Boom Form,Google or another search engine,20-30,Princeton,Evening,0,1
+44,Call,Google or another search engine,20-30,Freehold,Evening,0,1
+45,Boom Form,Google or another search engine,30-40,Princeton,Evening,0,1
+46,Boom Form,Google or another search engine,50-60,Princeton,Morning,0,1
+47,Boom Form,Healthcare Provider,20-30,Princeton,Afternoon,0,1
+48,Boom Form,Healthcare Provider,20-30,Virtual,Afternoon,0,1
+49,Boom Form,Healthcare Provider,60-70,Freehold,Afternoon,0,1
+50,Call,Healthcare Provider,50-60,Freehold,Afternoon,0,1
+51,Call,Healthcare Provider,30-40,Virtual,Afternoon,1,1
+52,Call,Healthcare Provider,30-40,Freehold,Afternoon,0,1
+53,Call,Healthcare Provider,60-70,Freehold,Afternoon,0,1
+54,Boom Form,Healthcare Provider,10-20,Princeton,Evening,0,1
+55,Boom Form,Healthcare Provider,20-30,Virtual,Evening,1,0
+56,Boom Form,Healthcare Provider,20-30,Virtual,Evening,0,1
+57,Boom Form,Healthcare Provider,40-50,Princeton,Evening,0,1
+58,Boom Form,Healthcare Provider,30-40,Virtual,Morning,0,1
+59,Boom Form,Healthcare Provider,30-40,Virtual,Morning,0,1
+60,Boom Form,Healthcare Provider,20-30,Virtual,Morning,0,1
+61,Boom Form,Healthcare Provider,30-40,Princeton,Morning,1,1
+62,Call,Healthcare Provider,20-30,Freehold,Morning,1,1
+63,Boom Form,Insurance Company,30-40,Virtual,Afternoon,0,1
+64,Boom Form,Insurance Company,20-30,Princeton,Afternoon,0,1
+65,Boom Form,Insurance Company,30-40,Virtual,Afternoon,0,1
+66,Boom Form,Insurance Company,40-50,Virtual,Afternoon,0,1
+67,Boom Form,Insurance Company,30-40,Virtual,Evening,1,0
+68,Boom Form,Insurance Company,50-60,Freehold,Evening,0,1
+69,Boom Form,Insurance Company,30-40,Princeton,Morning,0,1
+70,Other,Internal TOL Referral ,50-60,Freehold,Afternoon,0,1
+71,Call,Internal TOL Referral ,30-40,Princeton,Afternoon,0,1
+72,Other,Internal TOL Referral ,10-20,Freehold,Afternoon,0,1
+73,Call,Internal TOL Referral ,50-60,Virtual,Afternoon,0,1
+74,Text,Internal TOL Referral ,40-50,Freehold,Afternoon,0,1
+75,Text,Internal TOL Referral ,30-40,Freehold,Afternoon,0,1
+76,Other,Internal TOL Referral ,0-10,Freehold,Afternoon,0,1
+77,Call,Internal TOL Referral ,30-40,Virtual,Afternoon,0,1
+78,Call,Internal TOL Referral ,50-60,Freehold,Evening,0,1
+79,Call,Internal TOL Referral ,30-40,Virtual,Evening,0,1
+80,Call,Internal TOL Referral ,30-40,Virtual,Morning,0,1
+81,Call,Internal TOL Referral ,30-40,Freehold,Morning,0,1
+82,Other,Internal TOL Referral ,50-60,Freehold,Morning,0,1
+83,Other,Internal TOL Referral ,20-30,Princeton,Morning,0,1
+84,Call,IOP,20-30,Virtual,Afternoon,0,1
+85,Call,IOP,30-40,Princeton,Evening,0,1
+86,Boom Form,Social Media,50-60,Virtual,Afternoon,0,1
+87,Boom Form,Social Media,40-50,Virtual,Afternoon,0,1
+88,Boom Form,Social Media,20-30,Virtual,Afternoon,0,1
+89,Boom Form,Social Media,20-30,Freehold,Afternoon,1,0
+90,Boom Form,Google or another search engine,30-40,Freehold,Evening,1,0
+91,Boom Form,Social Media,30-40,Virtual,Morning,0,1
+92,Boom Form,Google or another search engine,20-30,Princeton,Morning,0,1
+93,Boom Form,Social Media,30-40,Virtual,Morning,1,0
+94,Boom Form,Social Media,30-40,Virtual,Morning,0,1
+95,Call,Unknown,30-40,Princeton,Afternoon,0,1
+96,Call,Unknown,60-70,Freehold,Afternoon,0,1
+97,Call,Unknown,50-60,Freehold,Afternoon,0,1
+98,Call,Unknown,50-60,Virtual,Afternoon,0,1
+99,Call,Unknown,10-20,Freehold,Afternoon,0,1
+100,Call,Unknown,40-50,Princeton,Afternoon,0,1
+101,Call,Unknown,30-40,Virtual,Afternoon,0,1
+102,Call,Unknown,20-30,Virtual,Afternoon,0,1
+103,Call,Unknown,30-40,Princeton,Afternoon,0,1
+104,Call,Unknown,20-30,Virtual,Afternoon,0,1
+105,Call,Unknown,20-30,Freehold,Afternoon,0,1
+106,Call,Unknown,30-40,Virtual,Afternoon,0,1
+107,Call,Unknown,10-20,Princeton,Afternoon,0,1
+108,Call,Unknown,70-80,Freehold,Afternoon,0,1
+109,Boom Form,Unknown,20-30,Virtual,Afternoon,0,1
+110,Call,Unknown,10-20,Freehold,Afternoon,0,1
+111,Boom Form,Unknown,50-60,Virtual,Afternoon,0,1
+112,Call,Unknown,10-20,Princeton,Evening,0,1
+113,Call,Unknown,60-70,Virtual,Evening,0,1
+114,Call,Unknown,10-20,Virtual,Evening,1,0
+115,Call,Unknown,10-20,Freehold,Evening,0,1
+116,Call,Unknown,10-20,Freehold,Evening,0,1
+117,Call,Unknown,30-40,Freehold,Evening,0,1
+118,Boom Form,Unknown,10-20,Freehold,Evening,0,1
+119,Boom Form,Unknown,10-20,Virtual,Evening,0,1
+120,Call,Unknown,10-20,Princeton,Evening,0,1
+121,Call,Unknown,0-10,Freehold,Evening,0,1
+122,Call,Unknown,10-20,Freehold,Evening,0,1
+123,Call,Unknown,10-20,Princeton,Evening,0,1
+124,Call,Unknown,50-60,Freehold,Morning,0,1
+125,Call,Unknown,20-30,Virtual,Morning,1,0
+126,Call,Unknown,50-60,Virtual,Morning,0,1
+127,Call,Unknown,20-30,Virtual,Morning,0,1
+128,Call,Unknown,70-80,Virtual,Morning,0,1
+129,Call,Unknown,20-30,Virtual,Morning,0,1
+130,Call,Unknown,60-70,Freehold,Morning,0,1
+131,Call,Unknown,20-30,Freehold,Morning,1,0
+132,Call,Unknown,50-60,Freehold,Morning,0,1
+133,Call,Unknown,20-30,Virtual,Morning,1,0
+134,Call,Unknown,30-40,Freehold,Morning,0,1
+135,Call,Unknown,80-90,Freehold,Morning,0,1
+136,Call,Unknown,40-50,Virtual,Morning,0,1
+137,Call,Unknown,10-20,Freehold,Morning,0,1
+138,Call,Unknown,80-90,Princeton,Morning,0,1
+139,Call,Family/Friend,40-50,Freehold,Morning,0,1
+140,Call,Family/Friend,40-50,Freehold,Evening,1,1
+141,Boom Form,Family/Friend,20-30,Freehold,Morning,0,1
+142,Boom Form,Family/Friend,30-40,Freehold,Afternoon,0,1
+143,Boom Form,Family/Friend,20-30,Freehold,Afternoon,0,1
+144,Boom Form,Family/Friend,30-40,Freehold,Evening,0,1
+145,Boom Form,Family/Friend,50-60,Freehold,Afternoon,0,1
+146,Boom Form,Family/Friend,40-50,Freehold,Afternoon,0,1
+147,Boom Form,Family/Friend,20-30,Freehold,Morning,0,1
+148,Call,Family/Friend,30-40,Freehold,Afternoon,0,1
+149,Call,Family/Friend,20-30,Freehold,Morning,0,1
+150,Call,Family/Friend,30-40,Freehold,Afternoon,0,1
+151,Call,Family/Friend,20-30,Freehold,Evening,0,1
+152,Text,Family/Friend,50-60,Freehold,Morning,0,1
+153,Text,Family/Friend,20-30,Freehold,Evening,0,1
+154,Boom Form,Family/Friend,10-20,Freehold,Evening,0,1
+155,Boom Form,Family/Friend,0-10,Freehold,Afternoon,0,1
+156,Boom Form,Family/Friend,0-10,Freehold,Evening,0,1
+157,Call,Family/Friend,10-20,Freehold,Afternoon,0,1
+158,Call,Family/Friend,10-20,Freehold,Evening,0,1
+159,Call,Family/Friend,10-20,Freehold,Evening,0,1
+160,Call,Family/Friend,0-10,Freehold,Afternoon,0,1
+161,Call,Family/Friend,10-20,Freehold,Evening,0,1
+162,Text,Family/Friend,30-40,Freehold,Afternoon,1,0
+163,Other,Google or another search engine,60-70,Freehold,Afternoon,0,1
+164,Text,Google or another search engine,40-50,Freehold,Morning,0,1
+165,Boom Form,Google or another search engine,20-30,Freehold,Afternoon,0,1
+166,Boom Form,Google or another search engine,40-50,Freehold,Evening,0,1
+167,Boom Form,Google or another search engine,50-60,Freehold,Afternoon,0,1
+168,Call,Google or another search engine,20-30,Freehold,Morning,0,1
+169,Call,Google or another search engine,60-70,Freehold,Afternoon,0,1
+170,Call,Google or another search engine,20-30,Freehold,Afternoon,0,1
+171,Call,Google or another search engine,30-40,Freehold,Evening,0,1
+172,Boom Form,Google or another search engine,10-20,Freehold,Evening,0,1
+173,Boom Form,Google or another search engine,0-10,Freehold,Evening,0,1
+174,Call,Google or another search engine,0-10,Freehold,Evening,0,1
+175,Boom Form,Healthcare Provider,30-40,Freehold,Morning,0,1
+176,Call,Healthcare Provider,70-80,Freehold,Afternoon,0,1
+177,Call,Healthcare Provider,60-70,Freehold,Afternoon,0,1
+178,Boom Form,Healthcare Provider,10-20,Freehold,Evening,0,1
+179,Boom Form,Healthcare Provider,10-20,Freehold,Evening,0,1
+180,Call,Healthcare Provider,0-10,Freehold,Evening,0,1
+181,Call,Healthcare Provider,0-10,Freehold,Evening,0,1
+182,Boom Form,Healthcare Provider,60-70,Freehold,Afternoon,1,0
+183,Boom Form,Healthcare Provider,10-20,Freehold,Evening,1,0
+184,Call,Healthcare Provider,30-40,Freehold,Evening,1,0
+185,Call,Insurance Company,50-60,Freehold,Evening,0,1
+186,Boom Form,Insurance Company,30-40,Freehold,Evening,1,1
+187,Boom Form,Insurance Company,20-30,Freehold,Evening,1,1
+188,Boom Form,Insurance Company,20-30,Freehold,Afternoon,0,1
+189,Boom Form,Insurance Company,20-30,Freehold,Morning,0,1
+190,Boom Form,Insurance Company,20-30,Freehold,Afternoon,0,1
+191,Call,Insurance Company,10-20,Freehold,Evening,0,1
+192,Call,Insurance Company,60-70,Freehold,Afternoon,0,1
+193,Call,Insurance Company,10-20,Freehold,Evening,1,1
+194,Call,Insurance Company,10-20,Freehold,Evening,0,1
+195,Call,Insurance Company,40-50,Freehold,Evening,1,0
+196,Call,Insurance Company,0-10,Freehold,Evening,0,1
+197,Text,Internal TOL Referral ,40-50,Freehold,Afternoon,0,1
+198,Text,Internal TOL Referral ,60-70,Freehold,Afternoon,0,1
+199,Other,Internal TOL Referral ,0-10,Freehold,Evening,0,1
+200,Boom Form,Social Media,30-40,Freehold,Afternoon,0,1
+201,Boom Form,Social Media,0-10,Freehold,Evening,1,0
+202,Boom Form,Unknown,60-70,Freehold,Morning,0,1
+203,Call,Unknown,60-70,Freehold,Morning,0,1
+204,Boom Form,Unknown,50-60,Freehold,Evening,0,1
+205,Call,Unknown,50-60,Freehold,Afternoon,0,1
+206,Call,Unknown,10-20,Freehold,Evening,1,1
+207,Call,Unknown,10-20,Freehold,Afternoon,0,1
+208,Call,Unknown,10-20,Freehold,Morning,0,1
+209,Boom Form,Family/Friend,60-70,Princeton,Morning,0,1
+210,Boom Form,Family/Friend,20-30,Princeton,Morning,0,1
+211,Boom Form,Family/Friend,20-30,Princeton,Evening,0,1
+212,Call,Family/Friend,40-50,Princeton,Afternoon,0,1
+213,Call,Family/Friend,0-10,Princeton,Evening,0,1
+214,Call,Family/Friend,0-10,Princeton,Evening,0,1
+215,Boom Form,Family/Friend,20-30,Princeton,Afternoon,1,0
+216,Boom Form,Google or another search engine,20-30,Princeton,Morning,1,1
+217,Call,Google or another search engine,20-30,Princeton,Morning,1,1
+218,Boom Form,Google or another search engine,30-40,Princeton,Morning,0,1
+219,Call,Google or another search engine,20-30,Princeton,Afternoon,0,1
+220,Call,Google or another search engine,10-20,Princeton,Evening,0,1
+221,Call,Google or another search engine,20-30,Princeton,Evening,1,0
+222,Boom Form,Google or another search engine,20-30,Princeton,Morning,0,1
+223,Call,Healthcare Provider,60-70,Princeton,Afternoon,0,1
+224,Boom Form,Healthcare Provider,10-20,Princeton,Evening,0,1
+225,Call,Healthcare Provider,10-20,Princeton,Evening,0,1
+226,Call,Healthcare Provider,0-10,Princeton,Afternoon,0,1
+227,Boom Form,Insurance Company,20-30,Princeton,Morning,0,1
+228,Boom Form,Insurance Company,20-30,Princeton,Afternoon,0,1
+229,Call,Insurance Company,20-30,Princeton,Afternoon,0,1
+230,Call,Insurance Company,40-50,Princeton,Afternoon,0,1
+231,Call,Insurance Company,40-50,Princeton,Afternoon,0,1
+232,Boom Form,Insurance Company,0-10,Princeton,Afternoon,0,1
+233,Call,Insurance Company,10-20,Princeton,Evening,0,1
+234,Call,Insurance Company,30-40,Princeton,Afternoon,1,0
+235,Call,Unknown,50-60,Princeton,Morning,0,1
+236,Boom Form,Community Event,30-40,Virtual,Afternoon,0,1
+237,Boom Form,Family/Friend,10-20,Virtual,Morning,0,1
+238,Boom Form,Family/Friend,10-20,Virtual,Afternoon,0,1
+239,Boom Form,Family/Friend,30-40,Virtual,Morning,0,1
+240,Boom Form,Family/Friend,20-30,Virtual,Evening,0,1
+241,Boom Form,Family/Friend,20-30,Virtual,Evening,0,1
+242,Boom Form,Family/Friend,40-50,Virtual,Evening,0,1
+243,Boom Form,Family/Friend,20-30,Virtual,Evening,0,1
+244,Boom Form,Family/Friend,20-30,Virtual,Afternoon,0,1
+245,Boom Form,Family/Friend,20-30,Virtual,Afternoon,0,1
+246,Boom Form,Family/Friend,20-30,Virtual,Afternoon,0,1
+247,Boom Form,Family/Friend,20-30,Virtual,Afternoon,0,1
+248,Call,Family/Friend,30-40,Virtual,Morning,0,1
+249,Call,Family/Friend,40-50,Virtual,Afternoon,0,1
+250,Call,Family/Friend,20-30,Virtual,Afternoon,0,1
+251,Call,Family/Friend,30-40,Virtual,Afternoon,0,1
+252,Call,Family/Friend,20-30,Virtual,Afternoon,0,1
+253,Call,Family/Friend,20-30,Virtual,Afternoon,0,1
+254,Call,Family/Friend,20-30,Virtual,Morning,0,1
+255,Call,Family/Friend,20-30,Virtual,Evening,0,1
+256,Text,Family/Friend,30-40,Virtual,Morning,0,1
+257,Text,Family/Friend,30-40,Virtual,Afternoon,0,1
+258,Text,Family/Friend,10-20,Virtual,Evening,0,1
+259,Text,Family/Friend,10-20,Virtual,Evening,0,1
+260,Call,Google or another search engine,30-40,Virtual,Morning,0,1
+261,Boom Form,Google or another search engine,20-30,Virtual,Evening,1,1
+262,Boom Form,Google or another search engine,60-70,Virtual,Afternoon,0,1
+263,Boom Form,Google or another search engine,20-30,Virtual,Morning,0,1
+264,Boom Form,Google or another search engine,30-40,Virtual,Evening,0,1
+265,Call,Google or another search engine,50-60,Virtual,Afternoon,0,1
+266,Call,Google or another search engine,20-30,Virtual,Afternoon,0,1
+267,Call,Google or another search engine,30-40,Virtual,Morning,0,1
+268,Call,Google or another search engine,50-60,Virtual,Evening,0,1
+269,Boom Form,Google or another search engine,50-60,Virtual,Morning,1,0
+270,Boom Form,Healthcare Provider,20-30,Virtual,Evening,1,1
+271,Boom Form,Healthcare Provider,20-30,Virtual,Evening,1,1
+272,Call,Healthcare Provider,40-50,Virtual,Morning,0,1
+273,Call,Healthcare Provider,30-40,Virtual,Morning,0,1
+274,Call,Healthcare Provider,60-70,Virtual,Afternoon,0,1
+275,Call,Healthcare Provider,20-30,Virtual,Afternoon,0,1
+276,Call,Healthcare Provider,20-30,Virtual,Evening,0,1
+277,Boom Form,Healthcare Provider,30-40,Virtual,Evening,1,0
+278,Boom Form,Healthcare Provider,20-30,Virtual,Evening,1,0
+279,Boom Form,Healthcare Provider,20-30,Virtual,Morning,1,0
+280,Boom Form,Healthcare Provider,30-40,Virtual,Evening,1,0
+281,Boom Form,Insurance Company,20-30,Virtual,Afternoon,0,1
+282,Boom Form,Insurance Company,20-30,Virtual,Morning,0,1
+283,Boom Form,Insurance Company,30-40,Virtual,Evening,0,1
+284,Call,Insurance Company,20-30,Virtual,Afternoon,0,1
+285,Call,Insurance Company,20-30,Virtual,Evening,0,1
+286,Call,Insurance Company,20-30,Virtual,Afternoon,0,1
+287,Boom Form,Insurance Company,30-40,Virtual,Morning,1,0
+288,Text,Insurance Company,20-30,Virtual,Morning,1,0
+289,Call,Insurance Company,30-40,Virtual,Afternoon,0,1
+290,Text,Internal TOL Referral ,30-40,Virtual,Afternoon,0,1
+291,Call,Internal TOL Referral ,10-20,Virtual,Morning,0,1
+292,Call,Internal TOL Referral ,20-30,Virtual,Afternoon,0,1
+293,Text,Internal TOL Referral ,30-40,Virtual,Morning,1,0
+294,Call,Social Media,40-50,Virtual,Morning,0,1
+295,Call,Unknown,50-60,Virtual,Evening,0,1
+296,Boom Form,Healthcare Provider,30-40,Virtual,Evening,1,0
+297,Call,Unknown,40-50,Freehold,Morning,0,1
+298,Boom Form,Google or another search engine,20-30,Princeton,Afternoon,0,1
+299,Boom Form,Insurance Company,40-50,Princeton,Morning,0,1
+300,Boom Form,Family/Friend,50-60,Freehold,Morning,0,1
+301,Boom Form,Family/Friend,40-50,Freehold,Evening,0,1
+302,Other,Insurance Company,50-60,Freehold,Evening,0,1
+303,Boom Form,Family/Friend,10-20,Virtual,Evening,0,1
+304,Call,Insurance Company,30-40,Princeton,Afternoon,0,1
+305,Call,Healthcare Provider,20-30,Princeton,Evening,0,1
+306,Call,Healthcare Provider,50-60,Virtual,Afternoon,0,1
+307,Call,Family/Friend,10-20,Freehold,Morning,0,1
+308,Call,Google or another search engine,40-50,Freehold,Afternoon,0,1
+309,Boom Form,Healthcare Provider,20-30,Freehold,Evening,0,1
+310,Boom Form,Healthcare Provider,20-30,Virtual,Morning,1,1
+311,Boom Form,Google or another search engine,50-60,Virtual,Afternoon,1,0
+312,Boom Form,Family/Friend,20-30,Freehold,Morning,0,1
+313,Boom Form,Healthcare Provider,40-50,Virtual,Morning,1,0
+314,Call,Healthcare Provider,20-30,Virtual,Morning,1,0
+315,Boom Form,Family/Friend,20-30,Freehold,Afternoon,0,1
+316,Boom Form,Family/Friend,10-20,Freehold,Afternoon,0,1
+317,Boom Form,Family/Friend,20-30,Freehold,Afternoon,1,0
+318,Boom Form,Google or another search engine,30-40,Freehold,Afternoon,0,1
+319,Boom Form,Google or another search engine,10-20,Freehold,Afternoon,0,1
+320,Call,Family/Friend,40-50,Freehold,Afternoon,0,1
+321,Call,Family/Friend,0-10,Freehold,Afternoon,0,1
+322,Call,Family/Friend,10-20,Freehold,Afternoon,0,1
+323,Call,Family/Friend,10-20,Freehold,Afternoon,0,1
+324,Call,Google or another search engine,40-50,Freehold,Afternoon,0,1
+325,Call,Google or another search engine,20-30,Freehold,Afternoon,0,1
+326,Call,Google or another search engine,60-70,Freehold,Afternoon,0,1
+327,Call,Google or another search engine,40-50,Freehold,Afternoon,0,1
+328,Call,Google or another search engine,10-20,Freehold,Afternoon,0,1
+329,Call,Google or another search engine,10-20,Freehold,Afternoon,0,1
+330,Call,Google or another search engine,10-20,Freehold,Afternoon,0,1
+331,Call,Healthcare Provider,70-80,Freehold,Afternoon,0,1
+332,Call,Healthcare Provider,30-40,Freehold,Afternoon,1,0
+333,Call,Insurance Company,60-70,Freehold,Afternoon,0,1
+334,Call,Social Media,30-40,Freehold,Afternoon,0,1
+335,Boom Form,Family/Friend,30-40,Princeton,Afternoon,0,1
+336,Boom Form,Family/Friend,30-40,Princeton,Afternoon,0,1
+337,Boom Form,Google or another search engine,20-30,Princeton,Afternoon,0,1
+338,Boom Form,Google or another search engine,50-60,Princeton,Afternoon,0,1
+339,Boom Form,Google or another search engine,10-20,Princeton,Afternoon,0,1
+340,Boom Form,Google or another search engine,20-30,Princeton,Afternoon,0,1
+341,Boom Form,Healthcare Provider,20-30,Princeton,Afternoon,0,1
+342,Boom Form,Healthcare Provider,20-30,Princeton,Afternoon,1,0
+343,Call,Family/Friend,20-30,Princeton,Afternoon,0,1
+344,Call,Family/Friend,50-60,Princeton,Afternoon,0,1
+345,Call,Healthcare Provider,20-30,Princeton,Afternoon,0,1
+346,Call,Healthcare Provider,0-10,Princeton,Afternoon,0,1
+347,Call,Internal TOL Referral ,20-30,Princeton,Afternoon,0,1
+348,Call,Unknown,50-60,Princeton,Afternoon,0,1
+349,Boom Form,Family/Friend,20-30,Virtual,Afternoon,0,1
+350,Boom Form,Family/Friend,20-30,Virtual,Afternoon,0,1
+351,Boom Form,Family/Friend,20-30,Virtual,Afternoon,0,1
+352,Boom Form,Family/Friend,30-40,Virtual,Afternoon,0,1
+353,Boom Form,Family/Friend,20-30,Virtual,Afternoon,0,1
+354,Boom Form,Family/Friend,20-30,Virtual,Afternoon,0,1
+355,Boom Form,Family/Friend,30-40,Virtual,Afternoon,0,1
+356,Boom Form,Family/Friend,20-30,Virtual,Afternoon,0,1
+357,Boom Form,Family/Friend,10-20,Virtual,Afternoon,0,1
+358,Boom Form,Healthcare Provider,20-30,Virtual,Afternoon,1,0
+359,Boom Form,Insurance Company,30-40,Virtual,Afternoon,0,1
+360,Boom Form,Insurance Company,30-40,Virtual,Afternoon,0,1
+361,Boom Form,Insurance Company,30-40,Virtual,Afternoon,0,1
+362,Call,Family/Friend,50-60,Virtual,Afternoon,0,1
+363,Call,Family/Friend,10-20,Virtual,Afternoon,0,1
+364,Call,Google or another search engine,30-40,Virtual,Afternoon,0,1
+365,Call,Healthcare Provider,50-60,Virtual,Afternoon,1,0
+366,Call,Insurance Company,60-70,Virtual,Afternoon,1,0
+367,Call,Internal TOL Referral ,60-70,Virtual,Afternoon,0,1
+368,Call,Internal TOL Referral ,20-30,Virtual,Afternoon,0,1
+369,Other,Family/Friend,60-70,Virtual,Afternoon,0,1
+370,Text,Insurance Company,10-20,Virtual,Afternoon,0,1
+371,Boom Form,Google or another search engine,30-40,Freehold,Evening,0,1
+372,Boom Form,Healthcare Provider,40-50,Freehold,Evening,0,1
+373,Boom Form,Insurance Company,50-60,Freehold,Evening,0,1
+374,Boom Form,Insurance Company,10-20,Freehold,Evening,0,1
+375,Boom Form,Unknown,20-30,Freehold,Evening,0,1
+376,Call,Family/Friend,40-50,Freehold,Evening,0,1
+377,Call,Family/Friend,60-70,Freehold,Evening,0,1
+378,Call,Family/Friend,0-10,Freehold,Evening,0,1
+379,Call,Family/Friend,0-10,Freehold,Evening,0,1
+380,Call,Google or another search engine,30-40,Freehold,Evening,0,1
+381,Call,Google or another search engine,20-30,Freehold,Evening,0,1
+382,Call,Google or another search engine,0-10,Freehold,Evening,0,1
+383,Call,Google or another search engine,0-10,Freehold,Evening,0,1
+384,Call,Healthcare Provider,40-50,Freehold,Evening,0,1
+385,Call,Unknown,10-20,Freehold,Evening,0,1
+386,Other,Unknown,50-60,Freehold,Evening,0,1
+387,Boom Form,Family/Friend,20-30,Princeton,Evening,0,1
+388,Boom Form,Family/Friend,0-10,Princeton,Evening,0,1
+389,Boom Form,Google or another search engine,20-30,Princeton,Evening,0,1
+390,Boom Form,Google or another search engine,10-20,Princeton,Evening,0,1
+391,Boom Form,Google or another search engine,0-10,Princeton,Evening,0,1
+392,Boom Form,Google or another search engine,10-20,Princeton,Evening,0,1
+393,Boom Form,Google or another search engine,0-10,Princeton,Evening,0,1
+394,Boom Form,Healthcare Provider,0-10,Princeton,Evening,0,1
+395,Boom Form,School District,10-20,Princeton,Evening,0,1
+396,Call,Family/Friend,10-20,Princeton,Evening,0,1
+397,Call,Family/Friend,10-20,Princeton,Evening,0,1
+398,Call,Family/Friend,10-20,Princeton,Evening,0,1
+399,Call,Healthcare Provider,10-20,Princeton,Evening,0,1
+400,Call,Internal TOL Referral ,10-20,Princeton,Evening,0,1
+401,Other,Family/Friend,10-20,Princeton,Evening,0,1
+402,Boom Form,Family/Friend,20-30,Virtual,Evening,0,1
+403,Boom Form,Family/Friend,30-40,Virtual,Evening,0,1
+404,Boom Form,Family/Friend,40-50,Virtual,Evening,0,1
+405,Boom Form,Family/Friend,30-40,Virtual,Evening,0,1
+406,Boom Form,Family/Friend,10-20,Virtual,Evening,1,0
+407,Boom Form,Internal TOL Referral ,30-40,Virtual,Evening,0,1
+408,Boom Form,Internal TOL Referral ,10-20,Virtual,Evening,0,1
+409,Call,Family/Friend,40-50,Virtual,Evening,0,1
+410,Call,Google or another search engine,20-30,Virtual,Evening,0,1
+411,Call,Healthcare Provider,30-40,Virtual,Evening,1,0
+412,Call,Internal TOL Referral ,20-30,Virtual,Evening,0,1
+413,Call,Internal TOL Referral ,20-30,Virtual,Evening,0,1
+414,Call,Internal TOL Referral ,40-50,Virtual,Evening,0,1
+415,Call,Internal TOL Referral ,10-20,Virtual,Evening,0,1
+416,Call,Unknown,60-70,Virtual,Evening,0,1
+417,Text,Google or another search engine,40-50,Virtual,Evening,1,0
+418,Text,Internal TOL Referral ,30-40,Virtual,Evening,0,1
+419,Text,Internal TOL Referral ,10-20,Virtual,Evening,0,1
+420,Text,Unknown,60-70,Virtual,Evening,0,1
+421,Boom Form,Family/Friend,40-50,Freehold,Morning,0,1
+422,Boom Form,Family/Friend,20-30,Freehold,Morning,0,1
+423,Boom Form,Google or another search engine,20-30,Freehold,Morning,0,1
+424,Boom Form,Google or another search engine,10-20,Freehold,Morning,0,1
+425,Boom Form,Google or another search engine,30-40,Freehold,Morning,1,0
+426,Boom Form,Healthcare Provider,10-20,Freehold,Morning,1,0
+427,Boom Form,Insurance Company,30-40,Freehold,Morning,1,0
+428,Boom Form,Social Media,60-70,Freehold,Morning,0,1
+429,Boom Form,Social Media,40-50,Freehold,Morning,0,1
+430,Call,Family/Friend,40-50,Freehold,Morning,0,1
+431,Call,Family/Friend,30-40,Freehold,Morning,0,1
+432,Call,Family/Friend,0-10,Freehold,Morning,0,1
+433,Call,Internal TOL Referral ,40-50,Freehold,Morning,0,1
+434,Text,Internal TOL Referral ,50-60,Princeton,Morning,0,1
+435,Boom Form,Family/Friend,30-40,Virtual,Morning,0,1
+436,Boom Form,Healthcare Provider,30-40,Virtual,Morning,1,0
+437,Call,Family/Friend,40-50,Virtual,Morning,0,1
+438,Call,Family/Friend,60-70,Virtual,Morning,0,1
+439,Call,Family/Friend,60-70,Virtual,Morning,0,1
+440,Call,Google or another search engine,20-30,Virtual,Morning,0,1
+441,Other,Healthcare Provider,50-60,Virtual,Morning,1,0
+442,Boom Form,Family/Friend,20-30,Freehold,Afternoon,0,1
+443,Boom Form,Family/Friend,10-20,Freehold,Afternoon,0,1
+444,Boom Form,Social Media,0-10,Freehold,Afternoon,0,1
+445,Call,Family/Friend,40-50,Freehold,Afternoon,0,1
+446,Call,Family/Friend,20-30,Freehold,Afternoon,0,1
+447,Call,Family/Friend,50-60,Freehold,Afternoon,0,1
+448,Call,Family/Friend,10-20,Freehold,Afternoon,0,1
+449,Call,Google or another search engine,10-20,Freehold,Afternoon,0,1
+450,Call,Healthcare Provider,10-20,Freehold,Afternoon,0,1
+451,Call,Healthcare Provider,0-10,Freehold,Afternoon,0,1
+452,Call,IOP,60-70,Freehold,Afternoon,0,1
+453,Other,Family/Friend,40-50,Freehold,Afternoon,1,0
+454,Boom Form,Family/Friend,40-50,Princeton,Afternoon,0,1
+455,Boom Form,Family/Friend,10-20,Princeton,Afternoon,0,1
+456,Boom Form,Family/Friend,10-20,Princeton,Afternoon,0,1
+457,Boom Form,Google or another search engine,20-30,Princeton,Afternoon,0,1
+458,Boom Form,Google or another search engine,40-50,Princeton,Afternoon,0,1
+459,Boom Form,Healthcare Provider,0-10,Princeton,Afternoon,0,1
+460,Boom Form,Insurance Company,20-30,Princeton,Afternoon,0,1
+461,Boom Form,Insurance Company,10-20,Princeton,Afternoon,0,1
+462,Call,Family/Friend,50-60,Princeton,Afternoon,0,1
+463,Call,Google or another search engine,10-20,Princeton,Afternoon,0,1
+464,Call,Healthcare Provider,70-80,Princeton,Afternoon,0,1
+465,Call,Insurance Company,10-20,Princeton,Afternoon,0,1
+466,Call,IOP,10-20,Princeton,Afternoon,0,1
+467,Boom Form,Family/Friend,30-40,Virtual,Afternoon,0,1
+468,Boom Form,Family/Friend,30-40,Virtual,Afternoon,0,1
+469,Boom Form,Family/Friend,40-50,Virtual,Afternoon,0,1
+470,Boom Form,Google or another search engine,30-40,Virtual,Afternoon,0,1
+471,Call,Family/Friend,20-30,Virtual,Afternoon,1,0
+472,Call,Family/Friend,30-40,Virtual,Afternoon,0,1
+473,Call,Family/Friend,30-40,Virtual,Afternoon,0,1
+474,Call,Google or another search engine,40-50,Virtual,Afternoon,1,0
+475,Call,Healthcare Provider,10-20,Virtual,Afternoon,0,1
+476,Call,Healthcare Provider,30-40,Virtual,Afternoon,0,1
+477,Call,Healthcare Provider,40-50,Virtual,Afternoon,0,1
+478,Call,Insurance Company,50-60,Virtual,Afternoon,0,1
+479,Call,Insurance Company,20-30,Virtual,Afternoon,0,1
+480,Boom Form,Family/Friend,30-40,Freehold,Evening,0,1
+481,Boom Form,Family/Friend,10-20,Freehold,Evening,0,1
+482,Boom Form,Google or another search engine,10-20,Freehold,Evening,0,1
+483,Boom Form,Google or another search engine,10-20,Freehold,Evening,0,1
+484,Boom Form,Internal TOL Referral ,30-40,Freehold,Evening,0,1
+485,Call,Family/Friend,0-10,Freehold,Evening,0,1
+486,Call,Family/Friend,10-20,Freehold,Evening,0,1
+487,Call,Family/Friend,10-20,Freehold,Evening,0,1
+488,Call,Family/Friend,10-20,Freehold,Evening,0,1
+489,Call,Google or another search engine,20-30,Freehold,Evening,1,0
+490,Call,Google or another search engine,10-20,Freehold,Evening,0,1
+491,Call,Healthcare Provider,20-30,Freehold,Evening,0,1
+492,Call,Healthcare Provider,40-50,Freehold,Evening,0,1
+493,Call,IOP,10-20,Freehold,Evening,0,1
+494,Boom Form,Family/Friend,40-50,Princeton,Evening,0,1
+495,Boom Form,Family/Friend,0-10,Princeton,Evening,0,1
+496,Boom Form,Family/Friend,10-20,Princeton,Evening,0,1
+497,Boom Form,Family/Friend,10-20,Princeton,Evening,0,1
+498,Boom Form,Family/Friend,0-10,Princeton,Evening,0,1
+499,Boom Form,Google or another search engine,30-40,Princeton,Evening,0,1
+500,Boom Form,Google or another search engine,10-20,Princeton,Evening,0,1
+501,Boom Form,Healthcare Provider,20-30,Princeton,Evening,0,1
+502,Boom Form,Insurance Company,50-60,Princeton,Evening,1,0
+503,Boom Form,Insurance Company,30-40,Princeton,Evening,0,1
+504,Call,Google or another search engine,10-20,Princeton,Evening,0,1
+505,Call,Healthcare Provider,10-20,Princeton,Evening,1,0
+506,Call,Healthcare Provider,0-10,Princeton,Evening,0,1
+507,Call,Healthcare Provider,10-20,Princeton,Evening,0,1
+508,Call,Insurance Company,20-30,Princeton,Evening,0,1
+509,Call,Insurance Company,10-20,Princeton,Evening,0,1
+510,Call,Insurance Company,0-10,Princeton,Evening,0,1
+511,Call,Insurance Company,10-20,Princeton,Evening,0,1
+512,Call,Unknown,40-50,Princeton,Evening,0,1
+513,Other,Healthcare Provider,10-20,Princeton,Evening,0,1
+514,Other,Internal TOL Referral ,10-20,Princeton,Evening,0,1
+515,Boom Form,Family/Friend,30-40,Virtual,Evening,0,1
+516,Boom Form,Healthcare Provider,40-50,Virtual,Evening,0,1
+517,Boom Form,Healthcare Provider,10-20,Virtual,Evening,0,1
+518,Boom Form,Healthcare Provider,20-30,Virtual,Evening,1,0
+519,Boom Form,Social Media,30-40,Virtual,Evening,1,0
+520,Call,Family/Friend,20-30,Virtual,Evening,0,1
+521,Call,Google or another search engine,20-30,Virtual,Evening,1,0
+522,Call,Google or another search engine,30-40,Virtual,Evening,1,0
+523,Call,Google or another search engine,20-30,Virtual,Evening,0,1
+524,Call,Healthcare Provider,10-20,Virtual,Evening,0,1
+525,Call,Healthcare Provider,20-30,Virtual,Evening,1,0
+526,Call,Healthcare Provider,10-20,Virtual,Evening,0,1
+527,Call,Healthcare Provider,10-20,Virtual,Evening,0,1
+528,Call,Insurance Company,40-50,Virtual,Evening,1,0
+529,Call,Insurance Company,20-30,Virtual,Evening,1,0
+530,Other,Insurance Company,20-30,Virtual,Evening,0,1
+531,Boom Form,Google or another search engine,40-50,Freehold,Morning,1,0
+532,Call,Family/Friend,70-80,Freehold,Morning,0,1
+533,Call,Google or another search engine,30-40,Freehold,Morning,0,1
+534,Call,Healthcare Provider,60-70,Freehold,Morning,0,1
+535,Call,Insurance Company,20-30,Freehold,Morning,1,0
+536,Boom Form,Healthcare Provider,40-50,Princeton,Morning,1,0
+537,Boom Form,Insurance Company,40-50,Princeton,Morning,0,1
+538,Call,Family/Friend,20-30,Princeton,Morning,0,1
+539,Call,Google or another search engine,30-40,Princeton,Morning,0,1
+540,Call,Healthcare Provider,20-30,Princeton,Morning,0,1
+541,Boom Form,Family/Friend,30-40,Virtual,Morning,0,1
+542,Boom Form,Family/Friend,20-30,Virtual,Morning,0,1
+543,Boom Form,Family/Friend,30-40,Virtual,Morning,0,1
+544,Boom Form,Family/Friend,20-30,Virtual,Morning,0,1
+545,Boom Form,Google or another search engine,20-30,Virtual,Morning,0,1
+546,Boom Form,Healthcare Provider,60-70,Virtual,Morning,0,1
+547,Boom Form,Healthcare Provider,10-20,Virtual,Morning,1,0
+548,Boom Form,Healthcare Provider,30-40,Virtual,Morning,1,0
+549,Boom Form,IOP,20-30,Virtual,Morning,1,0
+550,Boom Form,Unknown,50-60,Virtual,Morning,0,1
+551,Call,Family/Friend,10-20,Virtual,Morning,1,0
+552,Call,Healthcare Provider,50-60,Virtual,Morning,0,1
+553,Call,Healthcare Provider,70-80,Virtual,Morning,0,1
+554,Call,Insurance Company,40-50,Virtual,Morning,0,1
+555,Call,Bariatric Doctor,30-40,Virtual,Afternoon,0,1
+556,Call,Family/Friend,50-60,Princeton,Afternoon,0,1
+557,Boom Form,Family/Friend,20-30,Freehold,Afternoon,0,1
+558,Boom Form,Family/Friend,20-30,Freehold,Afternoon,0,1
+559,Call,Family/Friend,20-30,Freehold,Afternoon,0,1
+560,Other,Family/Friend,40-50,Freehold,Afternoon,0,1
+561,Boom Form,Family/Friend,20-30,Princeton,Afternoon,0,1
+562,Boom Form,Family/Friend,40-50,Princeton,Afternoon,0,1
+563,Call,Family/Friend,10-20,Princeton,Afternoon,0,1
+564,Call,Family/Friend,40-50,Princeton,Afternoon,0,1
+565,Boom Form,Family/Friend,20-30,Virtual,Afternoon,0,1
+566,Boom Form,Family/Friend,20-30,Virtual,Afternoon,0,1
+567,Boom Form,Family/Friend,30-40,Virtual,Afternoon,0,1
+568,Boom Form,Family/Friend,40-50,Virtual,Afternoon,0,1
+569,Boom Form,Family/Friend,30-40,Virtual,Afternoon,0,1
+570,Boom Form,Family/Friend,30-40,Virtual,Afternoon,0,1
+571,Call,Family/Friend,40-50,Virtual,Afternoon,0,1
+572,Call,Family/Friend,20-30,Virtual,Afternoon,0,1
+573,Call,Family/Friend,50-60,Virtual,Afternoon,0,1
+574,Boom Form,Family/Friend,10-20,Freehold,Afternoon,0,1
+575,Other,Family/Friend,0-10,Freehold,Afternoon,0,1
+576,Other,Family/Friend,0-10,Freehold,Afternoon,0,1
+577,Boom Form,Family/Friend,10-20,Virtual,Afternoon,0,1
+578,Call,Family/Friend,10-20,Virtual,Afternoon,0,1
+579,Boom Form,Family/Friend,30-40,Princeton,Afternoon,1,0
+580,Call,Family/Friend,20-30,Princeton,Evening,0,1
+581,Boom Form,Family/Friend,30-40,Freehold,Evening,0,1
+582,Boom Form,Family/Friend,10-20,Princeton,Evening,0,1
+583,Call,Family/Friend,40-50,Princeton,Evening,0,1
+584,Boom Form,Family/Friend,20-30,Virtual,Evening,0,1
+585,Boom Form,Family/Friend,20-30,Virtual,Evening,0,1
+586,Call,Family/Friend,20-30,Virtual,Evening,0,1
+587,Boom Form,Family/Friend,0-10,Freehold,Evening,0,1
+588,Boom Form,Family/Friend,10-20,Freehold,Evening,1,1
+589,Boom Form,Family/Friend,10-20,Freehold,Evening,0,1
+590,Boom Form,Family/Friend,0-10,Freehold,Evening,0,1
+591,Boom Form,Family/Friend,10-20,Freehold,Evening,0,1
+592,Call,Family/Friend,0-10,Freehold,Evening,0,1
+593,Call,Family/Friend,0-10,Freehold,Evening,0,1
+594,Call,Family/Friend,0-10,Freehold,Evening,0,1
+595,Call,Family/Friend,0-10,Freehold,Evening,0,1
+596,Call,Family/Friend,0-10,Freehold,Evening,0,1
+597,Call,Family/Friend,10-20,Freehold,Evening,0,1
+598,Call,Family/Friend,10-20,Freehold,Evening,0,1
+599,Other,Family/Friend,0-10,Freehold,Evening,0,1
+600,Other,Family/Friend,10-20,Freehold,Evening,0,1
+601,Other,Family/Friend,10-20,Freehold,Evening,0,1
+602,Other,Family/Friend,0-10,Freehold,Evening,0,1
+603,Text,Family/Friend,0-10,Freehold,Evening,0,1
+604,Boom Form,Family/Friend,10-20,Princeton,Evening,0,1
+605,Text,Family/Friend,10-20,Virtual,Evening,0,1
+606,Call,Family/Friend,10-20,Freehold,Evening,1,0
+607,Call,Family/Friend,20-30,Virtual,Evening,1,0
+608,Call,Family/Friend,30-40,Freehold,Morning,0,1
+609,Call,Family/Friend,70-80,Freehold,Morning,0,1
+610,Boom Form,Family/Friend,30-40,Princeton,Morning,0,1
+611,Boom Form,Family/Friend,40-50,Princeton,Morning,0,1
+612,Boom Form,Family/Friend,20-30,Princeton,Morning,0,1
+613,Boom Form,Family/Friend,30-40,Princeton,Morning,0,1
+614,Call,Family/Friend,30-40,Princeton,Morning,0,1
+615,Call,Family/Friend,20-30,Virtual,Morning,0,1
+616,Call,Family/Friend,20-30,Virtual,Morning,0,1
+617,Call,Family/Friend,30-40,Virtual,Morning,0,1
+618,Boom Form,Family/Friend,20-30,Freehold,Morning,1,0
+619,Call,Google or another search engine,40-50,Virtual,Afternoon,0,1
+620,Boom Form,Google or another search engine,10-20,Freehold,Afternoon,0,1
+621,Boom Form,Google or another search engine,20-30,Freehold,Afternoon,0,1
+622,Boom Form,Google or another search engine,30-40,Freehold,Afternoon,0,1
+623,Boom Form,Google or another search engine,20-30,Freehold,Afternoon,0,1
+624,Boom Form,Google or another search engine,50-60,Freehold,Afternoon,0,1
+625,Call,Google or another search engine,40-50,Freehold,Afternoon,0,1
+626,Call,Google or another search engine,10-20,Princeton,Afternoon,0,1
+627,Boom Form,Google or another search engine,40-50,Virtual,Afternoon,0,1
+628,Call,Google or another search engine,20-30,Virtual,Afternoon,0,1
+629,Call,Google or another search engine,10-20,Freehold,Afternoon,0,1
+630,Call,Google or another search engine,10-20,Freehold,Afternoon,0,1
+631,Call,Google or another search engine,40-50,Freehold,Evening,0,1
+632,Call,Google or another search engine,20-30,Freehold,Evening,0,1
+633,Call,Google or another search engine,40-50,Virtual,Evening,0,1
+634,Call,Google or another search engine,50-60,Virtual,Evening,0,1
+635,Boom Form,Google or another search engine,10-20,Freehold,Evening,0,1
+636,Boom Form,Google or another search engine,0-10,Freehold,Evening,0,1
+637,Call,Google or another search engine,0-10,Freehold,Evening,0,1
+638,Call,Google or another search engine,0-10,Freehold,Evening,0,1
+639,Call,Google or another search engine,0-10,Freehold,Evening,0,1
+640,Call,Google or another search engine,10-20,Freehold,Evening,0,1
+641,Call,Google or another search engine,0-10,Princeton,Evening,0,1
+642,Call,Google or another search engine,10-20,Princeton,Evening,0,1
+643,Boom Form,Google or another search engine,30-40,Freehold,Evening,1,0
+644,Call,Google or another search engine,20-30,Freehold,Evening,1,0
+645,Boom Form,Google or another search engine,40-50,Princeton,Evening,1,0
+646,Boom Form,Google or another search engine,50-60,Princeton,Evening,1,0
+647,Call,Google or another search engine,20-30,Princeton,Evening,1,0
+648,Boom Form,Google or another search engine,40-50,Freehold,Morning,0,1
+649,Call,Google or another search engine,30-40,Freehold,Morning,0,1
+650,Call,Google or another search engine,10-20,Virtual,Morning,0,1
+651,Boom Form,Healthcare Provider,20-30,Freehold,Afternoon,0,1
+652,Call,Healthcare Provider,40-50,Freehold,Afternoon,0,1
+653,Call,Healthcare Provider,70-80,Freehold,Afternoon,0,1
+654,Call,Healthcare Provider,60-70,Freehold,Afternoon,0,1
+655,Boom Form,Healthcare Provider,50-60,Princeton,Afternoon,0,1
+656,Call,Healthcare Provider,70-80,Princeton,Afternoon,0,1
+657,Call,Healthcare Provider,10-20,Princeton,Afternoon,0,1
+658,Boom Form,Healthcare Provider,10-20,Virtual,Afternoon,0,1
+659,Boom Form,Healthcare Provider,60-70,Virtual,Afternoon,0,1
+660,Boom Form,Healthcare Provider,20-30,Virtual,Afternoon,0,1
+661,Call,Healthcare Provider,30-40,Virtual,Afternoon,0,1
+662,Call,Healthcare Provider,20-30,Virtual,Afternoon,0,1
+663,Call,Healthcare Provider,20-30,Virtual,Afternoon,0,1
+664,Call,Healthcare Provider,40-50,Virtual,Afternoon,0,1
+665,Call,Healthcare Provider,0-10,Freehold,Afternoon,0,1
+666,Call,Healthcare Provider,10-20,Freehold,Afternoon,0,1
+667,Boom Form,Healthcare Provider,0-10,Princeton,Afternoon,0,1
+668,Call,Healthcare Provider,10-20,Princeton,Afternoon,0,1
+669,Boom Form,Healthcare Provider,30-40,Virtual,Evening,0,1
+670,Boom Form,Healthcare Provider,30-40,Virtual,Evening,0,1
+671,Boom Form,Healthcare Provider,20-30,Virtual,Evening,0,1
+672,Call,Healthcare Provider,20-30,Virtual,Evening,0,1
+673,Boom Form,Healthcare Provider,0-10,Freehold,Evening,0,1
+674,Call,Healthcare Provider,10-20,Freehold,Evening,0,1
+675,Call,Healthcare Provider,0-10,Freehold,Evening,0,1
+676,Boom Form,Healthcare Provider,0-10,Princeton,Evening,0,1
+677,Call,Healthcare Provider,0-10,Princeton,Evening,0,1
+678,Call,Healthcare Provider,0-10,Princeton,Evening,0,1
+679,Call,Healthcare Provider,10-20,Princeton,Evening,0,1
+680,Call,Healthcare Provider,10-20,Princeton,Evening,0,1
+681,Call,Healthcare Provider,10-20,Princeton,Evening,0,1
+682,Call,Healthcare Provider,10-20,Princeton,Evening,1,1
+683,Boom Form,Healthcare Provider,30-40,Princeton,Evening,1,0
+684,Boom Form,Healthcare Provider,10-20,Virtual,Evening,1,0
+685,Call,Healthcare Provider,30-40,Freehold,Morning,0,1
+686,Boom Form,Healthcare Provider,20-30,Freehold,Morning,0,1
+687,Call,Healthcare Provider,60-70,Freehold,Morning,0,1
+688,Boom Form,Healthcare Provider,40-50,Princeton,Morning,0,1
+689,Boom Form,Healthcare Provider,10-20,Princeton,Morning,0,1
+690,Boom Form,Healthcare Provider,40-50,Freehold,Morning,1,0
+691,Call,Healthcare Provider,20-30,Virtual,Morning,1,0
+692,Boom Form,Insurance Company,30-40,Freehold,Afternoon,0,1
+693,Boom Form,Insurance Company,20-30,Freehold,Afternoon,0,1
+694,Boom Form,Insurance Company,20-30,Freehold,Afternoon,0,1
+695,Boom Form,Insurance Company,30-40,Princeton,Afternoon,0,1
+696,Text,Insurance Company,0-10,Freehold,Afternoon,0,1
+697,Boom Form,Insurance Company,30-40,Princeton,Evening,0,1
+698,Boom Form,Insurance Company,0-10,Freehold,Evening,0,1
+699,Boom Form,Insurance Company,0-10,Freehold,Evening,0,1
+700,Call,Insurance Company,10-20,Freehold,Evening,0,1
+701,Boom Form,Insurance Company,0-10,Princeton,Evening,0,1
+702,Call,Insurance Company,10-20,Princeton,Evening,1,0
+703,Call,Insurance Company,20-30,Freehold,Morning,0,1
+704,Boom Form,Insurance Company,30-40,Virtual,Morning,0,1
+705,Boom Form,Insurance Company,40-50,Virtual,Morning,0,1
+706,Call,Internal TOL Referral ,20-30,Freehold,Afternoon,0,1
+707,Call,Internal TOL Referral ,40-50,Virtual,Afternoon,0,1
+708,Call,Internal TOL Referral ,40-50,Virtual,Evening,0,1
+709,Call,Internal TOL Referral ,20-30,Freehold,Evening,0,1
+710,Boom Form,Internal TOL Referral ,30-40,Virtual,Evening,0,1
+711,Call,Internal TOL Referral ,30-40,Virtual,Evening,0,1
+712,Call,Internal TOL Referral ,30-40,Virtual,Evening,0,1
+713,Call,Internal TOL Referral ,50-60,Virtual,Evening,0,1
+714,Call,Internal TOL Referral ,20-30,Virtual,Evening,0,1
+715,Call,Internal TOL Referral ,30-40,Virtual,Evening,0,1
+716,Call,Internal TOL Referral ,50-60,Virtual,Evening,0,1
+717,Call,Internal TOL Referral ,20-30,Virtual,Evening,0,1
+718,Call,Internal TOL Referral ,50-60,Virtual,Evening,0,1
+719,Call,Internal TOL Referral ,0-10,Princeton,Evening,0,1
+720,Call,Internal TOL Referral ,10-20,Princeton,Evening,0,1
+721,Boom Form,Internal TOL Referral ,10-20,Virtual,Evening,0,1
+722,Call,Internal TOL Referral ,10-20,Virtual,Evening,0,1
+723,Call,Internal TOL Referral ,50-60,Freehold,Morning,0,1
+724,Call,Internal TOL Referral ,40-50,Virtual,Morning,1,1
+725,Call,Internal TOL Referral ,20-30,Virtual,Morning,0,1
+726,Call,School District,40-50,Princeton,Afternoon,0,1
+727,Call,School District,10-20,Princeton,Afternoon,0,1
+728,Call,Social Media,50-60,Virtual,Afternoon,0,1
+729,Call,Social Media,0-10,Freehold,Evening,0,1
+730,Call,Social Media,10-20,Freehold,Evening,0,1
+731,Boom Form,Social Media,10-20,Princeton,Evening,0,1
+732,Boom Form,Social Media,0-10,Princeton,Evening,0,1
+733,Boom Form,Social Media,20-30,Virtual,Evening,1,0
+734,Call,Social Media,30-40,Freehold,Morning,0,1
+735,Boom Form,Social Media,40-50,Virtual,Morning,0,1
+736,Boom Form,Social Media,50-60,Virtual,Morning,0,1
+737,Call,Unknown,60-70,Freehold,Evening,0,1
+738,Call,Unknown,30-40,Virtual,Evening,0,1
+739,Call,Unknown,0-10,Freehold,Evening,0,1
+740,Call,Unknown,20-30,Virtual,Morning,0,1
+741,Call,Unknown,0-10,Freehold,Evening,0,1
+742,Call,Unknown,50-60,Virtual,Morning,0,1
+743,Call,Bariatric Doctor,50-60,Virtual,Afternoon,0,1
+744,Call,Family/Friend,40-50,Freehold,Afternoon,0,1
+745,Boom Form,Family/Friend,60-70,Freehold,Afternoon,0,1
+746,Call,Family/Friend,50-60,Freehold,Afternoon,0,1
+747,Call,Family/Friend,20-30,Freehold,Afternoon,0,1
+748,Call,Family/Friend,20-30,Freehold,Afternoon,0,1
+749,Call,Family/Friend,30-40,Freehold,Afternoon,0,1
+750,Boom Form,Family/Friend,20-30,Princeton,Afternoon,0,1
+751,Boom Form,Family/Friend,30-40,Virtual,Afternoon,0,1
+752,Boom Form,Family/Friend,40-50,Virtual,Afternoon,0,1
+753,Boom Form,Family/Friend,40-50,Virtual,Afternoon,0,1
+754,Boom Form,Family/Friend,30-40,Virtual,Afternoon,0,1
+755,Boom Form,Family/Friend,30-40,Virtual,Afternoon,0,1
+756,Boom Form,Family/Friend,20-30,Virtual,Afternoon,0,1
+757,Boom Form,Family/Friend,20-30,Virtual,Afternoon,0,1
+758,Call,Family/Friend,30-40,Virtual,Afternoon,0,1
+759,Call,Family/Friend,30-40,Virtual,Afternoon,0,1
+760,Call,Family/Friend,10-20,Princeton,Afternoon,0,1
+761,Boom Form,Family/Friend,10-20,Virtual,Afternoon,0,1
+762,Boom Form,Family/Friend,20-30,Virtual,Afternoon,1,0
+763,Call,Family/Friend,40-50,Virtual,Evening,0,1
+764,Other,Family/Friend,30-40,Virtual,Evening,0,1
+765,Call,Family/Friend,50-60,Freehold,Evening,0,1
+766,Boom Form,Family/Friend,30-40,Virtual,Evening,0,1
+767,Boom Form,Family/Friend,20-30,Virtual,Evening,0,1
+768,Boom Form,Family/Friend,50-60,Virtual,Evening,0,1
+769,Boom Form,Family/Friend,20-30,Virtual,Evening,0,1
+770,Boom Form,Family/Friend,40-50,Virtual,Evening,0,1
+771,Text,Family/Friend,50-60,Virtual,Evening,0,1
+772,Boom Form,Family/Friend,0-10,Freehold,Evening,0,1
+773,Call,Family/Friend,0-10,Freehold,Evening,0,1
+774,Call,Family/Friend,0-10,Freehold,Evening,0,1
+775,Call,Family/Friend,10-20,Freehold,Evening,0,1
+776,Call,Family/Friend,10-20,Freehold,Evening,0,1
+777,Boom Form,Family/Friend,0-10,Princeton,Evening,0,1
+778,Call,Family/Friend,10-20,Princeton,Evening,0,1
+779,Call,Family/Friend,40-50,Virtual,Morning,0,1
+780,Call,Family/Friend,40-50,Freehold,Morning,0,1
+781,Boom Form,Family/Friend,20-30,Princeton,Morning,0,1
+782,Boom Form,Family/Friend,20-30,Princeton,Morning,0,1
+783,Call,Family/Friend,20-30,Princeton,Morning,0,1
+784,Call,Family/Friend,20-30,Princeton,Morning,0,1
+785,Boom Form,Family/Friend,40-50,Virtual,Morning,0,1
+786,Boom Form,Family/Friend,30-40,Virtual,Morning,0,1
+787,Boom Form,Family/Friend,0-10,Princeton,Morning,0,1
+788,Boom Form,Family/Friend,20-30,Virtual,Morning,1,0
+789,Boom Form,Family/Friend,30-40,Virtual,Morning,1,0
+790,Call,Family/Friend,10-20,Virtual,Morning,1,0
+791,Other,Google or another search engine,20-30,Princeton,Afternoon,0,1
+792,Boom Form,Google or another search engine,50-60,Princeton,Afternoon,0,1
+793,Boom Form,Google or another search engine,20-30,Freehold,Afternoon,0,1
+794,Boom Form,Google or another search engine,20-30,Freehold,Afternoon,0,1
+795,Call,Google or another search engine,30-40,Freehold,Afternoon,0,1
+796,Boom Form,Google or another search engine,20-30,Princeton,Afternoon,0,1
+797,Boom Form,Google or another search engine,20-30,Princeton,Afternoon,0,1
+798,Boom Form,Google or another search engine,20-30,Princeton,Afternoon,0,1
+799,Boom Form,Google or another search engine,20-30,Virtual,Afternoon,0,1
+800,Call,Google or another search engine,20-30,Virtual,Afternoon,0,1
+801,Call,Google or another search engine,30-40,Virtual,Afternoon,0,1
+802,Call,Google or another search engine,40-50,Virtual,Afternoon,0,1
+803,Call,Google or another search engine,30-40,Virtual,Afternoon,0,1
+804,Call,Google or another search engine,10-20,Freehold,Afternoon,0,1
+805,Call,Google or another search engine,10-20,Freehold,Afternoon,0,1
+806,Call,Google or another search engine,20-30,Freehold,Afternoon,1,0
+807,Call,Google or another search engine,20-30,Freehold,Evening,0,1
+808,Call,Google or another search engine,30-40,Virtual,Evening,0,1
+809,Boom Form,Google or another search engine,0-10,Freehold,Evening,0,1
+810,Boom Form,Google or another search engine,10-20,Freehold,Evening,0,1
+811,Call,Google or another search engine,0-10,Freehold,Evening,0,1
+812,Call,Google or another search engine,10-20,Freehold,Evening,0,1
+813,Call,Google or another search engine,50-60,Freehold,Morning,0,1
+814,Boom Form,Google or another search engine,30-40,Virtual,Morning,0,1
+815,Call,Google or another search engine,20-30,Virtual,Morning,0,1
+816,Boom Form,Google or another search engine,30-40,Virtual,Morning,1,0
+817,Boom Form,Healthcare Provider,10-20,Virtual,Morning,1,0
+818,Call,Healthcare Provider,40-50,Princeton,Morning,0,1
+819,Boom Form,Healthcare Provider,40-50,Virtual,Evening,0,1
+820,Call,Healthcare Provider,0-10,Freehold,Afternoon,0,1
+821,Call,Healthcare Provider,20-30,Princeton,Afternoon,0,1
+822,Boom Form,Healthcare Provider,10-20,Freehold,Morning,0,1
+823,Call,Healthcare Provider,50-60,Virtual,Morning,0,1
+824,Call,Healthcare Provider,40-50,Princeton,Afternoon,0,1
+825,Call,Healthcare Provider,30-40,Virtual,Morning,0,1
+826,Boom Form,Healthcare Provider,40-50,Virtual,Evening,0,1
+827,Call,Healthcare Provider,10-20,Freehold,Evening,0,1
+828,Call,Healthcare Provider,10-20,Princeton,Evening,0,1
+829,Call,Healthcare Provider,30-40,Freehold,Afternoon,0,1
+830,Boom Form,Healthcare Provider,10-20,Virtual,Afternoon,1,0
+831,Call,Healthcare Provider,10-20,Virtual,Afternoon,0,1
+832,Call,Healthcare Provider,10-20,Princeton,Evening,1,0
+833,Boom Form,Healthcare Provider,20-30,Freehold,Evening,0,1
+834,Boom Form,Healthcare Provider,20-30,Princeton,Afternoon,0,1
+835,Call,Healthcare Provider,10-20,Freehold,Afternoon,0,1
+836,Boom Form,Healthcare Provider,0-10,Princeton,Afternoon,0,1
+837,Call,Healthcare Provider,50-60,Freehold,Afternoon,0,1
+838,Call,Healthcare Provider,30-40,Virtual,Afternoon,0,1
+839,Call,Healthcare Provider,10-20,Freehold,Evening,1,1
+840,Boom Form,Healthcare Provider,40-50,Virtual,Evening,1,0
+841,Boom Form,Healthcare Provider,20-30,Virtual,Evening,1,0
+842,Call,Healthcare Provider,20-30,Virtual,Afternoon,0,1
+843,Call,Healthcare Provider,40-50,Virtual,Evening,0,1
+844,Boom Form,Insurance Company,50-60,Princeton,Afternoon,0,1
+845,Call,Insurance Company,50-60,Princeton,Afternoon,0,1
+846,Boom Form,Insurance Company,30-40,Virtual,Afternoon,0,1
+847,Boom Form,Insurance Company,30-40,Virtual,Afternoon,0,1
+848,Call,Insurance Company,50-60,Virtual,Afternoon,0,1
+849,Boom Form,Insurance Company,30-40,Virtual,Evening,0,1
+850,Boom Form,Insurance Company,20-30,Virtual,Evening,0,1
+851,Call,Insurance Company,20-30,Virtual,Evening,0,1
+852,Call,Insurance Company,30-40,Freehold,Morning,0,1
+853,Boom Form,Insurance Company,20-30,Princeton,Morning,0,1
+854,Boom Form,Insurance Company,40-50,Princeton,Morning,0,1
+855,Call,Insurance Company,20-30,Princeton,Morning,0,1
+856,Boom Form,Insurance Company,20-30,Virtual,Morning,0,1
+857,Boom Form,Insurance Company,30-40,Virtual,Morning,1,0
+858,Boom Form,Insurance Company,20-30,Virtual,Morning,1,0
+859,Call,Internal TOL Referral ,20-30,Freehold,Evening,0,1
+860,Call,Internal TOL Referral ,20-30,Virtual,Morning,0,1
+861,Call,Internal TOL Referral ,10-20,Freehold,Afternoon,0,1
+862,Call,Internal TOL Referral ,10-20,Virtual,Afternoon,0,1
+863,Call,Internal TOL Referral ,50-60,Virtual,Afternoon,0,1
+864,Call,Internal TOL Referral ,20-30,Virtual,Afternoon,0,1
+865,Call,Internal TOL Referral ,30-40,Virtual,Evening,0,1
+866,Call,Internal TOL Referral ,20-30,Virtual,Morning,0,1
+867,Call,Internal TOL Referral ,30-40,Freehold,Afternoon,0,1
+868,Call,Internal TOL Referral ,30-40,Virtual,Afternoon,0,1
+869,Call,Internal TOL Referral ,30-40,Freehold,Evening,0,1
+870,Boom Form,Social Media,40-50,Virtual,Afternoon,0,1
+871,Call,Social Media,10-20,Freehold,Evening,0,1
+872,Call,Social Media,0-10,Freehold,Evening,0,1
+873,Call,Social Media,30-40,Virtual,Evening,1,0
+874,Call,Social Media,30-40,Freehold,Morning,0,1
+875,Call,Social Media,0-10,Freehold,Afternoon,0,1
+876,Call,Social Media,40-50,Virtual,Morning,0,1
+877,Boom Form,Unknown,40-50,Freehold,Afternoon,0,1
+878,Call,Unknown,40-50,Freehold,Afternoon,0,1
+879,Call,Unknown,20-30,Freehold,Afternoon,0,1
+880,Boom Form,Unknown,30-40,Freehold,Evening,0,1
+881,Call,Unknown,60-70,Freehold,Evening,0,1
+882,Call,Unknown,20-30,Virtual,Evening,0,1
+883,Boom Form,Family/Friend,50-60,Virtual,Evening,0,1
+884,Call,Google or another search engine,30-40,Princeton,Morning,1,0
+885,Boom Form,Insurance Company,40-50,Freehold,Morning,0,1
+886,Other,Google or another search engine,20-30,Princeton,Evening,0,1
+887,Call,Internal TOL Referral ,30-40,Freehold,Evening,0,1
+888,Boom Form,Family/Friend,30-40,Princeton,Evening,0,1
+889,Call,Social Media,10-20,Virtual,Evening,0,1
+890,Boom Form,Social Media,30-40,Virtual,Morning,1,0
+891,Call,Healthcare Provider,10-20,Freehold,Afternoon,0,1
+892,Boom Form,Internal TOL Referral ,0-10,Freehold,Evening,0,1
+893,Call,Family/Friend,30-40,Freehold,Afternoon,0,1
+894,Call,Insurance Company,20-30,Princeton,Afternoon,0,1
+895,Call,Alison D'Mello,10-20,Freehold,Afternoon,0,1
+896,Boom Form,Family/Friend,20-30,Virtual,Morning,0,1
+897,Call,Insurance Company,10-20,Freehold,Evening,0,1
+898,Call,Healthcare Provider,30-40,Virtual,Morning,1,0
+899,Other,Unknown,40-50,Freehold,Evening,0,1
+900,Other,Unknown,50-60,Princeton,Evening,0,1
+901,Boom Form,Google or another search engine,60-70,Freehold,Afternoon,0,1
+902,Call,Family/Friend,30-40,Virtual,Afternoon,0,1
+903,Boom Form,Family/Friend,30-40,Virtual,Evening,0,1
+904,Boom Form,Healthcare Provider,40-50,Virtual,Morning,0,1
+905,Boom Form,Family/Friend,30-40,Virtual,Morning,0,1
+906,Boom Form,Insurance Company,30-40,Princeton,Evening,0,1
+907,Call,Healthcare Provider,20-30,Virtual,Evening,0,1
+908,Boom Form,Family/Friend,20-30,Princeton,Evening,0,1
+909,Call,Internal TOL Referral ,30-40,Freehold,Morning,0,1
+910,Call,Insurance Company,30-40,Princeton,Morning,0,1
+911,Boom Form,Insurance Company,20-30,Freehold,Afternoon,0,1
+912,Other,Family/Friend,40-50,Princeton,Evening,0,1
+913,Boom Form,Google or another search engine,40-50,Princeton,Evening,0,1
+914,Boom Form,Family/Friend,30-40,Virtual,Afternoon,0,1
+915,Call,Insurance Company,50-60,Virtual,Morning,0,1
+916,Other,Family/Friend,30-40,Virtual,Afternoon,0,1
+917,Other,Family/Friend,40-50,Virtual,Morning,1,0
+918,Boom Form,Google or another search engine,20-30,Virtual,Afternoon,1,0
+919,Boom Form,Insurance Company,20-30,Virtual,Afternoon,0,1
+920,Boom Form,Healthcare Provider,10-20,Freehold,Afternoon,0,1
+921,Call,Google or another search engine,10-20,Virtual,Morning,0,1
+922,Boom Form,Family/Friend,30-40,Princeton,Evening,0,1
+923,Call,Insurance Company,10-20,Princeton,Evening,1,0
+924,Text,Family/Friend,50-60,Virtual,Afternoon,0,1
+925,Call,Family/Friend,20-30,Virtual,Evening,0,1
+926,Call,Insurance Company,30-40,Princeton,Afternoon,0,1
+927,Call,Family/Friend,50-60,Virtual,Afternoon,0,1
+928,Boom Form,Healthcare Provider,10-20,Princeton,Evening,0,1
+929,Boom Form,Family/Friend,20-30,Virtual,Evening,0,1
+930,Boom Form,Family/Friend,30-40,Virtual,Morning,0,1
+931,Call,Healthcare Provider,20-30,Freehold,Afternoon,0,1
+932,Call,Insurance Company,10-20,Princeton,Morning,1,0
+933,Call,Healthcare Provider,10-20,Princeton,Evening,1,0
+934,Call,Family/Friend,10-20,Virtual,Evening,0,1
+935,Boom Form,Google or another search engine,10-20,Princeton,Evening,0,1
+936,Call,Google or another search engine,40-50,Princeton,Evening,0,1
+937,Call,Family/Friend,0-10,Freehold,Morning,0,1
+938,Boom Form,Healthcare Provider,20-30,Virtual,Morning,1,0
+939,Call,Family/Friend,60-70,Freehold,Morning,0,1
+940,Boom Form,Family/Friend,20-30,Virtual,Afternoon,0,1
+941,Call,Healthcare Provider,50-60,Freehold,Morning,0,1
+942,Boom Form,Healthcare Provider,30-40,Virtual,Evening,0,1
+943,Boom Form,Family/Friend,20-30,Virtual,Evening,0,1
+944,Call,Family/Friend,50-60,Virtual,Evening,0,1
+945,Call,Healthcare Provider,10-20,Princeton,Evening,0,1
+946,Call,Social Media,10-20,Princeton,Evening,0,1
+947,Call,Family/Friend,20-30,Virtual,Afternoon,0,1
+948,Call,Insurance Company,50-60,Freehold,Morning,0,1
+949,Boom Form,Family/Friend,40-50,Virtual,Evening,0,1
+950,Boom Form,Family/Friend,10-20,Virtual,Evening,0,1
+951,Call,Social Media,10-20,Princeton,Evening,0,1
+952,Call,Family/Friend,10-20,Freehold,Afternoon,0,1
+953,Call,Family/Friend,30-40,Freehold,Afternoon,0,1
+954,Call,Insurance Company,30-40,Virtual,Afternoon,0,1
+955,Other,Unknown,30-40,Princeton,Morning,0,1
+956,Call,Internal TOL Referral,30-40,Virtual,Afternoon,0,1
+957,Boom Form,Google or another search engine,30-40,Princeton,Afternoon,0,1
+958,Call,Healthcare Provider,50-60,Princeton,Afternoon,0,1
+959,Boom Form,Healthcare Provider,20-30,Princeton,Evening,1,0
+960,Call,Insurance Company,30-40,Virtual,Evening,0,1
+961,Call,Healthcare Provider,30-40,Freehold,Morning,1,0
+962,Call,Healthcare Provider,20-30,Princeton,Evening,0,1
+963,Call,Healthcare Provider,10-20,Princeton,Afternoon,0,1
+964,Call,Google or another search engine,10-20,Freehold,Evening,0,1
+965,Call,Google or another search engine,20-30,Virtual,Evening,1,0
+966,Other,Unknown,30-40,Virtual,Afternoon,0,1
+967,Call,Insurance Company,40-50,Virtual,Morning,0,1
+968,Boom Form,Google or another search engine,20-30,Freehold,Afternoon,0,1
+969,Boom Form,Healthcare Provider,30-40,Virtual,Morning,1,0
+970,Boom Form,Family/Friend,30-40,Princeton,Evening,0,1
+971,Boom Form,Family/Friend,30-40,Virtual,Afternoon,0,1
+972,Call,Insurance Company,10-20,Freehold,Afternoon,0,1
+973,Call,Internal TOL Referral,40-50,Virtual,Afternoon,0,1
+974,Boom Form,Healthcare Provider,20-30,Virtual,Morning,1,0
+975,Call,Healthcare Provider,40-50,Virtual,Evening,1,0
+976,Call,Insurance Company,30-40,Virtual,Afternoon,0,1
+977,Boom Form,Family/Friend,60-70,Virtual,Evening,0,1
+978,Call,Google or another search engine,20-30,Virtual,Afternoon,0,1
+979,Boom Form,Google or another search engine,20-30,Virtual,Morning,0,1
+980,Call,Family/Friend,0-10,Freehold,Evening,0,1
+981,Call,Google or another search engine,10-20,Princeton,Evening,0,1
+982,Boom Form,Family/Friend,20-30,Princeton,Morning,0,1
+983,Boom Form,Google or another search engine,50-60,Princeton,Evening,0,1
+984,Boom Form,Healthcare Provider,40-50,Virtual,Morning,0,1
+985,Call,Family/Friend,0-10,Freehold,Afternoon,0,1
+986,Boom Form,Google or another search engine,50-60,Virtual,Afternoon,0,1
+987,Call,Google or another search engine,60-70,Virtual,Evening,1,0
+988,Boom Form,Unknown,20-30,Freehold,Morning,0,1
+989,Boom Form,Family/Friend,40-50,Virtual,Afternoon,0,1
+990,Boom Form,Healthcare Provider,10-20,Princeton,Evening,0,1
+991,Boom Form,Family/Friend,50-60,Virtual,Evening,0,1
+992,Boom Form,Google or another search engine,10-20,Princeton,Evening,0,1
+993,Boom Form,Family/Friend,20-30,Virtual,Evening,0,1
+994,Boom Form,Family/Friend,20-30,Virtual,Afternoon,0,1
+995,Call,Family/Friend,60-70,Princeton,Afternoon,0,1
+996,Boom Form,Healthcare Provider,40-50,Virtual,Morning,1,0
+997,Boom Form,Family/Friend,30-40,Virtual,Evening,1,0
+998,Boom Form,Healthcare Provider,40-50,Virtual,Morning,1,0
+999,Boom Form,Family/Friend,30-40,Virtual,Evening,1,0
+1000,Boom Form,Healthcare Provider,30-40,Virtual,Morning,0,1
+1001,Boom Form,Healthcare Provider,30-40,Virtual,Afternoon,0,1
+1002,Call,Unknown,30-40,Virtual,Morning,0,1
+1003,Call,Healthcare Provider,10-20,Princeton,Evening,0,1
+1004,Call,Insurance Company,10-20,Princeton,Afternoon,0,1
+1005,Boom Form,Insurance Company,20-30,Princeton,Morning,0,1
+1006,Boom Form,Google or another search engine,30-40,Princeton,Afternoon,0,1
+1007,Boom Form,Insurance Company,0-10,Freehold,Evening,0,1
+1008,Call,Google or another search engine,20-30,Freehold,Afternoon,0,1
+1009,Call,Family/Friend,30-40,Virtual,Morning,1,0
+1010,Call,Google or another search engine,20-30,Virtual,Evening,1,0
+1011,Other,Internal TOL Referral,0-10,Freehold,Afternoon,0,1
+1012,Boom Form,Healthcare Provider,30-40,Virtual,Morning,1,0
+1013,Boom Form,Google or another search engine,10-20,Virtual,Afternoon,0,1
+1014,Call,Internal TOL Referral,30-40,Virtual,Afternoon,0,1
+1015,Boom Form,Family/Friend,30-40,Princeton,Evening,0,1
+1016,Call,Google or another search engine,0-10,Freehold,Afternoon,0,1
+1017,Call,Insurance Company,40-50,Freehold,Morning,0,1
+1018,Call,Family/Friend,50-60,Freehold,Afternoon,0,1
+1019,Boom Form,Google or another search engine,30-40,Virtual,Evening,0,1
+1020,Call,Insurance Company,40-50,Freehold,Afternoon,0,1
+1021,Boom Form,Healthcare Provider,30-40,Virtual,Morning,1,0
+1022,Boom Form,Family/Friend,50-60,Princeton,Afternoon,0,1
+1023,Call,Healthcare Provider,20-30,Virtual,Evening,0,1
+1024,Call,Insurance Company,10-20,Freehold,Afternoon,0,1
+1025,Boom Form,Google or another search engine,10-20,Freehold,Evening,0,1
+1026,Call,Family/Friend,0-10,Freehold,Evening,0,1
+1027,Call,Google or another search engine,0-10,Princeton,Evening,0,1
+1028,Call,Family/Friend,20-30,Virtual,Morning,0,1
+1029,Other,Family/Friend,20-30,Virtual,Afternoon,1,0
+1030,Call,Healthcare Provider,0-10,Freehold,Afternoon,0,1
+1031,Call,Family/Friend,10-20,Freehold,Morning,1,0
+1032,Other,Family/Friend,10-20,Freehold,Afternoon,0,1
+1033,Boom Form,Family/Friend,40-50,Virtual,Afternoon,0,1
+1034,Waitlist,Other,20-30,Princeton,Evening,0,1
+1035,Unknown,Unknown,30-40,Freehold,Evening,0,1
+1036,Unknown,Unknown,30-40,Virtual,Afternoon,0,1
+1037,Unknown,Following Clinician,30-40,Virtual,Evening,0,1
+1038,Unknown,Unknown,30-40,Freehold,Afternoon,0,1
+1039,Unknown,Unknown,30-40,Virtual,Evening,0,1
+1040,Unknown,Referred by Family/Friend,30-40,Virtual,Morning,0,1
+1041,Unknown,Referred by Family/Friend,30-40,Virtual,Morning,0,1
+1042,Unknown,Unknown,30-40,Virtual,Evening,0,1
+1043,Unknown,Referred by Insurance,30-40,Princeton,Afternoon,0,1
+1044,Unknown,Referred by Insurance,30-40,Princeton,Afternoon,0,1
+1045,Unknown,Client of Alyssa,30-40,Freehold,Evening,1,0
+1046,Unknown,Google Referral,30-40,Virtual,Evening,1,0
+1047,Unknown,Healthcare Provider,30-40,Virtual,Morning,1,0
+1048,Unknown,Unknown,30-40,Virtual,Morning,1,0
+1049,Unknown,Unknown,30-40,Virtual,Afternoon,0,1
+1050,Other,Unknown,30-40,Virtual,Afternoon,0,1
+1051,Other,Healthcare Provider,30-40,Freehold,Afternoon,0,1
+1052,Call,Following Clinician,30-40,Virtual,Afternoon,0,1
+1053,Call,Unknown,30-40,Virtual,Afternoon,0,1
+1054,Boom,Google or another search engine,30-40,Virtual,Afternoon,0,1
+1055,Other,Unknown,30-40,Virtual,Morning,0,1
+1056,Call,Other,60-70,Virtual,Morning,0,1
+1057,Unknown,Client of Alexis,30-40,Freehold,Evening,1,0
+1058,Other,Unknown,50-60,Virtual,Morning,0,0
+1059,Unknown,Unknown,30-40,Virtual,Afternoon,0,0
+1060,Other,Unknown,30-40,Virtual,Evening,0,0
+1061,Unknown,Client of Marissa,30-40,Freehold,Afternoon,1,0
+1062,Waitlist,Other,10-20,Princeton,Afternoon,0,1
+1063,Call,Unknown,30-40,Virtual,Morning,1,0
+1064,Waitlist,Other,30-40,Freehold,Morning,0,0
+1065,Unknown,Unknown,30-40,Freehold,Morning,1,0
+1066,Unknown,Unknown,30-40,Virtual,Afternoon,1,0
+1067,Other,Unknown,10-20,Virtual,Evening,0,0
+1068,Unknown,Unknown,30-40,Virtual,Afternoon,0,0
+1069,Unknown,Unknown,30-40,Freehold,Evening,0,0
+1070,Unknown,Unknown,30-40,Princeton,Afternoon,0,0
+1071,Other,Unknown,30-40,Virtual,Afternoon,0,0
+1072,Waitlist,Other,10-20,Freehold,Evening,0,1
+1073,Unknown,Following Clinician,30-40,Virtual,Morning,0,1
+1074,Waitlist,Unknown,10-20,Virtual,Evening,0,0
+1075,Unknown,Unknown,30-40,Virtual,Morning,0,0
+1076,Unknown,Unknown,30-40,Freehold,Afternoon,0,0
+1077,Waitlist,Family/Friend,10-20,Princeton,Evening,0,1
+1078,Other,Family/Friend,30-40,Virtual,Morning,1,0
+1079,Other,Unknown,50-60,Virtual,Evening,0,0
+1080,Unknown,Following Clinician,30-40,Freehold,Afternoon,0,1
+1081,Waitlist,Family/Friend,10-20,Freehold,Afternoon,0,1
+1082,Boom,Google or another search engine,20-30,Virtual,Morning,0,1
+1083,Waitlist,Social Media,30-40,Virtual,Afternoon,0,1
+1084,Call,Other,30-40,Virtual,Morning,0,1
+1085,Unknown,Family/Friend,30-40,Virtual,Afternoon,1,0
+1086,Unknown,Unknown,30-40,Virtual,Morning,0,0
+1087,Unknown,Other,20-30,Virtual,Morning,0,0
+1088,Unknown,Unknown,30-40,Freehold,Afternoon,1,0
+1089,Unknown,Other,20-30,Virtual,Morning,0,0
+1090,Unknown,Unknown,30-40,Virtual,Evening,1,0
+1091,Other,Unknown,10-20,Freehold,Morning,0,0
+1092,Other,Unknown,30-40,Freehold,Evening,0,0
+1093,Other,Other,10-20,Freehold,Evening,0,0
+1094,Other,Unknown,20-30,Princeton,Morning,0,0
+1095,Other,Unknown,10-20,Freehold,Afternoon,0,0
+1096,Unknown,Unknown,30-40,Virtual,Evening,0,0
+1097,Other,Unknown,40-50,Freehold,Afternoon,0,0
+1098,Other,Unknown,10-20,Princeton,Afternoon,0,0
+1099,Waitlist,Other,10-20,Princeton,Evening,0,1
+1100,Call,Insurance Company,30-40,Freehold,Afternoon,0,1
+1101,Unknown,Other,30-40,Virtual,Evening,1,0
+1102,Call,Other,30-40,Virtual,Morning,1,0
+1103,Unknown,Unknown,30-40,Freehold,Morning,1,0
+1104,Other,Unknown,0-10,Freehold,Evening,0,0
+1105,Boom,Social Media,20-30,Virtual,Morning,0,1
+1106,Unknown,Other,20-30,Freehold,Evening,0,0
+1107,Call,Other,30-40,Princeton,Morning,1,0
+1108,Unknown,Unknown,30-40,Virtual,Afternoon,1,0
+1109,Unknown,Unknown,30-40,Virtual,Afternoon,1,0
+1110,Other,Other,10-20,Princeton,Afternoon,0,0
+1111,Call,Healthcare Provider,30-40,Freehold,Morning,1,0
+1112,Call,Healthcare Provider,30-40,Virtual,Afternoon,0,1
+1113,Unknown,Unknown,30-40,Freehold,Afternoon,1,0
+1114,Other,Unknown,30-40,Virtual,Evening,0,0
+1115,Other,Other,10-20,Virtual,Morning,1,0
+1116,Unknown,Unknown,30-40,Freehold,Morning,1,0
+1117,Call,Other,30-40,Virtual,Evening,1,0
+1118,Call,Following Clinician,10-20,Freehold,Afternoon,0,1
+1119,Call,Other,40-50,Virtual,Morning,1,0
+1120,Other,Other,40-50,Freehold,Evening,0,0
+1121,Other,Other,50-60,Freehold,Morning,0,0
+1122,Waitlist,Family/Friend,10-20,Freehold,Afternoon,0,1
+1123,Other,Other,30-40,Virtual,Afternoon,0,0
+1124,Call,Following Clinician,30-40,Princeton,Afternoon,1,0
+1125,Other,Unknown,30-40,Virtual,Morning,0,0
+1126,Call,Google or another search engine,40-50,Virtual,Afternoon,0,1
+1127,Other,Other,10-20,Freehold,Afternoon,0,0
+1128,Other,Other,10-20,Freehold,Afternoon,0,0
+1129,Unknown,Unknown,30-40,Freehold,Morning,1,0
+1130,Waitlist,Following Clinician,20-30,Virtual,Evening,0,1
+1131,Unknown,Following Clinician,10-20,Freehold,Afternoon,0,0
+1132,Boom,Insurance Company,30-40,Virtual,Afternoon,0,1
+1133,Other,Other,30-40,Virtual,Morning,1,0
+1134,Other,Unknown,30-40,Virtual,Morning,1,0
+1135,Call,Other,30-40,Princeton,Afternoon,1,0
+1136,Unknown,Other,20-30,Virtual,Afternoon,0,0
+1137,Waitlist,Following Clinician,50-60,Freehold,Afternoon,0,1
+1138,Call,Other,50-60,Freehold,Afternoon,0,1
+1139,Other,Other,60-70,Virtual,Afternoon,0,0
+1140,Waitlist,Family/Friend,10-20,Freehold,Afternoon,0,1
+1141,Call,Insurance Company,30-40,Virtual,Afternoon,1,0
+1142,Other,Other,30-40,Virtual,Afternoon,0,0
+1143,Boom,Family/Friend,20-30,Freehold,Morning,0,1
+1144,Call,Social Media,30-40,Freehold,Morning,0,1
+1145,Call,Following Clinician,20-30,Virtual,Afternoon,1,0
+1146,Call,Other,20-30,Virtual,Afternoon,1,0
+1147,Other,Healthcare Provider,10-20,Princeton,Afternoon,0,1
+1148,Other,Unknown,30-40,Freehold,Morning,1,0
+1149,Other,Other,50-60,Virtual,Afternoon,0,1
+1150,Boom,Family/Friend,40-50,Princeton,Afternoon,1,0
+1151,Other,Other,50-60,Freehold,Morning,1,0
+1152,Boom,Family/Friend,0-10,Princeton,Evening,1,0
+1153,Unknown,Unknown,30-40,Virtual,Afternoon,0,0
+1154,Boom,Non-Profit Organization,40-50,Virtual,Afternoon,1,0
+1155,Boom,Family/Friend,10-20,Virtual,Afternoon,0,1
+1156,Other,Unknown,40-50,Freehold,Morning,1,0
+1157,Call,Other,50-60,Virtual,Morning,1,0
+1158,Call,Unknown,30-40,Freehold,Evening,1,0
+1159,Boom,Family/Friend,30-40,Virtual,Evening,1,0
+1160,Other,Other,30-40,Virtual,Morning,1,0
+1161,Boom,Other,30-40,Virtual,Morning,0,1
+1162,Waitlist,Google or another search engine,0-10,Freehold,Afternoon,0,1
+1163,Boom,Healthcare Provider,20-30,Virtual,Evening,1,0
+1164,Boom,Insurance Company,20-30,Virtual,Afternoon,0,1
+1165,Waitlist,Other,40-50,Freehold,Afternoon,0,1
+1166,Other,Other,10-20,Virtual,Afternoon,1,0
+1167,Boom,Healthcare Provider,30-40,Virtual,Afternoon,1,1
+1168,Boom,Healthcare Provider,50-60,Freehold,Afternoon,0,1
+1169,Call,Social Media,40-50,Virtual,Morning,0,1
+1170,Waitlist,Insurance Company,40-50,Freehold,Evening,0,1
+1171,Call,Other,20-30,Freehold,Afternoon,0,1
+1172,Waitlist,Family/Friend,50-60,Princeton,Evening,0,1
+1173,Call,Healthcare Provider,30-40,Virtual,Morning,1,0
+1174,Boom,Google or another search engine,10-20,Freehold,Afternoon,0,1
+1175,Call,Google or another search engine,40-50,Virtual,Afternoon,1,0
+1176,Other,Other,30-40,Virtual,Afternoon,1,0
+1177,Boom,Family/Friend,30-40,Virtual,Afternoon,1,0
+1178,Waitlist,Other,10-20,Princeton,Evening,0,1
+1179,Boom,Family/Friend,30-40,Virtual,Afternoon,0,1
+1180,Boom,Healthcare Provider,10-20,Freehold,Morning,1,0
+1181,Call,Following Clinician,20-30,Freehold,Morning,1,0
+1182,Other,Other,30-40,Freehold,Afternoon,0,1
+1183,Call,Other,20-30,Virtual,Evening,1,0
+1184,Other,Following Clinician,10-20,Freehold,Afternoon,1,0
+1185,Boom,Healthcare Provider,50-60,Virtual,Afternoon,0,1
+1186,Boom,Family/Friend,10-20,Freehold,Afternoon,0,1
+1187,Boom,Google or another search engine,30-40,Virtual,Afternoon,1,0
+1188,Call,Other,40-50,Virtual,Afternoon,1,0
+1189,Call,Other,10-20,Freehold,Afternoon,1,0
+1190,Call,Google or another search engine,40-50,Freehold,Morning,0,1
+1191,Other,Other,20-30,Freehold,Morning,1,0
+1192,Call,Google or another search engine,30-40,Freehold,Morning,0,1
+1193,Boom,Healthcare Provider,20-30,Princeton,Afternoon,1,1
+1194,Boom,Social Media,10-20,Virtual,Morning,0,1
+1195,Waitlist,Healthcare Provider,0-10,Princeton,Evening,0,1
+1196,Call,Healthcare Provider,20-30,Virtual,Evening,1,0
+1197,Boom,Healthcare Provider,20-30,Virtual,Morning,1,0
+1198,Call,Family/Friend,20-30,Virtual,Evening,1,0
+1199,Call,Other,10-20,Freehold,Afternoon,0,1
+1200,Waitlist,Other,30-40,Freehold,Evening,0,1
+1201,Waitlist,Other,10-20,Princeton,Evening,0,1
+1202,Waitlist,Family/Friend,10-20,Freehold,Afternoon,0,1
+1203,Waitlist,Social Media,20-30,Virtual,Evening,0,1
+1204,Waitlist,Family/Friend,10-20,Princeton,Evening,0,1
+1205,Other,Other,30-40,Freehold,Afternoon,0,1
+1206,Waitlist,Healthcare Provider,30-40,Princeton,Evening,0,1
+1207,Boom,Insurance Company,30-40,Virtual,Afternoon,0,1
+1208,Boom,Healthcare Provider,30-40,Virtual,Afternoon,1,0
+1209,Boom,Family/Friend,10-20,Virtual,Afternoon,0,1
+1210,Boom,Family/Friend,50-60,Freehold,Afternoon,1,1
+1211,Call,Healthcare Provider,10-20,Freehold,Morning,1,0
+1212,Call,Other,10-20,Princeton,Evening,1,0
+1213,Waitlist,Family/Friend,30-40,Virtual,Afternoon,0,1
+1214,Waitlist,Healthcare Provider,40-50,Princeton,Afternoon,1,0
+1215,Boom,Family/Friend,20-30,Freehold,Afternoon,0,1
+1216,Waitlist,Healthcare Provider,10-20,Freehold,Afternoon,0,1
+1217,Call,Healthcare Provider,30-40,Virtual,Evening,1,0
+1218,Boom,Social Media,50-60,Freehold,Evening,1,0
+1219,Call,Other,20-30,Virtual,Morning,1,0
+1220,Call,Family/Friend,30-40,Freehold,Evening,1,0
+1221,Boom,Family/Friend,30-40,Virtual,Afternoon,1,1
+1222,Boom,Healthcare Provider,30-40,Virtual,Afternoon,0,1
+1223,Call,Family/Friend,30-40,Virtual,Morning,1,0
+1224,Boom,Healthcare Provider,30-40,Freehold,Morning,0,1
+1225,Call,Family/Friend,30-40,Freehold,Morning,0,1
+1226,Unknown,Unknown,30-40,Freehold,Afternoon,0,1
+1227,Unknown,Unknown,30-40,Princeton,Morning,0,1
+1228,Unknown,Unknown,30-40,Virtual,Afternoon,0,1
+1229,Unknown,Unknown,30-40,Freehold,Afternoon,0,1
+1230,Unknown,Unknown,30-40,Freehold,Afternoon,0,1
+1231,Unknown,Unknown,30-40,Freehold,Morning,0,1
+1232,Unknown,Unknown,30-40,Freehold,Afternoon,0,1
+1233,Unknown,Unknown,30-40,Freehold,Morning,0,1
+1234,Unknown,Unknown,30-40,Virtual,Afternoon,1,0
+1235,Unknown,Unknown,30-40,Virtual,Morning,1,0
+1236,Unknown,Unknown,30-40,Freehold,Afternoon,0,1
+1237,Unknown,Unknown,30-40,Virtual,Evening,0,1
+1238,Unknown,Unknown,30-40,Virtual,Morning,0,1
+1239,Call,Google or another search engine,30-40,Princeton,Morning,0,1
+1240,Call,Family/Friend,30-40,Virtual,Morning,1,0
+1241,Unknown,Unknown,30-40,Virtual,Afternoon,0,1
+1242,Unknown,Unknown,30-40,Freehold,Evening,1,0
+1243,Unknown,Unknown,30-40,Virtual,Evening,1,0
+1244,Unknown,Unknown,30-40,Freehold,Evening,1,0
+1245,Unknown,"Referred by Family Member; GA confirmed over phone with mom when booking that insurance on file is still active -  member ID, effective date, and group ID are all the same",30-40,Princeton,Evening,0,1
+1246,Unknown,Unknown,30-40,Freehold,Evening,0,1
+1247,Call,Other,30-40,Freehold,Morning,0,1
+1248,Unknown,Unknown,30-40,Princeton,Afternoon,0,1
+1249,Waitlist,Family/Friend,30-40,Freehold,Evening,0,1
+1250,Unknown,Unknown,30-40,Freehold,Morning,1,0
+1251,Unknown,Unknown,30-40,Freehold,Evening,1,0
+1252,Other,Healthcare Provider,30-40,Virtual,Morning,1,0
+1253,Unknown,Returning Client,30-40,Freehold,Afternoon,0,1
+1254,Unknown,Returning Client,30-40,Freehold,Afternoon,0,1
+1255,Unknown,Unknown,30-40,Freehold,Morning,0,1
+1256,Call,Following Clinician,30-40,Virtual,Morning,1,1
+1257,Unknown,Following Clinician,30-40,Virtual,Afternoon,0,1
+1258,Boom,Healthcare Provider,30-40,Princeton,Afternoon,0,1
+1259,Unknown,Current Client,30-40,Freehold,Afternoon,0,1
+1260,Unknown,Unknown,30-40,Princeton,Evening,0,1
+1261,Unknown,Current Client,30-40,Virtual,Evening,0,1
+1262,Unknown,Following Clinician,30-40,Virtual,Morning,0,1
+1263,Unknown,Unknown,30-40,Virtual,Morning,1,0
+1264,Unknown,Unknown,30-40,Virtual,Morning,1,0
+1265,Unknown,Unknown,30-40,Virtual,Afternoon,0,1
+1266,Unknown,Unknown,30-40,Freehold,Evening,0,1
+1267,Unknown,Unknown,30-40,Freehold,Evening,0,1
+1268,Unknown,Unknown,30-40,Virtual,Evening,0,1
+1269,Unknown,Unknown,30-40,Virtual,Evening,0,1
+1270,Waitlist,Unknown,30-40,Freehold,Evening,0,1
+1271,Unknown,Unknown,30-40,Freehold,Morning,0,1
+1272,Unknown,Following Clinician,30-40,Virtual,Morning,0,1
+1273,Call,Unknown,30-40,Virtual,Morning,0,1
+1274,Unknown,Unknown,30-40,Virtual,Afternoon,0,1
+1275,Unknown,Unknown,30-40,Virtual,Afternoon,0,1
+1276,Unknown,Referred from Genpsych,30-40,Freehold,Evening,0,1
+1277,Unknown,Unknown,30-40,Virtual,Evening,1,0
+1278,Waitlist,Unknown,30-40,Virtual,Evening,0,1
+1279,Unknown,Following Clinician,30-40,Virtual,Morning,0,1
+1280,Boom,Healthcare Provider,30-40,Virtual,Morning,0,1
+1281,Unknown,Referred by Family/Friend,30-40,Virtual,Afternoon,0,1
+1282,Unknown,Unknown,30-40,Princeton,Afternoon,0,1
+1283,Unknown,Referred by friend/family,30-40,Freehold,Morning,1,0
+1284,Boom,Insurance Company,30-40,Freehold,Morning,1,1
+1285,Boom,Family/Friend,30-40,Virtual,Afternoon,0,1
+1286,Unknown,Following Clinician,30-40,Virtual,Afternoon,0,1
+1287,Unknown,Unknown,30-40,Virtual,Afternoon,0,1
+1288,Unknown,Unknown,30-40,Princeton,Evening,0,1
+1289,Boom,Healthcare Provider,30-40,Virtual,Morning,0,1
+1290,Virtual,Unknown,30-40,Virtual,Evening,0,1
+1291,Unknown,Following Clinician,30-40,Virtual,Evening,0,1
+1292,Unknown,Following Clinician,30-40,Virtual,Morning,0,1
+1293,Other,Unknown,30-40,Virtual,Morning,0,1
+1294,Unknown,Client of Ariella,30-40,Virtual,Morning,0,1
+1295,Boom,Healthcare Provider,30-40,Virtual,Morning,0,1
+1296,Unknown,Unknown,30-40,Virtual,Afternoon,1,0
+1297,Unknown,Referred by Family Member,30-40,Virtual,Afternoon,1,1
+1298,Unknown,Referred by Insurance Provider,30-40,Virtual,Afternoon,1,0
+1299,Unknown,Following Clinician,30-40,Virtual,Morning,0,1
+1300,Boom,Google or another search engine,30-40,Freehold,Afternoon,0,1
+1301,Waitlist,Insurance Company,30-40,Freehold,Afternoon,0,1
+1302,Unknown,Following Clinician,30-40,Virtual,Evening,0,1
+1303,Other,Unknown,30-40,Freehold,Morning,0,1
+1304,Waitlist,Google or another search engine,30-40,Virtual,Afternoon,0,1
+1305,Call,Following Clinician,30-40,Virtual,Afternoon,0,1
+1306,Unknown,Unknown,30-40,Virtual,Morning,0,1
+1307,Call,Google or another search engine,30-40,Princeton,Morning,0,1
+1308,Unknown,Healthcare Provider,30-40,Virtual,Morning,1,0
+1309,Call,Following Clinician,30-40,Virtual,Afternoon,0,1
+1310,Call,Following Clinician,30-40,Virtual,Afternoon,0,1
+1311,Boom,Insurance Company,30-40,Princeton,Afternoon,0,1
+1312,Waitlist,Insurance Company,30-40,Virtual,Afternoon,0,1
+1313,Boom,Healthcare Provider,30-40,Virtual,Afternoon,0,1
+1314,Other,Following Clinician,30-40,Virtual,Afternoon,0,1
+1315,Waitlist,Google or another search engine,30-40,Freehold,Afternoon,0,1
+1316,Waitlist,Google or another search engine,30-40,Freehold,Evening,0,1
+1317,Unknown,Following Clinician,30-40,Virtual,Evening,0,1
+1318,Waitlist,Family/Friend,30-40,Freehold,Evening,0,1
+1319,Call,Following Clinician,30-40,Virtual,Morning,0,1
+1320,Unknown,Following Clinician,30-40,Virtual,Afternoon,0,1
+1321,Boom,Insurance Company,30-40,Virtual,Afternoon,0,1
+1322,Boom,Google or another search engine,30-40,Virtual,Afternoon,0,1
+1323,Call,Insurance Company,30-40,Freehold,Afternoon,0,1
+1324,Other,Social Media,30-40,Virtual,Afternoon,1,0
+1325,Waitlist,Google or another search engine,30-40,Princeton,Evening,0,1
+1326,Call,Following Clinician,30-40,Virtual,Evening,0,1
+1327,Unknown,Following Clinician,30-40,Virtual,Evening,0,1
+1328,Unknown,Family/Friend,30-40,Freehold,Evening,1,0
+1329,Call,Following Clinician,30-40,Freehold,Morning,0,1
+1330,Call,Other,30-40,Virtual,Morning,0,1
+1331,Call,Following Clinician,30-40,Virtual,Afternoon,0,1
+1332,Boom,Healthcare Provider,30-40,Virtual,Afternoon,0,1
+1333,Unknown,Unknown,30-40,Freehold,Evening,1,0
+1334,Unknown,Healthcare Provider,30-40,Virtual,Afternoon,1,0
+1335,Unknown,3rd Party Website,30-40,Virtual,Evening,1,0
+1336,Waitlist,Unknown,30-40,Freehold,Evening,0,1
+1337,Waitlist,Google or another search engine,30-40,Freehold,Evening,0,1
+1338,Boom,Family/Friend,30-40,Princeton,Morning,0,1
+1339,Waitlist,Other,30-40,Freehold,Afternoon,0,1
+1340,Unknown,Unknown,30-40,Virtual,Afternoon,1,0
+1341,Boom,Family/Friend,30-40,Freehold,Afternoon,0,1
+1342,Unknown,Unknown,30-40,Freehold,Morning,1,0
+1343,Waitlist,Social Media,30-40,Virtual,Afternoon,0,1
+1344,Boom,Family/Friend,30-40,Freehold,Afternoon,1,1
+1345,Unknown,Following Clinician,30-40,Freehold,Morning,0,0
+1346,Unknown,Other,30-40,Virtual,Morning,1,0
+1347,Boom,Family/Friend,30-40,Freehold,Morning,0,1
+1348,Call,Other,30-40,Freehold,Evening,0,1
+1349,Call,Following Clinician,30-40,Virtual,Evening,0,1
+1350,Call,Social Media,30-40,Virtual,Morning,0,1
+1351,Call,Family/Friend,30-40,Princeton,Afternoon,0,1
+1352,Call,Other,30-40,Virtual,Morning,0,1
+1353,Call,Social Media,30-40,Virtual,Afternoon,0,1
+1354,Unknown,Unknown,30-40,Virtual,Morning,1,0
+1355,Call,Family/Friend,30-40,Freehold,Afternoon,0,1
+1356,Waitlist,Family/Friend,30-40,Freehold,Afternoon,0,1
+1357,Waitlist,Insurance Company,30-40,Virtual,Afternoon,0,1
+1358,Call,Healthcare Provider,30-40,Virtual,Afternoon,0,1
+1359,Unknown,Unknown,30-40,Princeton,Evening,0,1
+1360,Unknown,Google or another search engine,30-40,Virtual,Morning,1,0
+1361,Boom,Google or another search engine,30-40,Virtual,Morning,0,1
+1362,Other,Other,30-40,Princeton,Afternoon,0,0
+1363,Call,Following Clinician,30-40,Virtual,Afternoon,0,1
+1364,Waitlist,Google or another search engine,30-40,Princeton,Afternoon,0,1
+1365,Waitlist,Healthcare Provider,30-40,Freehold,Afternoon,0,1
+1366,Unknown,Healthcare Provider,30-40,Virtual,Afternoon,1,0
+1367,Waitlist,Healthcare Provider,30-40,Freehold,Afternoon,0,1
+1368,Waitlist,Family/Friend,30-40,Freehold,Afternoon,0,1
+1369,Unknown,Social Media,30-40,Virtual,Evening,1,0
+1370,Waitlist,Family/Friend,30-40,Princeton,Evening,0,1
+1371,Boom,Family/Friend,30-40,Princeton,Evening,0,1
+1372,Waitlist,Family/Friend,30-40,Princeton,Evening,0,1
+1373,Call,Other,30-40,Freehold,Morning,0,1
+1374,Call,Other,30-40,Freehold,Afternoon,1,0
+1375,Waitlist,Other,30-40,Freehold,Afternoon,0,1
+1376,Boom,Family/Friend,30-40,Freehold,Afternoon,0,1
+1377,Boom,Family/Friend,30-40,Freehold,Morning,0,1
+1378,Boom,Google or another search engine,30-40,Freehold,Afternoon,0,1
+1379,Call,Other,30-40,Virtual,Morning,1,0
+1380,Waitlist,Family/Friend,30-40,Virtual,Afternoon,0,1
+1381,Call,Following Clinician,30-40,Freehold,Afternoon,0,1
+1382,Unknown,Referred by Family/Friend,30-40,Freehold,Evening,0,1
+1383,Waitlist,Other,30-40,Freehold,Evening,0,1
+1384,Boom,Insurance Company,30-40,Virtual,Morning,1,1
+1385,Boom,Insurance Company,30-40,Virtual,Afternoon,0,1
+1386,Boom,Google or another search engine,30-40,Virtual,Afternoon,0,1
+1387,Waitlist,Other,30-40,Freehold,Afternoon,0,1
+1388,Unknown,Other,30-40,Virtual,Afternoon,0,1
+1389,Other,Family/Friend,30-40,Virtual,Afternoon,0,1
+1390,Call,Healthcare Provider,30-40,Virtual,Evening,1,0
+1391,Boom,Insurance Company,30-40,Virtual,Afternoon,0,1
+1392,Boom,Healthcare Provider,30-40,Virtual,Afternoon,1,0
+1393,Call,Following Clinician,30-40,Virtual,Afternoon,1,0
+1394,Boom,Healthcare Provider,30-40,Virtual,Afternoon,0,1
+1395,Boom,Family/Friend,30-40,Freehold,Morning,0,1
+1396,Boom,Insurance Company,30-40,Virtual,Morning,0,1
+1397,Waitlist,Family/Friend,30-40,Virtual,Evening,0,1
+1398,Boom,Family/Friend,30-40,Freehold,Afternoon,0,1
+1399,Boom,Family/Friend,30-40,Princeton,Morning,1,1
+1400,Boom,Google or another search engine,30-40,Freehold,Morning,0,1
+1401,Waitlist,Other,30-40,Freehold,Evening,0,1
+1402,Other,Family/Friend,30-40,Freehold,Afternoon,0,1
+1403,Call,Insurance Company,30-40,Freehold,Afternoon,0,1
+1404,Boom,Google or another search engine,30-40,Virtual,Afternoon,0,1
+1405,Call,Insurance Company,30-40,Virtual,Afternoon,0,1
+1406,Boom,Healthcare Provider,30-40,Freehold,Afternoon,1,1
+1407,Waitlist,Other,30-40,Princeton,Afternoon,1,1
+1408,Call,Healthcare Provider,30-40,Virtual,Afternoon,0,1
+1409,Call,Healthcare Provider,30-40,Virtual,Morning,1,0
+1410,Call,Social Media,30-40,Freehold,Morning,0,1
+1411,Boom,Social Media,30-40,Virtual,Afternoon,1,0
+1412,Call,Following Clinician,30-40,Freehold,Afternoon,0,1
+1413,Call,Other,30-40,Virtual,Afternoon,0,1
+1414,Call,Healthcare Provider,30-40,Princeton,Afternoon,0,1
+1415,Boom,Family/Friend,30-40,Virtual,Evening,0,1
+1416,Call,Healthcare Provider,30-40,Freehold,Afternoon,0,1
+1417,Call,Family/Friend,30-40,Freehold,Afternoon,0,1
+1418,Unknown,Unknown,30-40,Freehold,Evening,0,1
+1419,Call,Healthcare Provider,30-40,Princeton,Morning,1,0
+1420,Waitlist,Insurance Company,30-40,Freehold,Afternoon,0,1
+1421,Boom,Social Media,30-40,Virtual,Morning,1,0
+1422,Call,Family/Friend,30-40,Freehold,Afternoon,0,1
+1423,Call,Family/Friend,30-40,Freehold,Afternoon,0,1
+1424,Call,Family/Friend,30-40,Princeton,Morning,0,1
+1425,Boom,Healthcare Provider,30-40,Princeton,Afternoon,0,1
+1426,Call,Family/Friend,30-40,Freehold,Afternoon,0,1
+1427,Waitlist,Google or another search engine,30-40,Princeton,Afternoon,0,1
+1428,Boom,Family/Friend,30-40,Freehold,Afternoon,1,1
+1429,Waitlist,Other,30-40,Princeton,Afternoon,0,1
+1430,Boom,Healthcare Provider,30-40,Virtual,Afternoon,0,1
+1431,Waitlist,Family/Friend,30-40,Virtual,Evening,0,1
+1432,Call,Other,30-40,Freehold,Morning,0,1
+1433,Call,Family/Friend,30-40,Virtual,Afternoon,0,1
+1434,Call,Insurance Company,30-40,Freehold,Evening,1,0
+1435,Boom,Healthcare Provider,30-40,Princeton,Morning,0,1
+1436,Call,Family/Friend,30-40,Virtual,Morning,0,1
+1437,Boom,Family/Friend,30-40,Freehold,Afternoon,1,1
+1438,Boom,Social Media,30-40,Virtual,Afternoon,0,1
+1439,Call,Family/Friend,30-40,Freehold,Afternoon,0,1
+1440,Waitlist,Healthcare Provider,30-40,Virtual,Afternoon,0,1
+1441,Waitlist,Other,30-40,Virtual,Afternoon,0,1
+1442,Boom,Google or another search engine,30-40,Freehold,Afternoon,0,1
+1443,Call,Google or another search engine,30-40,Princeton,Morning,0,1
+1444,Call,Healthcare Provider,30-40,Princeton,Afternoon,0,1
+1445,Boom,Family/Friend,30-40,Princeton,Afternoon,0,1
+1446,Call,Healthcare Provider,30-40,Virtual,Afternoon,0,1
+1447,Call,Social Media,30-40,Princeton,Morning,1,0
+1448,Boom,Family/Friend,30-40,Freehold,Afternoon,0,1
+1449,Unknown,Google or another search engine,30-40,Virtual,Afternoon,0,1
+1450,Waitlist,Social Media,30-40,Princeton,Evening,0,1
+1451,Boom,Flyer,30-40,Princeton,Morning,1,0
+1452,Waitlist,Other,30-40,Freehold,Evening,0,1
+1453,Waitlist,Other,30-40,Virtual,Afternoon,0,1
+1454,Boom,Healthcare Provider,30-40,Virtual,Morning,0,1
+1455,Call,Family/Friend,30-40,Princeton,Evening,1,0
+1456,Waitlist,Social Media,30-40,Freehold,Afternoon,0,1
+1457,Boom,Google or another search engine,30-40,Freehold,Afternoon,0,1
+1458,Boom,Google or another search engine,30-40,Virtual,Afternoon,0,1
+1459,Boom,Family/Friend,30-40,Virtual,Afternoon,0,1
+1460,Call,Healthcare Provider,30-40,Virtual,Morning,1,0
+1461,Call,Google or another search engine,30-40,Freehold,Morning,1,1
+1462,Waitlist,Other,30-40,Virtual,Afternoon,0,1
+1463,Boom,Healthcare Provider,30-40,Virtual,Evening,1,0
+1464,Waitlist,Social Media,30-40,Virtual,Evening,0,1
+1465,Waitlist,Family/Friend,30-40,Freehold,Evening,0,1
+1466,Boom,Healthcare Provider,30-40,Freehold,Afternoon,1,1
+1467,Boom,Non-Profit Organization,30-40,Virtual,Afternoon,0,1
+1468,Call,Healthcare Provider,30-40,Virtual,Afternoon,0,1
+1469,Call,Family/Friend,30-40,Virtual,Afternoon,0,1
+1470,Call,Family/Friend,30-40,Virtual,Morning,0,1
+1471,Call,Google or another search engine,30-40,Freehold,Morning,0,1
+1472,Call,Google or another search engine,30-40,Freehold,Morning,0,1
+1473,Boom,Healthcare Provider,30-40,Virtual,Afternoon,0,1
+1474,Waitlist,Other,30-40,Virtual,Afternoon,0,1
+1475,Waitlist,Insurance Company,30-40,Virtual,Evening,0,1
+1476,Boom,Google or another search engine,30-40,Virtual,Afternoon,1,0
+1477,Call,Healthcare Provider,30-40,Princeton,Afternoon,0,1
+1478,Call,Google or another search engine,30-40,Freehold,Afternoon,1,1
+1479,Boom,Family/Friend,30-40,Virtual,Afternoon,1,0
+1480,Call,3rd Party Website,30-40,Virtual,Morning,1,0
+1481,Call,Other,30-40,Freehold,Afternoon,0,1
+1482,Boom,Insurance Company,30-40,Virtual,Afternoon,0,1
+1483,Call,Social Media,30-40,Freehold,Afternoon,0,1
+1484,Boom,Family/Friend,30-40,Virtual,Morning,0,1
+1485,Boom,Family/Friend,30-40,Princeton,Morning,0,1
+1486,Call,Other,30-40,Freehold,Afternoon,1,0
+1487,Boom,Healthcare Provider,30-40,Virtual,Morning,1,0
+1488,Waitlist,Insurance Company,30-40,Freehold,Afternoon,0,1
+1489,Call,Other,30-40,Virtual,Afternoon,1,0
+1490,Waitlist,Other,30-40,Princeton,Evening,0,1
+1491,Boom,Healthcare Provider,30-40,Freehold,Afternoon,0,1
+1492,Call,Other,30-40,Freehold,Afternoon,0,1
+1493,Boom,Family/Friend,30-40,Virtual,Morning,0,1
+1494,Call,Insurance Company,30-40,Virtual,Morning,0,1
+1495,Boom,Family/Friend,30-40,Freehold,Afternoon,0,1
+1496,Boom,Google or another search engine,30-40,Freehold,Afternoon,0,1
+1497,Boom,Family/Friend,30-40,Virtual,Afternoon,0,1
+1498,Boom,Google or another search engine,30-40,Virtual,Afternoon,1,1
+1499,Call,Unknown,30-40,Princeton,Evening,1,0
+1500,Call,Other,30-40,Unknown,Afternoon,0,1
+1501,Boom,Google or another search engine,30-40,Freehold,Afternoon,0,1
+1502,Call,Other,30-40,Princeton,Morning,0,1
+1503,Boom,Healthcare Provider,30-40,Virtual,Afternoon,1,0
+1504,Boom,Family/Friend,30-40,Freehold,Evening,1,0
+1505,Call,Healthcare Provider,30-40,Freehold,Morning,0,1
+1506,Call,Insurance Company,30-40,Virtual,Morning,1,0
+1507,Boom,Healthcare Provider,30-40,Princeton,Morning,1,0
+1508,Waitlist,Other,30-40,Freehold,Morning,1,1
+1509,Waitlist,Family/Friend,30-40,Freehold,Evening,0,1
+1510,Boom,Healthcare Provider,30-40,Virtual,Morning,1,0
+1511,Boom,Family/Friend,30-40,Princeton,Afternoon,0,1
+1512,Call,Google or another search engine,30-40,Freehold,Afternoon,1,1
+1513,Boom,Google or another search engine,30-40,Freehold,Afternoon,0,1
+1514,Waitlist,Family/Friend,30-40,Virtual,Evening,0,1
+1515,Waitlist,Family/Friend,30-40,Virtual,Evening,0,1
+1516,Waitlist,Other,30-40,Virtual,Evening,0,1
+1517,Boom,Healthcare Provider,30-40,Princeton,Afternoon,0,1
+1518,Call,Google or another search engine,30-40,Freehold,Afternoon,0,1
+1519,Waitlist,Insurance Company,30-40,Virtual,Evening,0,1
+1520,Boom,Family/Friend,30-40,Freehold,Morning,1,1
+1521,Waitlist,Other,30-40,Princeton,Morning,0,1
+1522,Call,Other,30-40,Freehold,Morning,1,0
+1523,Waitlist,Other,30-40,Virtual,Morning,1,0
+1524,Boom,Insurance Company,30-40,Princeton,Afternoon,0,1
+1525,Boom,Google or another search engine,30-40,Virtual,Morning,0,1
+1526,Call,Insurance Company,30-40,Princeton,Afternoon,0,1
+1527,Waitlist,Family/Friend,30-40,Freehold,Evening,0,1
+1528,Call,Google or another search engine,30-40,Princeton,Afternoon,0,1
+1529,Boom,Family/Friend,30-40,Virtual,Afternoon,0,1
+1530,Waitlist,Other,30-40,Virtual,Afternoon,1,1
+1531,Waitlist,Family/Friend,30-40,Freehold,Afternoon,0,1
+1532,Waitlist,Family/Friend,30-40,Princeton,Evening,0,1
+1533,Call,Other,30-40,Freehold,Morning,0,1
+1534,Call,Other,30-40,Freehold,Morning,0,1
+1535,Call,Healthcare Provider,30-40,Virtual,Afternoon,0,1
+1536,Waitlist,Family/Friend,30-40,Freehold,Evening,0,1
+1537,Boom,Family/Friend,30-40,Virtual,Afternoon,0,1
+1538,Boom,Insurance Company,30-40,Princeton,Evening,0,1
+1539,Boom,Healthcare Provider,30-40,Princeton,Morning,0,1
+1540,Call,Family/Friend,30-40,Virtual,Afternoon,1,0
+1541,Call,Family/Friend,30-40,Virtual,Morning,1,0
+1542,Call,Google or another search engine,30-40,Virtual,Afternoon,0,1
+1543,Waitlist,Other,30-40,Freehold,Afternoon,0,1
+1544,Other,Other,30-40,Virtual,Afternoon,0,1
+1545,Boom,Family/Friend,30-40,Princeton,Morning,0,1
+1546,Call,Other,30-40,Virtual,Morning,1,0
+1547,Boom,Google or another search engine,30-40,Princeton,Afternoon,0,1
+1548,Call,Other,30-40,Virtual,Afternoon,0,1
+1549,Boom,Unknown,40-50,Princeton,Evening,1,0
+1550,Boom,HLOC,20-30,Princeton,Evening,0,1
+1551,Boom,Unknown,10-20,Freehold,Afternoon,0,1
+1552,Boom,PCP,20-30,Virtual,Evening,0,1
+1553,Boom,Unknown,30-40,Freehold,Morning,0,1
+1554,Boom,Unknown,20-30,Virtual,Afternoon,0,1
+1555,Boom,Unknown,20-30,Virtual,Afternoon,0,1
+1556,Other,Unknown,30-40,Virtual,Afternoon,1,0
+1557,Boom,Neuro Testing Evaluation,20-30,Freehold,Evening,1,0
+1558,Boom,Unknown,30-40,Virtual,Afternoon,1,1
+1559,Boom,Unknown,20-30,Freehold,Afternoon,1,0
+1560,Boom,Hospital,20-30,Freehold,Morning,0,1
+1561,Boom,Unknown,40-50,Freehold,Evening,0,1
+1562,Boom,Unknown,0-10,Freehold,Evening,0,1
+1563,Boom,Unknown,40-50,Freehold,Evening,0,1
+1564,Boom,Unknown,Unknown,Freehold,Evening,0,1
+1565,Call,Unknown,10-20,Princeton,Morning,0,1
+1566,,Unknown,40-50,Freehold,Morning,0,1
+1567,Boom,Unknown,10-20,Freehold,Morning,0,1
+1568,Boom,Unknown,20-30,Princeton,Afternoon,0,1
+1569,Boom,Private Practice Therapist,30-40,Virtual,Morning,1,1
+1570,Boom,Unknown,20-30,Freehold,Afternoon,0,1
+1571,Boom,Unknown,20-30,Freehold,Afternoon,0,1
+1572,Boom,Unknown,30-40,Virtual,Evening,0,1
+1573,Call,Unknown,40-50,Virtual,Morning,1,0
+1574,Boom,Outpatient Therapy Practice,30-40,Virtual,Afternoon,0,1
+1575,Other,Unknown,50-60,Freehold,Evening,0,0
+1576,Boom,Unknown,30-40,Virtual,Evening,0,1
+1577,Boom,Unknown,40-50,Freehold,Morning,0,1
+1578,Waitlist,Unknown,10-20,Freehold,Afternoon,0,1
+1579,Boom,Unknown,40-50,Virtual,Morning,0,1
+1580,Waitlist,Unknown,10-20,Virtual,Evening,0,1
+1581,Other,Unknown,40-50,Freehold,Afternoon,0,1
+1582,Boom,Unknown,30-40,Virtual,Evening,0,1
+1583,Boom,Unknown,30-40,Virtual,Morning,0,1
+1584,Boom,Unknown,10-20,Princeton,Morning,0,1
+1585,Boom,Unknown,0-10,Freehold,Evening,1,0
+1586,Waitlist,Unknown,10-20,Freehold,Evening,0,1
+1587,Call,Unknown,30-40,Freehold,Afternoon,0,1
+1588,Boom,Unknown,40-50,Princeton,Afternoon,0,1
+1589,Other,Unknown,10-20,Princeton,Evening,1,0
+1590,Call,Unknown,20-30,Freehold,Morning,1,0
+1591,Boom,Unknown,40-50,Virtual,Evening,0,1
+1592,Call,Unknown,40-50,Virtual,Morning,1,0
+1593,Waitlist,Unknown,40-50,Princeton,Evening,0,1
+1594,Boom,Private Practice Therapist,0-10,Princeton,Afternoon,0,1
+1595,Other,Unknown,20-30,Virtual,Evening,1,0
+1596,Boom,Private Practice Therapist,20-30,Princeton,Morning,1,0
+1597,Boom,Unknown,20-30,Freehold,Morning,0,1
+1598,Boom,Unknown,20-30,Princeton,Evening,0,1
+1599,Boom,Unknown,Other,Freehold,Evening,0,1
+1600,Boom,Unknown,Other,Virtual,Evening,0,1
+1601,Boom,Facebook,20-30,Freehold,Evening,1,1
+1602,Boom,Unknown,10-20,Virtual,Evening,0,1
+1603,Boom,Outpatient Therapy Practice,40-50,Princeton,Afternoon,0,1
+1604,Boom,Unknown,20-30,Princeton,Evening,0,1
+1605,Boom,Unknown,20-30,Virtual,Evening,0,1
+1606,Boom,Unknown,30-40,Princeton,Evening,0,1
+1607,Boom,Unknown,30-40,Princeton,Evening,0,1
+1608,Waitlist,Unknown,10-20,Princeton,Evening,0,1
+1609,Waitlist,Unknown,20-30,Virtual,Afternoon,0,1
+1610,Other,Unknown,10-20,Virtual,Morning,0,1
+1611,Waitlist,PCP,10-20,Freehold,Afternoon,0,1
+1612,Boom,Unknown,30-40,Virtual,Afternoon,1,0
+1613,Call,Unknown,10-20,Freehold,Afternoon,0,1
+1614,Boom,Unknown,20-30,Princeton,Afternoon,0,1
+1615,Call,Unknown,40-50,Freehold,Afternoon,0,1
+1616,Call,Unknown,10-20,Freehold,Morning,0,1
+1617,Waitlist,Unknown,10-20,Freehold,Evening,0,1
+1618,Call,Unknown,30-40,Freehold,Afternoon,0,1
+1619,Waitlist,Unknown,40-50,Princeton,Evening,0,1
+1620,Boom,Unknown,30-40,Virtual,Morning,0,1
+1621,Call,Unknown,80-90,Freehold,Morning,1,0
+1622,Waitlist,Unknown,10-20,Freehold,Afternoon,0,1
+1623,Call,Unknown,20-30,Freehold,Afternoon,1,0
+1624,Call,Unknown,60-70,Freehold,Afternoon,0,1
+1625,Waitlist,Unknown,10-20,Virtual,Evening,0,1
+1626,Waitlist,Unknown,40-50,Freehold,Evening,0,1
+1627,Call,Unknown,40-50,Virtual,Afternoon,0,1
+1628,Call,Unknown,20-30,Freehold,Afternoon,0,1
+1629,Other,Unknown,20-30,Freehold,Morning,0,1
+1630,Call,Unknown,40-50,Virtual,Morning,0,1
+1631,Waitlist,Unknown,40-50,Virtual,Evening,0,1
+1632,Waitlist,Unknown,10-20,Freehold,Evening,0,1
+1633,Boom,Unknown,50-60,Virtual,Afternoon,1,0
+1634,Call,Unknown,60-70,Virtual,Afternoon,0,1
+1635,Waitlist,Unknown,0-10,Virtual,Evening,0,1
+1636,Waitlist,Unknown,10-20,Freehold,Evening,0,1
+1637,Boom,Unknown,40-50,Freehold,Afternoon,1,1
+1638,Waitlist,Unknown,40-50,Virtual,Evening,0,1
+1639,Waitlist,Unknown,50-60,Freehold,Evening,0,1
+1640,Waitlist,Unknown,40-50,Princeton,Evening,0,1
+1641,Call,Unknown,30-40,Virtual,Afternoon,0,1
+1642,Waitlist,Unknown,20-30,Freehold,Evening,0,1
+1643,Boom,Private Practice Therapist,30-40,Virtual,Evening,1,0
+1644,Boom,Private Practice Therapist,20-30,Virtual,Morning,1,0
+1645,Waitlist,Unknown,30-40,Freehold,Evening,0,1
+1646,Boom,PCP,10-20,Freehold,Evening,0,1
+1647,Waitlist,Unknown,30-40,Virtual,Evening,0,1
+1648,Boom,Unknown,20-30,Freehold,Morning,0,1
+1649,Waitlist,Unknown,40-50,Freehold,Evening,0,1
+1650,Boom,Unknown,10-20,Princeton,Morning,0,1
+1651,Boom,Unknown,30-40,Virtual,Evening,0,1
+1652,Waitlist,Unknown,40-50,Virtual,Evening,0,1
+1653,Call,Unknown,50-60,Virtual,Evening,0,1
+1654,Boom,HLOC,20-30,Virtual,Morning,1,0
+1655,Call,Unknown,20-30,Freehold,Afternoon,1,0
+1656,Boom,Unknown,30-40,Freehold,Morning,0,1
+1657,Call,Unknown,20-30,Freehold,Morning,0,1
+1658,Call,Unknown,20-30,Virtual,Evening,1,0
+1659,Boom,Private Practice Therapist,40-50,Virtual,Evening,1,0
+1660,Boom,Unknown,10-20,Freehold,Evening,0,1
+1661,Call,Unknown,20-30,Virtual,Morning,1,0
+1662,Call,Unknown,60-70,Virtual,Morning,1,0
+1663,Call,Unknown,30-40,Virtual,Afternoon,1,0
+1664,Call,Unknown,10-20,Freehold,Afternoon,1,0
+1665,Boom,Unknown,20-30,Virtual,Afternoon,1,0
+1666,Other,Unknown,40-50,Virtual,Evening,1,0
+1667,Boom,Private Practice Therapist,60-70,Virtual,Evening,1,0
+1668,Call,Unknown,60-70,Virtual,Afternoon,1,0
+1669,Other,Unknown,20-30,Virtual,Evening,1,0
+1670,Other,Unknown,30-40,Virtual,Evening,1,0
+1671,Other,Unknown,20-30,Freehold,Morning,1,0
+1672,Call,Unknown,20-30,Freehold,Morning,1,0
+1673,Waitlist,HLOC,10-20,Freehold,Afternoon,0,1
+1674,Boom,Unknown,20-30,Princeton,Evening,0,1
+1675,Boom,Unknown,10-20,Freehold,Afternoon,0,1
+1676,Waitlist,Unknown,10-20,Freehold,Evening,0,1
+1677,Waitlist,Unknown,0-10,Freehold,Evening,0,1
+1678,Waitlist,Unknown,40-50,Princeton,Evening,0,1
+1679,Waitlist,Unknown,0-10,Virtual,Evening,0,1
+1680,Waitlist,PCP,10-20,Freehold,Evening,1,1
+1681,Waitlist,Unknown,10-20,Princeton,Evening,0,1
+1682,Waitlist,Unknown,20-30,Princeton,Evening,0,1
+1683,Waitlist,Unknown,30-40,Freehold,Evening,0,1
+1684,Waitlist,HLOC,10-20,Freehold,Morning,0,1
+1685,Waitlist,Unknown,0-10,Freehold,Evening,0,1
+1686,Waitlist,Unknown,20-30,Princeton,Afternoon,0,1
+1687,Waitlist,Unknown,40-50,Princeton,Evening,0,1
+1688,Waitlist,Unknown,10-20,Freehold,Evening,1,1
+1689,Waitlist,Unknown,20-30,Virtual,Evening,0,1
+1690,Waitlist,PT/OT/SLP,0-10,Freehold,Evening,0,1
+1691,Waitlist,Outpatient Therapy Practice,30-40,Freehold,Evening,0,1
+1692,Waitlist,Unknown,30-40,Virtual,Evening,0,1
+1693,Waitlist,Unknown,40-50,Virtual,Evening,0,1
+1694,Waitlist,Unknown,20-30,Freehold,Evening,0,1
+1695,Waitlist,HLOC,30-40,Freehold,Evening,0,1
+1696,Waitlist,Unknown,30-40,Princeton,Evening,0,1
+1697,Boom,Unknown,0-10,Freehold,Morning,1,0
+1698,Call,Private Practice Therapist,30-40,Virtual,Morning,1,0
+1699,Boom,Unknown,40-50,Freehold,Morning,0,1
+1700,Call,Unknown,0-10,Freehold,Afternoon,0,1
+1701,Call,Unknown,0-10,Freehold,Afternoon,0,1
+1702,Call,Private Practice Therapist,30-40,Virtual,Afternoon,1,0
+1703,Call,Unknown,40-50,Virtual,Morning,1,0
+1704,Boom,Unknown,30-40,Freehold,Morning,0,1
+1705,Other,Unknown,Unknown,Freehold,Morning,0,1
+1706,Boom,Unknown,40-50,Freehold,Afternoon,0,1
+1707,Call,Unknown,60-70,Freehold,Afternoon,0,1
+1708,Waitlist,Unknown,0-10,Freehold,Evening,0,1
+1709,Boom,Unknown,20-30,Virtual,Afternoon,1,1
+1710,Call,Unknown,30-40,Virtual,Evening,0,0
+1711,Call,Unknown,30-40,Freehold,Afternoon,1,0
+1712,Call,Unknown,60-70,Virtual,Afternoon,0,1
+1713,Waitlist,Unknown,10-20,Freehold,Evening,0,1
+1714,Other,Unknown,50-60,Virtual,Morning,0,1
+1715,Call,Private Practice Therapist,30-40,Virtual,Morning,1,0
+1716,Call,Unknown,60-70,Freehold,Morning,0,1
+1717,Other,Unknown,40-50,Virtual,Afternoon,0,1
+1718,Call,Unknown,40-50,Virtual,Afternoon,0,1
+1719,Call,Unknown,10-20,Freehold,Afternoon,0,1
+1720,Waitlist,Unknown,20-30,Virtual,Evening,0,1
+1721,Boom,Unknown,30-40,Virtual,Evening,1,1
+1722,Waitlist,Unknown,0-10,Freehold,Evening,0,1
+1723,Waitlist,Unknown,0-10,Freehold,Evening,0,1
+1724,Boom,Unknown,30-40,Virtual,Morning,1,0
+1725,Other,Unknown,20-30,Virtual,Evening,0,1
+1726,Call,Unknown,50-60,Virtual,Afternoon,0,1
+1727,Waitlist,Unknown,10-20,Freehold,Evening,0,1
+1728,Waitlist,Unknown,0-10,Freehold,Evening,0,1
+1729,Waitlist,Unknown,30-40,Freehold,Evening,0,1
+1730,Call,Unknown,10-20,Freehold,Afternoon,0,1
+1731,Waitlist,Unknown,30-40,Virtual,Evening,0,1
+1732,Waitlist,Unknown,30-40,Princeton,Evening,0,1
+1733,Call,Unknown,20-30,Virtual,Afternoon,0,1
+1734,Waitlist,Unknown,30-40,Freehold,Evening,0,1
+1735,Boom,Unknown,20-30,Princeton,Afternoon,0,1
+1736,Waitlist,School District,0-10,Freehold,Evening,0,1
+1737,Boom,Unknown,30-40,Princeton,Afternoon,0,1
+1738,Boom,Unknown,20-30,Virtual,Afternoon,0,1
+1739,Boom,Unknown,20-30,Virtual,Afternoon,0,1
+1740,Boom,Unknown,20-30,Virtual,Evening,0,1
+1741,Other,Unknown,30-40,Virtual,Morning,1,0
+1742,Call,Unknown,50-60,Freehold,Afternoon,0,1
+1743,Call,Unknown,0-10,Freehold,Afternoon,0,1
+1744,Waitlist,Unknown,10-20,Freehold,Evening,0,1
+1745,Waitlist,Unknown,60-70,Virtual,Morning,0,1
+1746,Boom,Unknown,30-40,Virtual,Evening,0,1
+1747,Other,Unknown,20-30,Princeton,Evening,1,0
+1748,Waitlist,Unknown,60-70,Freehold,Evening,0,1
+1749,Waitlist,Unknown,10-20,Freehold,Evening,0,1
+1750,Boom,Unknown,20-30,Freehold,Morning,0,1
+1751,Waitlist,Unknown,20-30,Virtual,Evening,0,1
+1752,Waitlist,Unknown,0-10,Freehold,Evening,0,1
+1753,Waitlist,Unknown,0-10,Freehold,Evening,0,1
+1754,Waitlist,Unknown,40-50,Virtual,Evening,0,1
+1755,Call,Unknown,60-70,Freehold,Afternoon,1,0
+1756,Waitlist,Unknown,30-40,Virtual,Evening,1,0
+1757,Waitlist,Unknown,30-40,Virtual,Evening,1,0
+1758,Waitlist,Unknown,40-50,Freehold,Evening,1,0
+1759,Waitlist,Unknown,0-10,Freehold,Evening,1,0
+1760,Boom,Unknown,20-30,Virtual,Evening,1,1
+1761,Waitlist,Unknown,30-40,Virtual,Afternoon,0,1
+1762,Waitlist,Unknown,0-10,Freehold,Evening,0,1
+1763,Waitlist,Unknown,30-40,Freehold,Afternoon,0,1
+1764,Waitlist,Neuro Testing Evaluation,30-40,Princeton,Afternoon,0,1
+1765,Call,Unknown,Unknown,Virtual,Morning,0,1
+1766,Call,Unknown,30-40,Princeton,Morning,0,1
+1767,Call,Unknown,0-10,Freehold,Afternoon,0,1
+1768,Waitlist,Unknown,10-20,Freehold,Evening,0,1
+1769,Waitlist,Unknown,0-10,Freehold,Evening,0,1
+1770,Waitlist,Unknown,10-20,Freehold,Evening,0,1
+1771,Waitlist,Unknown,0-10,Princeton,Evening,0,1
+1772,Boom,Private Practice Therapist,40-50,Virtual,Morning,1,0
+1773,Waitlist,Unknown,10-20,Princeton,Evening,0,1
+1774,Waitlist,Unknown,Unknown,Princeton,Evening,0,1
+1775,Boom,PCP,40-50,Freehold,Morning,0,1
+1776,Boom,Unknown,10-20,Freehold,Afternoon,0,1
+1777,Other,Unknown,0-10,Freehold,Afternoon,0,1
+1778,Call,Unknown,0-10,Princeton,Morning,0,1
+1779,Waitlist,Unknown,20-30,Freehold,Evening,0,1
