@@ -67,6 +67,13 @@
 * Insights from your Exploratory Data Analysis (EDA)
 * Challenges and assumptions when working with the dataset(s)
 
+**Data Cleaning Steps**
+- Created uniform and easy to understand column names for the columns
+- Replaced missing values with 'Unknown' category
+- Performed One-Hot-Encoding for all categorical feature columns except the target variable
+- Merged 3 different datasets into one
+- Removed the columns that weren't common among the 3 datasets or that didn't contribute much to the prediction
+
 **Statistical Analysis**
 - We performed Chi-Squared Statistical Test between each feature variable and the target variable (appointment_time). 
 - Using a significance level of 0.05 we determined the variables that were most associated with the client appointment time.
@@ -78,9 +85,71 @@
 - Visualized the effects of the above variables on client appointment times
 - Some of the most significant observations:
 
+<img src="assets/AgeMorningFrequency.png" alt="AgeMorningFrequency" width="400" height="400">
+
+- Majority of morning patients are of age 30-40
+
+<br>
+
+<img src="assets/AgeMorningRelFrequency.png" alt="AgeMorningRelFrequency" width="400" height="400">
+
+- 100% of the 80-90 age group were morning clients
+- Although this included only 3 people, this observation can be further tested
+
+<br>
+
+<img src="assets/LocationMorningFreq.png" alt="LocationMorningFrequency" width="400" height="400">
+
+- Majority of the morning appointements were virtual
+
+<br>
+
+<img src="assets/MedicationManagementMorningRelFreq.png" alt="MedicationManagementRelFrequency" width="400" height="400">
+
+- A higher proportion of clients coming in for Medication Managment choose morning appointments
+
+<br>
 ---
 
 ## 🧠 **Model Development**
+We built 4 different ML models to predict whether a new client at Tree Of Life would choose a morning appointment or not.
+
+### 1. Logistic Regression
+### 2. Decision Tree
+### 3. Gradient Boosting
+
+Gradient Boosting is an ensemble learning method that builds a sequence of models, where each subsequent model focuses on correcting the errors of the previous ones.
+
+#### Objective
+The goal of this model is to predict whether a patient prefers a **morning appointment** or **not**.
+
+#### Model Choice
+We used the **XGBoost** implementation of Gradient Boosting. This allowed us to assign greater weight to patients who prefer morning appointments in order to compensate for class imbalance in the target variable.
+
+#### Pros and Cons
+**Pros**
+- Performs well on non-linear relationships
+- Captures complex feature interactions effectively
+
+**Cons**
+- Prone to overfitting if not carefully tuned
+
+#### Results
+
+<img src="assets/ClassificationReportGradientBooting.png" alt="ClassificationReport" width="400" height="400">
+
+- The Gradient Boosting model achieved very high **Recall** suggesting that most of the morning appointments are predicted as morning by the model.
+- However, the low **Precision** indicates that many non-morning appointments are also labelled as morning.
+
+
+#### Feature Importance
+Feature importance analysis shows which input variables contributed most to the model’s predictions, providing interpretability into the factors influencing appointment time preference.
+
+<img src="assets/FeatureImportanceGradientBoosting.png" alt="FeatureImportance" width="400" height="400">
+
+### 4. Random Forest
+
+
 
 **You might consider describing the following (as applicable):**
 
