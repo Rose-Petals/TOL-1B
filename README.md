@@ -15,13 +15,13 @@
 | Chris Park       | @chrispark    | Model evaluation, performance analysis, results interpretation           |
 
 
-| Name             | GitHub Handle | Contribution                                                             |
-|------------------|---------------|--------------------------------------------------------------------------|
-| Shreena Thakker  | @shreenat     | Data Cleaning, Statistical Analysis, Decision Tree Model Tuning          |
-|                  |               |                                                                          |
-|                  |               |                                                                          |
-|                  |               |                                                                          |
-|                  |               |                                                                          |
+| Name             | GitHub Handle | Contribution                                                                                    |
+|------------------|---------------|-------------------------------------------------------------------------------------------------|
+| Shreena Thakker  | @shreenat     | Data Cleaning, Statistical Analysis, Decision Tree Model Tuning, Gradient Descent Model         |
+|                  |               |                                                                                                 |
+|                  |               |                                                                                                 |
+|                  |               |                                                                                                 |
+|                  |               |                                                                                                 |
 
 ---
 
@@ -67,9 +67,16 @@
 * Insights from your Exploratory Data Analysis (EDA)
 * Challenges and assumptions when working with the dataset(s)
 
-**Potential visualizations to include:**
+**Statistical Analysis**
+- We performed Chi-Squared Statistical Test between each feature variable and the target variable (appointment_time). 
+- Using a significance level of 0.05 we determined the variables that were most associated with the client appointment time.
+- The most associated variables are: 'intake_method', 'age', 'Medication_Management', 'Talk_Therapy'
+- 'Medication_Management' and 'Talk_Therapy' are appointment types
 
-* Plots, charts, heatmaps, feature visualizations, sample dataset images
+
+**Visualizations:**
+- Visualized the effects of the above variables on client appointment times
+- Some of the most significant observations:
 
 ---
 
