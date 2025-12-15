@@ -26,14 +26,38 @@
 ---
 
 ## 👩🏽‍💻 **Setup and Installation**
+Environment Used: 
+* All of our coding was done in either Jupyter Notebooks or Google Colab
+* So all script files have the .ipynb extension
+* The datasets are all CSV files and can be opened in Microsoft Excel or Google Sheets
 
-**Provide step-by-step instructions so someone else can run your code and reproduce your results. Depending on your setup, include:**
+'datasets' Directory:
+* Contains the all 3 datasets given to us by Tree of Life(TOL)
+  * TOLCC Break Through Tech Dataset_1.csv
+  * TOLCC Break Through Tech Dataset_2.csv
+  * TOLCC Break Through Tech Dataset_3.csv
+* Scripts for cleaning the data
+  * Tree_of_Life_Project_Team_B_dataset1_clean.ipynb
+  * Tree_of_Life_Project_Team_B_dataset2_clean.ipynb
+  * Tree_of_Life_Project_Team_B_dataset3_clean.ipynb
+* The cleaned datasets
+  * TOL_dataset1_cleaned.csv
+  * TOL_dataset2_cleaned.csv
+  * TOL_dataset3_cleaned.csv
+* The script to combine the cleaned datasets
+  * Combine.ipynb
+* The combined dataset
+  * combined_df.csv
 
-* How to clone the repository
-* How to install dependencies
-* How to set up the environment
-* How to access the dataset(s)
-* How to run the notebook or scripts
+'models' Directory
+* This directory contains the scripts for building, tuning, and evaluating each model
+* They all use the combined_df.csv which has to be uploaded to the Google Colab or Jupyter Notebooks before running.
+* Follow along the documentation in the to understand what each step is doing.
+
+Statistical Tests.ipynb
+* This scripts runs Chi-Squared statistical tests on the data
+* It is also creates useful visuals for exploratory data analyis
+* Upload the combined_df.csv script to the Google Colab or Jupyter Notebook before running the script
 
 ---
 
