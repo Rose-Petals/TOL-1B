@@ -39,11 +39,9 @@
 
 ## 🏗️ **Project Overview**
 
-**Describe:**
-
-- How this project is connected to the Break Through Tech AI Program
-- Your AI Studio host company and the project objective and scope
-- The real-world significance of the problem and the potential impact of your work
+- Our project is connected to Break Through Tech by their 2025 ML Learning Program. Over the span of three months we applied what we learned in the Machine Leading Modules and made multiple Machine Leaning Models
+- Our AI Host Company is Tree of Life Counseling who needed help filling up their morning appoitment slots.
+- We were given patient data that we used to make predictive models based on previous patient patterns for apointment slots.
 
 ---
 
