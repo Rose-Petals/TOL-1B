@@ -209,22 +209,47 @@ All features were one-hot encoded. The target variable was `appointment_time`.
 - Overall accuracy: ~47% (above random baseline of ~33%)
 - Morning F1-score: ~0.37
 
-#### Key Insight
-This model was used primarily for **interpretability rather than pure prediction**. Feature importance analysis highlighted **referral sources** as one of the strongest predictors of appointment timing. From the model, we were able to dig deeper and identify the most influential referrer sources, which were **Friends/Family** and **Healthcare Provider**. This directly supports the client’s goal of identifying which referral sources are associated with specific appointment behaviors, enabling more targeted and effective marketing toward key demographic groups to improve morning appointment utilization.
 
 ---
 
 ## 📈 **Results & Key Findings**
 
-**You might consider describing the following (as applicable):**
+## Model Performance (Metrics)
+We evaluated our classification models using:
+- **Accuracy** (overall correctness)
+- **Precision / Recall / F1-score** (to balance false positives vs. false negatives)
 
-* Performance metrics (e.g., Accuracy, F1 score, RMSE)
-* How your model performed
-* Insights from evaluating model fairness
+**Best-performing model:** **Gradient Boosting**  
+(chosen due to highest recall and F1-score in an imbalanced dataset)
 
-**Potential visualizations to include:**
+**Key results:**
+- Accuracy: **0.45**
+- F1-score: **0.45**
+- Precision: **0.30**
+- Recall: **0.91**
 
-* Confusion matrix, precision-recall curve, feature importance plot, prediction distribution, outputs from fairness or explainability tools
+## How the Model Performed
+Overall, the models helped compare both predictive performance and feature importance. While Logistic Regression performed well on accuracy, it struggled with recall due to class imbalance. Tree-based models (Decision Tree, Random Forest, Gradient Boosting) better captured non-linear relationships and produced more actionable insights.
+
+## Key Findings (Feature / Variable Importance)
+Across models, the strongest signals included:
+- **Referral sources:** Friends/Family and Healthcare Provider (Random Forest)
+- **Waitlist status:** Clients from waitlist and waitlist intake (Gradient Boosting, Decision Tree)
+- **Appointment type:** Virtual appointments (Decision Tree)
+- **Age groups:** 10–20 (and 80–90 in demographic analysis)
+- **Other signals:** Referred Private Practice Therapist (Logistic Regression)
+- **Service/need:** Medication Management
+- **Location/type:** Freehold and Virtual appointments
+
+These findings directly supported the client’s goal of identifying **top referral sources and key demographics** for targeted outreach and marketing.
+
+## Fairness / Bias Checks
+We reviewed model behavior across key subgroups:
+- **Age ranges**
+- **Appointment type (virtual vs. in-person)**
+- **Referral source**
+
+Performance varied across age groups, with younger clients (10–20) showing stronger influence in predictions. Features related to waitlist status and virtual appointments were highly weighted, indicating potential access-related bias. These results highlight the importance of monitoring subgroup-level performance and using high-recall models carefully in practice.
 
 ---
 
@@ -235,11 +260,24 @@ This model was used primarily for **interpretability rather than pure prediction
 
 ## 🚀 **Next Steps**
 
-**You might consider addressing the following (as applicable):**
+To address these issues, future work would focus on:
+- Collecting more balanced data across demographics, referral sources, and appointment locations
+- Expanding location-based features (city, zip code, distance, access to virtual care)
+- Continuing to monitor subgroup-level performance to reduce bias
 
-* What are some of the limitations of your model?
-* What would you do differently with more time/resources?
-* What additional datasets or techniques would you explore?
+### Naive Bayes Model
+As a next step, we would implement a **Naive Bayes model** as a lightweight baseline. Because the dataset contains many categorical variables, Naive Bayes could provide faster training and clearer probabilistic insights, allowing us to compare recall and interpretability against existing models.
+
+### Predicting an Optimal 3rd TOL Location
+The client is considering opening a **third TOL location**, and future analysis would focus on using **demographic and referral data** to support this decision. By training models on location-specific client features, we could:
+- Identify geographic areas with high demand for services
+- Analyze which demographics and referral sources are most active by location
+- Predict appointment uptake and service preferences in new regions
+
+Using these insights, we would simulate potential locations and evaluate which areas show the strongest predicted engagement, helping the client make a **data-driven decision** on where to open a third location.
+
+### Future Direction
+With expanded demographic and geographic data, models could be retrained and validated to ensure insights remain accurate and actionable. This approach would allow the client to scale operations while targeting communities with the greatest projected impact.
 
 ---
 
