@@ -1,0 +1,516 @@
+intake_method,referer,age,appointment_location,appointment_time,Medication_Management,Talk_Therapy
+Waitlist,Other,22.5,Princeton,Evening,0,1
+Unknown,Unknown,38.2,Freehold,Evening,0,1
+Unknown,Unknown,38.2,Virtual,Afternoon,0,1
+Unknown,Following Clinician,38.2,Virtual,Evening,0,1
+Unknown,Unknown,38.2,Freehold,Afternoon,0,1
+Unknown,Unknown,38.2,Virtual,Evening,0,1
+Unknown,Referred by Family/Friend,38.2,Virtual,Morning,0,1
+Unknown,Referred by Family/Friend,38.2,Virtual,Morning,0,1
+Unknown,Unknown,38.2,Virtual,Evening,0,1
+Unknown,Referred by Insurance,38.2,Princeton,Afternoon,0,1
+Unknown,Referred by Insurance,38.2,Princeton,Afternoon,0,1
+Unknown,Client of Alyssa,38.2,Freehold,Evening,1,0
+Unknown,Google Referral,38.2,Virtual,Evening,1,0
+Unknown,Healthcare Provider,38.2,Virtual,Morning,1,0
+Unknown,Unknown,38.2,Virtual,Morning,1,0
+Unknown,Unknown,38.2,Virtual,Afternoon,0,1
+Other,Unknown,38.2,Virtual,Afternoon,0,1
+Other,Healthcare Provider,38.2,Freehold,Afternoon,0,1
+Call,Following Clinician,38.2,Virtual,Afternoon,0,1
+Call,Unknown,38.2,Virtual,Afternoon,0,1
+Boom,Google or another search engine,38.2,Virtual,Afternoon,0,1
+Other,Unknown,38.2,Virtual,Morning,0,1
+Call,Other,62.5,Virtual,Morning,0,1
+Unknown,Client of Alexis,38.2,Freehold,Evening,1,0
+Other,Unknown,57.5,Virtual,Morning,0,0
+Unknown,Unknown,38.2,Virtual,Afternoon,0,0
+Other,Unknown,38.2,Virtual,Evening,0,0
+Unknown,Client of Marissa,38.2,Freehold,Afternoon,1,0
+Waitlist,Other,17.5,Princeton,Afternoon,0,1
+Call,Unknown,38.2,Virtual,Morning,1,0
+Waitlist,Other,37.5,Freehold,Morning,0,0
+Unknown,Unknown,38.2,Freehold,Morning,1,0
+Unknown,Unknown,38.2,Virtual,Afternoon,1,0
+Other,Unknown,17.5,Virtual,Evening,0,0
+Unknown,Unknown,38.2,Virtual,Afternoon,0,0
+Unknown,Unknown,38.2,Freehold,Evening,0,0
+Unknown,Unknown,38.2,Princeton,Afternoon,0,0
+Other,Unknown,32.5,Virtual,Afternoon,0,0
+Waitlist,Other,12.5,Freehold,Evening,0,1
+Unknown,Following Clinician,38.2,Virtual,Morning,0,1
+Waitlist,Unknown,17.5,Virtual,Evening,0,0
+Unknown,Unknown,38.2,Virtual,Morning,0,0
+Unknown,Unknown,38.2,Freehold,Afternoon,0,0
+Waitlist,Family/Friend,12.5,Princeton,Evening,0,1
+Other,Family/Friend,38.2,Virtual,Morning,1,0
+Other,Unknown,57.5,Virtual,Evening,0,0
+Unknown,Following Clinician,38.2,Freehold,Afternoon,0,1
+Waitlist,Family/Friend,12.5,Freehold,Afternoon,0,1
+Boom,Google or another search engine,27.5,Virtual,Morning,0,1
+Waitlist,Social Media,37.5,Virtual,Afternoon,0,1
+Call,Other,38.2,Virtual,Morning,0,1
+Unknown,Family/Friend,38.2,Virtual,Afternoon,1,0
+Unknown,Unknown,38.2,Virtual,Morning,0,0
+Unknown,Other,27.5,Virtual,Morning,0,0
+Unknown,Unknown,38.2,Freehold,Afternoon,1,0
+Unknown,Other,27.5,Virtual,Morning,0,0
+Unknown,Unknown,38.2,Virtual,Evening,1,0
+Other,Unknown,17.5,Freehold,Morning,0,0
+Other,Unknown,38.2,Freehold,Evening,0,0
+Other,Other,12.5,Freehold,Evening,0,0
+Other,Unknown,22.5,Princeton,Morning,0,0
+Other,Unknown,17.5,Freehold,Afternoon,0,0
+Unknown,Unknown,38.2,Virtual,Evening,0,0
+Other,Unknown,47.5,Freehold,Afternoon,0,0
+Other,Unknown,17.5,Princeton,Afternoon,0,0
+Waitlist,Other,12.5,Princeton,Evening,0,1
+Call,Insurance Company,38.2,Freehold,Afternoon,0,1
+Unknown,Other,38.2,Virtual,Evening,1,0
+Call,Other,32.5,Virtual,Morning,1,0
+Unknown,Unknown,38.2,Freehold,Morning,1,0
+Other,Unknown,7.5,Freehold,Evening,0,0
+Boom,Social Media,27.5,Virtual,Morning,0,1
+Unknown,Other,22.5,Freehold,Evening,0,0
+Call,Other,32.5,Princeton,Morning,1,0
+Unknown,Unknown,38.2,Virtual,Afternoon,1,0
+Unknown,Unknown,38.2,Virtual,Afternoon,1,0
+Other,Other,17.5,Princeton,Afternoon,0,0
+Call,Healthcare Provider,38.2,Freehold,Morning,1,0
+Call,Healthcare Provider,38.2,Virtual,Afternoon,0,1
+Unknown,Unknown,38.2,Freehold,Afternoon,1,0
+Other,Unknown,38.2,Virtual,Evening,0,0
+Other,Other,17.5,Virtual,Morning,1,0
+Unknown,Unknown,38.2,Freehold,Morning,1,0
+Call,Other,32.5,Virtual,Evening,1,0
+Call,Following Clinician,17.5,Freehold,Afternoon,0,1
+Call,Other,42.5,Virtual,Morning,1,0
+Other,Other,42.5,Freehold,Evening,0,0
+Other,Other,57.5,Freehold,Morning,0,0
+Waitlist,Family/Friend,12.5,Freehold,Afternoon,0,1
+Other,Other,32.5,Virtual,Afternoon,0,0
+Call,Following Clinician,38.2,Princeton,Afternoon,1,0
+Other,Unknown,32.5,Virtual,Morning,0,0
+Call,Google or another search engine,42.5,Virtual,Afternoon,0,1
+Other,Other,12.5,Freehold,Afternoon,0,0
+Other,Other,17.5,Freehold,Afternoon,0,0
+Unknown,Unknown,38.2,Freehold,Morning,1,0
+Waitlist,Following Clinician,27.5,Virtual,Evening,0,1
+Unknown,Following Clinician,12.5,Freehold,Afternoon,0,0
+Boom,Insurance Company,37.5,Virtual,Afternoon,0,1
+Other,Other,37.5,Virtual,Morning,1,0
+Other,Unknown,38.2,Virtual,Morning,1,0
+Call,Other,37.5,Princeton,Afternoon,1,0
+Unknown,Other,22.5,Virtual,Afternoon,0,0
+Waitlist,Following Clinician,57.5,Freehold,Afternoon,0,1
+Call,Other,52.5,Freehold,Afternoon,0,1
+Other,Other,67.5,Virtual,Afternoon,0,0
+Waitlist,Family/Friend,12.5,Freehold,Afternoon,0,1
+Call,Insurance Company,38.2,Virtual,Afternoon,1,0
+Other,Other,37.5,Virtual,Afternoon,0,0
+Boom,Family/Friend,27.5,Freehold,Morning,0,1
+Call,Social Media,38.2,Freehold,Morning,0,1
+Call,Following Clinician,27.5,Virtual,Afternoon,1,0
+Call,Other,22.5,Virtual,Afternoon,1,0
+Other,Healthcare Provider,17.5,Princeton,Afternoon,0,1
+Other,Unknown,38.2,Freehold,Morning,1,0
+Other,Other,57.5,Virtual,Afternoon,0,1
+Boom,Family/Friend,42.5,Princeton,Afternoon,1,0
+Other,Other,52.5,Freehold,Morning,1,0
+Boom,Family/Friend,7.5,Princeton,Evening,1,0
+Unknown,Unknown,38.2,Virtual,Afternoon,0,0
+Boom,Non-Profit Organization,47.5,Virtual,Afternoon,1,0
+Boom,Family/Friend,17.5,Virtual,Afternoon,0,1
+Other,Unknown,47.5,Freehold,Morning,1,0
+Call,Other,57.5,Virtual,Morning,1,0
+Call,Unknown,38.2,Freehold,Evening,1,0
+Boom,Family/Friend,32.5,Virtual,Evening,1,0
+Other,Other,37.5,Virtual,Morning,1,0
+Boom,Other,37.5,Virtual,Morning,0,1
+Waitlist,Google or another search engine,7.5,Freehold,Afternoon,0,1
+Boom,Healthcare Provider,27.5,Virtual,Evening,1,0
+Boom,Insurance Company,22.5,Virtual,Afternoon,0,1
+Waitlist,Other,42.5,Freehold,Afternoon,0,1
+Other,Other,17.5,Virtual,Afternoon,1,0
+Boom,Healthcare Provider,38.2,Virtual,Afternoon,1,1
+Boom,Healthcare Provider,57.5,Freehold,Afternoon,0,1
+Call,Social Media,42.5,Virtual,Morning,0,1
+Waitlist,Insurance Company,42.5,Freehold,Evening,0,1
+Call,Other,22.5,Freehold,Afternoon,0,1
+Waitlist,Family/Friend,52.5,Princeton,Evening,0,1
+Call,Healthcare Provider,37.5,Virtual,Morning,1,0
+Boom,Google or another search engine,17.5,Freehold,Afternoon,0,1
+Call,Google or another search engine,47.5,Virtual,Afternoon,1,0
+Other,Other,32.5,Virtual,Afternoon,1,0
+Boom,Family/Friend,32.5,Virtual,Afternoon,1,0
+Waitlist,Other,17.5,Princeton,Evening,0,1
+Boom,Family/Friend,37.5,Virtual,Afternoon,0,1
+Boom,Healthcare Provider,17.5,Freehold,Morning,1,0
+Call,Following Clinician,27.5,Freehold,Morning,1,0
+Other,Other,32.5,Freehold,Afternoon,0,1
+Call,Other,22.5,Virtual,Evening,1,0
+Other,Following Clinician,12.5,Freehold,Afternoon,1,0
+Boom,Healthcare Provider,57.5,Virtual,Afternoon,0,1
+Boom,Family/Friend,17.5,Freehold,Afternoon,0,1
+Boom,Google or another search engine,37.5,Virtual,Afternoon,1,0
+Call,Other,47.5,Virtual,Afternoon,1,0
+Call,Other,12.5,Freehold,Afternoon,1,0
+Call,Google or another search engine,47.5,Freehold,Morning,0,1
+Other,Other,27.5,Freehold,Morning,1,0
+Call,Google or another search engine,37.5,Freehold,Morning,0,1
+Boom,Healthcare Provider,22.5,Princeton,Afternoon,1,1
+Boom,Social Media,17.5,Virtual,Morning,0,1
+Waitlist,Healthcare Provider,7.5,Princeton,Evening,0,1
+Call,Healthcare Provider,22.5,Virtual,Evening,1,0
+Boom,Healthcare Provider,27.5,Virtual,Morning,1,0
+Call,Family/Friend,27.5,Virtual,Evening,1,0
+Call,Other,17.5,Freehold,Afternoon,0,1
+Waitlist,Other,32.5,Freehold,Evening,0,1
+Waitlist,Other,17.5,Princeton,Evening,0,1
+Waitlist,Family/Friend,12.5,Freehold,Afternoon,0,1
+Waitlist,Social Media,22.5,Virtual,Evening,0,1
+Waitlist,Family/Friend,12.5,Princeton,Evening,0,1
+Other,Other,32.5,Freehold,Afternoon,0,1
+Waitlist,Healthcare Provider,32.5,Princeton,Evening,0,1
+Boom,Insurance Company,37.5,Virtual,Afternoon,0,1
+Boom,Healthcare Provider,32.5,Virtual,Afternoon,1,0
+Boom,Family/Friend,12.5,Virtual,Afternoon,0,1
+Boom,Family/Friend,52.5,Freehold,Afternoon,1,1
+Call,Healthcare Provider,12.5,Freehold,Morning,1,0
+Call,Other,12.5,Princeton,Evening,1,0
+Waitlist,Family/Friend,37.5,Virtual,Afternoon,0,1
+Waitlist,Healthcare Provider,42.5,Princeton,Afternoon,1,0
+Boom,Family/Friend,22.5,Freehold,Afternoon,0,1
+Waitlist,Healthcare Provider,12.5,Freehold,Afternoon,0,1
+Call,Healthcare Provider,32.5,Virtual,Evening,1,0
+Boom,Social Media,52.5,Freehold,Evening,1,0
+Call,Other,22.5,Virtual,Morning,1,0
+Call,Family/Friend,32.5,Freehold,Evening,1,0
+Boom,Family/Friend,38.2,Virtual,Afternoon,1,1
+Boom,Healthcare Provider,38.2,Virtual,Afternoon,0,1
+Call,Family/Friend,38.2,Virtual,Morning,1,0
+Boom,Healthcare Provider,38.2,Freehold,Morning,0,1
+Call,Family/Friend,38.2,Freehold,Morning,0,1
+Unknown,Unknown,38.2,Freehold,Afternoon,0,1
+Unknown,Unknown,38.2,Princeton,Morning,0,1
+Unknown,Unknown,38.2,Virtual,Afternoon,0,1
+Unknown,Unknown,38.2,Freehold,Afternoon,0,1
+Unknown,Unknown,38.2,Freehold,Afternoon,0,1
+Unknown,Unknown,38.2,Freehold,Morning,0,1
+Unknown,Unknown,38.2,Freehold,Afternoon,0,1
+Unknown,Unknown,38.2,Freehold,Morning,0,1
+Unknown,Unknown,38.2,Virtual,Afternoon,1,0
+Unknown,Unknown,38.2,Virtual,Morning,1,0
+Unknown,Unknown,38.2,Freehold,Afternoon,0,1
+Unknown,Unknown,38.2,Virtual,Evening,0,1
+Unknown,Unknown,38.2,Virtual,Morning,0,1
+Call,Google or another search engine,38.2,Princeton,Morning,0,1
+Call,Family/Friend,38.2,Virtual,Morning,1,0
+Unknown,Unknown,38.2,Virtual,Afternoon,0,1
+Unknown,Unknown,38.2,Freehold,Evening,1,0
+Unknown,Unknown,38.2,Virtual,Evening,1,0
+Unknown,Unknown,38.2,Freehold,Evening,1,0
+Unknown,"Referred by Family Member; GA confirmed over phone with mom when booking that insurance on file is still active -  member ID, effective date, and group ID are all the same",38.2,Princeton,Evening,0,1
+Unknown,Unknown,38.2,Freehold,Evening,0,1
+Call,Other,38.2,Freehold,Morning,0,1
+Unknown,Unknown,38.2,Princeton,Afternoon,0,1
+Waitlist,Family/Friend,38.2,Freehold,Evening,0,1
+Unknown,Unknown,38.2,Freehold,Morning,1,0
+Unknown,Unknown,38.2,Freehold,Evening,1,0
+Other,Healthcare Provider,38.2,Virtual,Morning,1,0
+Unknown,Returning Client,38.2,Freehold,Afternoon,0,1
+Unknown,Returning Client,38.2,Freehold,Afternoon,0,1
+Unknown,Unknown,38.2,Freehold,Morning,0,1
+Call,Following Clinician,38.2,Virtual,Morning,1,1
+Unknown,Following Clinician,38.2,Virtual,Afternoon,0,1
+Boom,Healthcare Provider,38.2,Princeton,Afternoon,0,1
+Unknown,Current Client,38.2,Freehold,Afternoon,0,1
+Unknown,Unknown,38.2,Princeton,Evening,0,1
+Unknown,Current Client,38.2,Virtual,Evening,0,1
+Unknown,Following Clinician,38.2,Virtual,Morning,0,1
+Unknown,Unknown,38.2,Virtual,Morning,1,0
+Unknown,Unknown,38.2,Virtual,Morning,1,0
+Unknown,Unknown,38.2,Virtual,Afternoon,0,1
+Unknown,Unknown,38.2,Freehold,Evening,0,1
+Unknown,Unknown,38.2,Freehold,Evening,0,1
+Unknown,Unknown,38.2,Virtual,Evening,0,1
+Unknown,Unknown,38.2,Virtual,Evening,0,1
+Waitlist,Unknown,38.2,Freehold,Evening,0,1
+Unknown,Unknown,38.2,Freehold,Morning,0,1
+Unknown,Following Clinician,38.2,Virtual,Morning,0,1
+Call,Unknown,38.2,Virtual,Morning,0,1
+Unknown,Unknown,38.2,Virtual,Afternoon,0,1
+Unknown,Unknown,38.2,Virtual,Afternoon,0,1
+Unknown,Referred from Genpsych,38.2,Freehold,Evening,0,1
+Unknown,Unknown,38.2,Virtual,Evening,1,0
+Waitlist,Unknown,38.2,Virtual,Evening,0,1
+Unknown,Following Clinician,38.2,Virtual,Morning,0,1
+Boom,Healthcare Provider,38.2,Virtual,Morning,0,1
+Unknown,Referred by Family/Friend,38.2,Virtual,Afternoon,0,1
+Unknown,Unknown,38.2,Princeton,Afternoon,0,1
+Unknown,Referred by friend/family,38.2,Freehold,Morning,1,0
+Boom,Insurance Company,38.2,Freehold,Morning,1,1
+Boom,Family/Friend,38.2,Virtual,Afternoon,0,1
+Unknown,Following Clinician,38.2,Virtual,Afternoon,0,1
+Unknown,Unknown,38.2,Virtual,Afternoon,0,1
+Unknown,Unknown,38.2,Princeton,Evening,0,1
+Boom,Healthcare Provider,38.2,Virtual,Morning,0,1
+Virtual,Unknown,38.2,Virtual,Evening,0,1
+Unknown,Following Clinician,38.2,Virtual,Evening,0,1
+Unknown,Following Clinician,38.2,Virtual,Morning,0,1
+Other,Unknown,38.2,Virtual,Morning,0,1
+Unknown,Client of Ariella,38.2,Virtual,Morning,0,1
+Boom,Healthcare Provider,38.2,Virtual,Morning,0,1
+Unknown,Unknown,38.2,Virtual,Afternoon,1,0
+Unknown,Referred by Family Member,38.2,Virtual,Afternoon,1,1
+Unknown,Referred by Insurance Provider,38.2,Virtual,Afternoon,1,0
+Unknown,Following Clinician,38.2,Virtual,Morning,0,1
+Boom,Google or another search engine,38.2,Freehold,Afternoon,0,1
+Waitlist,Insurance Company,38.2,Freehold,Afternoon,0,1
+Unknown,Following Clinician,38.2,Virtual,Evening,0,1
+Other,Unknown,38.2,Freehold,Morning,0,1
+Waitlist,Google or another search engine,38.2,Virtual,Afternoon,0,1
+Call,Following Clinician,38.2,Virtual,Afternoon,0,1
+Unknown,Unknown,38.2,Virtual,Morning,0,1
+Call,Google or another search engine,38.2,Princeton,Morning,0,1
+Unknown,Healthcare Provider,38.2,Virtual,Morning,1,0
+Call,Following Clinician,38.2,Virtual,Afternoon,0,1
+Call,Following Clinician,38.2,Virtual,Afternoon,0,1
+Boom,Insurance Company,38.2,Princeton,Afternoon,0,1
+Waitlist,Insurance Company,38.2,Virtual,Afternoon,0,1
+Boom,Healthcare Provider,38.2,Virtual,Afternoon,0,1
+Other,Following Clinician,38.2,Virtual,Afternoon,0,1
+Waitlist,Google or another search engine,38.2,Freehold,Afternoon,0,1
+Waitlist,Google or another search engine,38.2,Freehold,Evening,0,1
+Unknown,Following Clinician,38.2,Virtual,Evening,0,1
+Waitlist,Family/Friend,38.2,Freehold,Evening,0,1
+Call,Following Clinician,38.2,Virtual,Morning,0,1
+Unknown,Following Clinician,38.2,Virtual,Afternoon,0,1
+Boom,Insurance Company,38.2,Virtual,Afternoon,0,1
+Boom,Google or another search engine,38.2,Virtual,Afternoon,0,1
+Call,Insurance Company,38.2,Freehold,Afternoon,0,1
+Other,Social Media,38.2,Virtual,Afternoon,1,0
+Waitlist,Google or another search engine,38.2,Princeton,Evening,0,1
+Call,Following Clinician,38.2,Virtual,Evening,0,1
+Unknown,Following Clinician,38.2,Virtual,Evening,0,1
+Unknown,Family/Friend,38.2,Freehold,Evening,1,0
+Call,Following Clinician,38.2,Freehold,Morning,0,1
+Call,Other,38.2,Virtual,Morning,0,1
+Call,Following Clinician,38.2,Virtual,Afternoon,0,1
+Boom,Healthcare Provider,38.2,Virtual,Afternoon,0,1
+Unknown,Unknown,38.2,Freehold,Evening,1,0
+Unknown,Healthcare Provider,38.2,Virtual,Afternoon,1,0
+Unknown,3rd Party Website,38.2,Virtual,Evening,1,0
+Waitlist,Unknown,38.2,Freehold,Evening,0,1
+Waitlist,Google or another search engine,38.2,Freehold,Evening,0,1
+Boom,Family/Friend,38.2,Princeton,Morning,0,1
+Waitlist,Other,38.2,Freehold,Afternoon,0,1
+Unknown,Unknown,38.2,Virtual,Afternoon,1,0
+Boom,Family/Friend,38.2,Freehold,Afternoon,0,1
+Unknown,Unknown,38.2,Freehold,Morning,1,0
+Waitlist,Social Media,38.2,Virtual,Afternoon,0,1
+Boom,Family/Friend,38.2,Freehold,Afternoon,1,1
+Unknown,Following Clinician,38.2,Freehold,Morning,0,0
+Unknown,Other,38.2,Virtual,Morning,1,0
+Boom,Family/Friend,38.2,Freehold,Morning,0,1
+Call,Other,38.2,Freehold,Evening,0,1
+Call,Following Clinician,38.2,Virtual,Evening,0,1
+Call,Social Media,38.2,Virtual,Morning,0,1
+Call,Family/Friend,38.2,Princeton,Afternoon,0,1
+Call,Other,38.2,Virtual,Morning,0,1
+Call,Social Media,38.2,Virtual,Afternoon,0,1
+Unknown,Unknown,38.2,Virtual,Morning,1,0
+Call,Family/Friend,38.2,Freehold,Afternoon,0,1
+Waitlist,Family/Friend,38.2,Freehold,Afternoon,0,1
+Waitlist,Insurance Company,38.2,Virtual,Afternoon,0,1
+Call,Healthcare Provider,38.2,Virtual,Afternoon,0,1
+Unknown,Unknown,38.2,Princeton,Evening,0,1
+Unknown,Google or another search engine,38.2,Virtual,Morning,1,0
+Boom,Google or another search engine,38.2,Virtual,Morning,0,1
+Other,Other,38.2,Princeton,Afternoon,0,0
+Call,Following Clinician,38.2,Virtual,Afternoon,0,1
+Waitlist,Google or another search engine,38.2,Princeton,Afternoon,0,1
+Waitlist,Healthcare Provider,38.2,Freehold,Afternoon,0,1
+Unknown,Healthcare Provider,38.2,Virtual,Afternoon,1,0
+Waitlist,Healthcare Provider,38.2,Freehold,Afternoon,0,1
+Waitlist,Family/Friend,38.2,Freehold,Afternoon,0,1
+Unknown,Social Media,38.2,Virtual,Evening,1,0
+Waitlist,Family/Friend,38.2,Princeton,Evening,0,1
+Boom,Family/Friend,38.2,Princeton,Evening,0,1
+Waitlist,Family/Friend,38.2,Princeton,Evening,0,1
+Call,Other,38.2,Freehold,Morning,0,1
+Call,Other,38.2,Freehold,Afternoon,1,0
+Waitlist,Other,38.2,Freehold,Afternoon,0,1
+Boom,Family/Friend,38.2,Freehold,Afternoon,0,1
+Boom,Family/Friend,38.2,Freehold,Morning,0,1
+Boom,Google or another search engine,38.2,Freehold,Afternoon,0,1
+Call,Other,38.2,Virtual,Morning,1,0
+Waitlist,Family/Friend,38.2,Virtual,Afternoon,0,1
+Call,Following Clinician,38.2,Freehold,Afternoon,0,1
+Unknown,Referred by Family/Friend,38.2,Freehold,Evening,0,1
+Waitlist,Other,38.2,Freehold,Evening,0,1
+Boom,Insurance Company,38.2,Virtual,Morning,1,1
+Boom,Insurance Company,38.2,Virtual,Afternoon,0,1
+Boom,Google or another search engine,38.2,Virtual,Afternoon,0,1
+Waitlist,Other,38.2,Freehold,Afternoon,0,1
+Unknown,Other,38.2,Virtual,Afternoon,0,1
+Other,Family/Friend,38.2,Virtual,Afternoon,0,1
+Call,Healthcare Provider,38.2,Virtual,Evening,1,0
+Boom,Insurance Company,38.2,Virtual,Afternoon,0,1
+Boom,Healthcare Provider,38.2,Virtual,Afternoon,1,0
+Call,Following Clinician,38.2,Virtual,Afternoon,1,0
+Boom,Healthcare Provider,38.2,Virtual,Afternoon,0,1
+Boom,Family/Friend,38.2,Freehold,Morning,0,1
+Boom,Insurance Company,38.2,Virtual,Morning,0,1
+Waitlist,Family/Friend,38.2,Virtual,Evening,0,1
+Boom,Family/Friend,38.2,Freehold,Afternoon,0,1
+Boom,Family/Friend,38.2,Princeton,Morning,1,1
+Boom,Google or another search engine,38.2,Freehold,Morning,0,1
+Waitlist,Other,38.2,Freehold,Evening,0,1
+Other,Family/Friend,38.2,Freehold,Afternoon,0,1
+Call,Insurance Company,38.2,Freehold,Afternoon,0,1
+Boom,Google or another search engine,38.2,Virtual,Afternoon,0,1
+Call,Insurance Company,38.2,Virtual,Afternoon,0,1
+Boom,Healthcare Provider,38.2,Freehold,Afternoon,1,1
+Waitlist,Other,38.2,Princeton,Afternoon,1,1
+Call,Healthcare Provider,38.2,Virtual,Afternoon,0,1
+Call,Healthcare Provider,38.2,Virtual,Morning,1,0
+Call,Social Media,38.2,Freehold,Morning,0,1
+Boom,Social Media,38.2,Virtual,Afternoon,1,0
+Call,Following Clinician,38.2,Freehold,Afternoon,0,1
+Call,Other,38.2,Virtual,Afternoon,0,1
+Call,Healthcare Provider,38.2,Princeton,Afternoon,0,1
+Boom,Family/Friend,38.2,Virtual,Evening,0,1
+Call,Healthcare Provider,38.2,Freehold,Afternoon,0,1
+Call,Family/Friend,38.2,Freehold,Afternoon,0,1
+Unknown,Unknown,38.2,Freehold,Evening,0,1
+Call,Healthcare Provider,38.2,Princeton,Morning,1,0
+Waitlist,Insurance Company,38.2,Freehold,Afternoon,0,1
+Boom,Social Media,38.2,Virtual,Morning,1,0
+Call,Family/Friend,38.2,Freehold,Afternoon,0,1
+Call,Family/Friend,38.2,Freehold,Afternoon,0,1
+Call,Family/Friend,38.2,Princeton,Morning,0,1
+Boom,Healthcare Provider,38.2,Princeton,Afternoon,0,1
+Call,Family/Friend,38.2,Freehold,Afternoon,0,1
+Waitlist,Google or another search engine,38.2,Princeton,Afternoon,0,1
+Boom,Family/Friend,38.2,Freehold,Afternoon,1,1
+Waitlist,Other,38.2,Princeton,Afternoon,0,1
+Boom,Healthcare Provider,38.2,Virtual,Afternoon,0,1
+Waitlist,Family/Friend,38.2,Virtual,Evening,0,1
+Call,Other,38.2,Freehold,Morning,0,1
+Call,Family/Friend,38.2,Virtual,Afternoon,0,1
+Call,Insurance Company,38.2,Freehold,Evening,1,0
+Boom,Healthcare Provider,38.2,Princeton,Morning,0,1
+Call,Family/Friend,38.2,Virtual,Morning,0,1
+Boom,Family/Friend,38.2,Freehold,Afternoon,1,1
+Boom,Social Media,38.2,Virtual,Afternoon,0,1
+Call,Family/Friend,38.2,Freehold,Afternoon,0,1
+Waitlist,Healthcare Provider,38.2,Virtual,Afternoon,0,1
+Waitlist,Other,38.2,Virtual,Afternoon,0,1
+Boom,Google or another search engine,38.2,Freehold,Afternoon,0,1
+Call,Google or another search engine,38.2,Princeton,Morning,0,1
+Call,Healthcare Provider,38.2,Princeton,Afternoon,0,1
+Boom,Family/Friend,38.2,Princeton,Afternoon,0,1
+Call,Healthcare Provider,38.2,Virtual,Afternoon,0,1
+Call,Social Media,38.2,Princeton,Morning,1,0
+Boom,Family/Friend,38.2,Freehold,Afternoon,0,1
+Unknown,Google or another search engine,38.2,Virtual,Afternoon,0,1
+Waitlist,Social Media,38.2,Princeton,Evening,0,1
+Boom,Flyer,38.2,Princeton,Morning,1,0
+Waitlist,Other,38.2,Freehold,Evening,0,1
+Waitlist,Other,38.2,Virtual,Afternoon,0,1
+Boom,Healthcare Provider,38.2,Virtual,Morning,0,1
+Call,Family/Friend,38.2,Princeton,Evening,1,0
+Waitlist,Social Media,38.2,Freehold,Afternoon,0,1
+Boom,Google or another search engine,38.2,Freehold,Afternoon,0,1
+Boom,Google or another search engine,38.2,Virtual,Afternoon,0,1
+Boom,Family/Friend,38.2,Virtual,Afternoon,0,1
+Call,Healthcare Provider,38.2,Virtual,Morning,1,0
+Call,Google or another search engine,38.2,Freehold,Morning,1,1
+Waitlist,Other,38.2,Virtual,Afternoon,0,1
+Boom,Healthcare Provider,38.2,Virtual,Evening,1,0
+Waitlist,Social Media,38.2,Virtual,Evening,0,1
+Waitlist,Family/Friend,38.2,Freehold,Evening,0,1
+Boom,Healthcare Provider,38.2,Freehold,Afternoon,1,1
+Boom,Non-Profit Organization,38.2,Virtual,Afternoon,0,1
+Call,Healthcare Provider,38.2,Virtual,Afternoon,0,1
+Call,Family/Friend,38.2,Virtual,Afternoon,0,1
+Call,Family/Friend,38.2,Virtual,Morning,0,1
+Call,Google or another search engine,38.2,Freehold,Morning,0,1
+Call,Google or another search engine,38.2,Freehold,Morning,0,1
+Boom,Healthcare Provider,38.2,Virtual,Afternoon,0,1
+Waitlist,Other,38.2,Virtual,Afternoon,0,1
+Waitlist,Insurance Company,38.2,Virtual,Evening,0,1
+Boom,Google or another search engine,38.2,Virtual,Afternoon,1,0
+Call,Healthcare Provider,38.2,Princeton,Afternoon,0,1
+Call,Google or another search engine,38.2,Freehold,Afternoon,1,1
+Boom,Family/Friend,38.2,Virtual,Afternoon,1,0
+Call,3rd Party Website,38.2,Virtual,Morning,1,0
+Call,Other,38.2,Freehold,Afternoon,0,1
+Boom,Insurance Company,38.2,Virtual,Afternoon,0,1
+Call,Social Media,38.2,Freehold,Afternoon,0,1
+Boom,Family/Friend,38.2,Virtual,Morning,0,1
+Boom,Family/Friend,38.2,Princeton,Morning,0,1
+Call,Other,38.2,Freehold,Afternoon,1,0
+Boom,Healthcare Provider,38.2,Virtual,Morning,1,0
+Waitlist,Insurance Company,38.2,Freehold,Afternoon,0,1
+Call,Other,38.2,Virtual,Afternoon,1,0
+Waitlist,Other,38.2,Princeton,Evening,0,1
+Boom,Healthcare Provider,38.2,Freehold,Afternoon,0,1
+Call,Other,38.2,Freehold,Afternoon,0,1
+Boom,Family/Friend,38.2,Virtual,Morning,0,1
+Call,Insurance Company,38.2,Virtual,Morning,0,1
+Boom,Family/Friend,38.2,Freehold,Afternoon,0,1
+Boom,Google or another search engine,38.2,Freehold,Afternoon,0,1
+Boom,Family/Friend,38.2,Virtual,Afternoon,0,1
+Boom,Google or another search engine,38.2,Virtual,Afternoon,1,1
+Call,Unknown,38.2,Princeton,Evening,1,0
+Call,Other,38.2,Unknown,Afternoon,0,1
+Boom,Google or another search engine,38.2,Freehold,Afternoon,0,1
+Call,Other,38.2,Princeton,Morning,0,1
+Boom,Healthcare Provider,38.2,Virtual,Afternoon,1,0
+Boom,Family/Friend,38.2,Freehold,Evening,1,0
+Call,Healthcare Provider,38.2,Freehold,Morning,0,1
+Call,Insurance Company,38.2,Virtual,Morning,1,0
+Boom,Healthcare Provider,38.2,Princeton,Morning,1,0
+Waitlist,Other,38.2,Freehold,Morning,1,1
+Waitlist,Family/Friend,38.2,Freehold,Evening,0,1
+Boom,Healthcare Provider,38.2,Virtual,Morning,1,0
+Boom,Family/Friend,38.2,Princeton,Afternoon,0,1
+Call,Google or another search engine,38.2,Freehold,Afternoon,1,1
+Boom,Google or another search engine,38.2,Freehold,Afternoon,0,1
+Waitlist,Family/Friend,38.2,Virtual,Evening,0,1
+Waitlist,Family/Friend,38.2,Virtual,Evening,0,1
+Waitlist,Other,38.2,Virtual,Evening,0,1
+Boom,Healthcare Provider,38.2,Princeton,Afternoon,0,1
+Call,Google or another search engine,38.2,Freehold,Afternoon,0,1
+Waitlist,Insurance Company,38.2,Virtual,Evening,0,1
+Boom,Family/Friend,38.2,Freehold,Morning,1,1
+Waitlist,Other,38.2,Princeton,Morning,0,1
+Call,Other,38.2,Freehold,Morning,1,0
+Waitlist,Other,38.2,Virtual,Morning,1,0
+Boom,Insurance Company,38.2,Princeton,Afternoon,0,1
+Boom,Google or another search engine,38.2,Virtual,Morning,0,1
+Call,Insurance Company,38.2,Princeton,Afternoon,0,1
+Waitlist,Family/Friend,38.2,Freehold,Evening,0,1
+Call,Google or another search engine,38.2,Princeton,Afternoon,0,1
+Boom,Family/Friend,38.2,Virtual,Afternoon,0,1
+Waitlist,Other,38.2,Virtual,Afternoon,1,1
+Waitlist,Family/Friend,38.2,Freehold,Afternoon,0,1
+Waitlist,Family/Friend,38.2,Princeton,Evening,0,1
+Call,Other,38.2,Freehold,Morning,0,1
+Call,Other,38.2,Freehold,Morning,0,1
+Call,Healthcare Provider,38.2,Virtual,Afternoon,0,1
+Waitlist,Family/Friend,38.2,Freehold,Evening,0,1
+Boom,Family/Friend,38.2,Virtual,Afternoon,0,1
+Boom,Insurance Company,38.2,Princeton,Evening,0,1
+Boom,Healthcare Provider,38.2,Princeton,Morning,0,1
+Call,Family/Friend,38.2,Virtual,Afternoon,1,0
+Call,Family/Friend,38.2,Virtual,Morning,1,0
+Call,Google or another search engine,38.2,Virtual,Afternoon,0,1
+Waitlist,Other,38.2,Freehold,Afternoon,0,1
+Other,Other,38.2,Virtual,Afternoon,0,1
+Boom,Family/Friend,38.2,Princeton,Morning,0,1
+Call,Other,38.2,Virtual,Morning,1,0
+Boom,Google or another search engine,38.2,Princeton,Afternoon,0,1
+Call,Other,38.2,Virtual,Afternoon,0,1

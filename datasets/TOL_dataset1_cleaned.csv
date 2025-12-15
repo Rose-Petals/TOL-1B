@@ -1,0 +1,1035 @@
+intake_method,referer,age,town,insurance_carrier,appointment_location,appointment_time,Medication Management,therapy_Individual,therapy_Family,therapy_Couples,therapy_Bariatric Evaluation
+Call,Bariatric Doctor,27.5,Elizabeth,BCBS,Virtual,Evening,0,0,0,0,1
+Call,Family/Friend,12.5,Summit,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Monroe,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Ocean,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Jackson,Aetna,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Oradell,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Ewing,Aetna,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Passaic,BCBS,Virtual,Afternoon,1,0,0,0,0
+Boom Form,Family/Friend,30.309824902723737,Monmouth Beach,BCBS,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Hamilton,United Healthcare,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,17.5,Jackson,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Oradell,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,32.5,Freehold,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,12.5,Princeton Junction,Cigna,Princeton,Evening,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Plainsboro,BCBS,Princeton,Evening,0,1,0,0,0
+Boom Form,Family/Friend,62.5,Millstone,Cigna,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,12.5,Freehold,BCBS,Freehold,Evening,0,1,0,0,0
+Boom Form,Family/Friend,42.5,Freehold,BCBS,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,3.0,Cream Ridge,BCBS,Freehold,Evening,0,1,0,0,0
+Text,Family/Friend,22.5,Old Bridge,BCBS,Freehold,Evening,1,0,0,0,0
+Boom Form,Family/Friend,7.5,Manalapan,Aetna,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,7.5,Freehold,BCBS,Freehold,Evening,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Jackson,Aetna,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,42.5,Freehold,United Healthcare,Freehold,Morning,0,1,0,0,0
+Boom Form,Family/Friend,52.5,Freehold,Aetna,Freehold,Morning,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Jackson,BCBS,Freehold,Morning,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Matawan,Meritain,Virtual,Morning,0,1,0,0,0
+Boom Form,Family/Friend,57.5,Cliffwood,BCBS,Virtual,Morning,0,1,0,0,0
+Boom Form,Family/Friend,17.5,Mantoloking,United Healthcare,Freehold,Morning,0,1,0,0,0
+Boom Form,Family/Friend,22.5,East Brunswick,Highmark,Virtual,Morning,0,1,0,0,0
+Boom Form,Family/Friend,52.5,Princeton,Aetna,Princeton,Morning,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Toms River,BCBS,Virtual,Morning,1,0,0,0,0
+Boom Form,Family/Friend,22.5,Manalapan,MagnaCare,Virtual,Morning,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Lawrence Township,Cigna,Princeton,Morning,0,1,0,0,0
+Boom Form,Family/Friend,57.5,Freehold,Other,Freehold,Morning,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Brick,BCBS,Freehold,Morning,0,1,0,0,0
+Boom Form,Family/Friend,52.5,Morganville,Cigna,Freehold,Morning,0,1,0,0,0
+Call,Family/Friend,22.5,Long Branch,BCBS,Virtual,Morning,1,1,0,0,0
+Boom Form,Family/Friend,27.5,Freehold,Aetna,Virtual,Morning,0,1,0,0,0
+Boom Form,Google or another search engine,30.309824902723737,Cream Ridge,Aetna,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,22.5,Princeton,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Call,Google or another search engine,27.5,Clearwater,Cigna,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,27.5,New Brunswick,Cigna,Princeton,Evening,0,1,0,0,0
+Boom Form,Google or another search engine,27.5,Jackson,Aetna,Princeton,Evening,0,1,0,0,0
+Call,Google or another search engine,22.5,Howell,UMR,Freehold,Evening,0,1,0,0,0
+Boom Form,Google or another search engine,37.5,South Amboy,BCBS,Princeton,Evening,0,1,0,0,0
+Boom Form,Google or another search engine,52.5,Cranbury,BCBS,Princeton,Morning,0,1,0,0,0
+Boom Form,Healthcare Provider,22.5,Princeton Junction,United Healthcare,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,27.5,East Windsor,Cigna,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,62.5,Freehold,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,52.5,Freehold,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,32.5,Freehold,Aetna,Virtual,Afternoon,1,1,0,0,0
+Call,Healthcare Provider,30.309824902723737,Manalapan,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,67.5,Point Pleasant,Medicare,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,17.5,Allentown,United Healthcare,Princeton,Evening,0,1,0,0,0
+Boom Form,Healthcare Provider,27.5,Kendall Park,United Healthcare,Virtual,Evening,1,0,0,0,0
+Boom Form,Healthcare Provider,27.5,Lawrence Township,Aetna,Virtual,Evening,0,1,0,0,0
+Boom Form,Healthcare Provider,42.5,Bordentown,BCBS,Princeton,Evening,0,1,0,0,0
+Boom Form,Healthcare Provider,37.5,Englishtown,BCBS,Virtual,Morning,0,0,0,1,0
+Boom Form,Healthcare Provider,30.309824902723737,Vorhees,Aetna,Virtual,Morning,0,1,0,0,0
+Boom Form,Healthcare Provider,22.5,Trenton,BCBS,Virtual,Morning,0,1,0,0,0
+Boom Form,Healthcare Provider,37.5,Mount Royal,BCBS,Princeton,Morning,1,1,0,0,0
+Call,Healthcare Provider,27.5,Old Bridge,BCBS,Freehold,Morning,1,1,0,0,0
+Boom Form,Insurance Company,37.5,Plainsboro,Quest,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Insurance Company,22.5,Princeton,United Healthcare,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Insurance Company,32.5,Hewitt,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Insurance Company,42.5,East Windsor,Cigna,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Insurance Company,32.5,Freehold,BCBS,Virtual,Evening,1,0,0,0,0
+Boom Form,Insurance Company,52.5,Jackson,BCBS,Freehold,Evening,0,0,1,0,0
+Boom Form,Insurance Company,32.5,Hamilton,Cigna,Princeton,Morning,0,1,0,0,0
+Other,Internal TOL Referral ,50.0,Freehold,BCBS,Freehold,Afternoon,0,0,0,1,0
+Call,Internal TOL Referral ,30.0,Jackson,Aetna,Princeton,Afternoon,0,0,0,1,0
+Other,Internal TOL Referral ,12.5,Farmingdale,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Internal TOL Referral ,52.5,Hopewell,BCBS,Virtual,Afternoon,0,0,0,1,0
+Text,Internal TOL Referral ,42.5,Oceanport,Aetna,Freehold,Afternoon,0,1,0,0,0
+Text,Internal TOL Referral ,37.5,Ocean,Cigna,Freehold,Afternoon,0,0,0,1,0
+Other,Internal TOL Referral ,7.5,Morganville,United Healthcare,Freehold,Afternoon,0,1,0,0,0
+Call,Internal TOL Referral ,37.5,Spring Lake,Amerihealth,Virtual,Afternoon,0,0,0,1,0
+Call,Internal TOL Referral ,57.5,Howell,MagnaCare,Freehold,Evening,0,1,0,0,0
+Call,Internal TOL Referral ,37.5,Keyport,Meritain,Virtual,Evening,0,0,0,1,0
+Call,Internal TOL Referral ,32.5,Browns Mills,BCBS,Virtual,Morning,0,0,0,1,0
+Call,Internal TOL Referral ,37.5,Neptune,United Healthcare,Freehold,Morning,0,0,0,1,0
+Other,Internal TOL Referral ,52.5,Morganville,BCBS,Freehold,Morning,0,1,0,0,0
+Other,Internal TOL Referral ,27.5,Plainsboro,BCBS,Princeton,Morning,0,1,0,0,0
+Call,IOP,27.5,Keyport,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Call,IOP,37.5,Lawrence Township,Aetna,Princeton,Evening,0,1,0,0,0
+Boom Form,Social Media,57.5,Manalapan,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Social Media,45.0,Park ridge,Cigna,Virtual,Afternoon,0,0,0,1,0
+Boom Form,Social Media,22.5,Port Monmouth,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Social Media,22.5,Middletown,BCBS,Freehold,Afternoon,1,0,0,0,0
+Boom Form,Google or another search engine,37.5,Freehold,Cigna,Freehold,Evening,1,0,0,0,0
+Boom Form,Social Media,37.5,Toms River,BCBS,Virtual,Morning,0,1,0,0,0
+Boom Form,Google or another search engine,22.5,Princeton,United Healthcare,Princeton,Morning,0,1,0,0,0
+Boom Form,Social Media,32.5,Manalapan,BCBS,Virtual,Morning,1,0,0,0,0
+Boom Form,Social Media,37.5,Fort Lee,Cigna,Virtual,Morning,0,1,0,0,0
+Call,Unknown,37.5,Titusville,BCBS,Princeton,Afternoon,0,1,0,0,0
+Call,Unknown,62.5,Brick,United Healthcare,Freehold,Afternoon,0,1,0,0,0
+Call,Unknown,57.5,Hazlet,Cigna,Freehold,Afternoon,0,1,0,0,0
+Call,Unknown,57.5,Toms River,Medicare,Virtual,Afternoon,0,1,0,0,0
+Call,Unknown,17.5,East Windsor,United Healthcare,Freehold,Afternoon,0,1,0,0,0
+Call,Unknown,42.5,Princeton,United Healthcare,Princeton,Afternoon,0,1,0,0,0
+Call,Unknown,32.5,Wall,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Call,Unknown,27.5,Cherry Hill,Aetna,Virtual,Afternoon,0,1,0,0,0
+Call,Unknown,32.5,Hamilton,BCBS,Princeton,Afternoon,0,1,0,0,0
+Call,Unknown,22.5,Plainsboro,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Unknown,22.5,Jackson,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Unknown,37.5,Ringoes,Aetna,Virtual,Afternoon,0,1,0,0,0
+Call,Unknown,12.5,Penningotn,Aetna,Princeton,Afternoon,0,1,0,0,0
+Call,Unknown,77.5,Freehold,Medicare,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Unknown,27.5,Plainsboro,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Unknown,12.5,Freehold,Aetna,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Unknown,57.5,Jackson,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Call,Unknown,17.5,Princeton,United Healthcare,Princeton,Evening,0,1,0,0,0
+Call,Unknown,67.5,East Brunswick,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Unknown,12.5,Jackson,Aetna,Virtual,Evening,1,0,0,0,0
+Call,Unknown,12.5,Marlboro,Optum,Freehold,Evening,0,1,0,0,0
+Call,Unknown,17.5,Morganville,United Healthcare,Freehold,Evening,0,1,0,0,0
+Call,Unknown,30.0,Howell,United Healthcare,Freehold,Evening,0,0,0,1,0
+Boom Form,Unknown,12.5,Manalapan,Cigna,Freehold,Evening,0,1,0,0,0
+Boom Form,Unknown,12.5,Edison,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Unknown,17.5,Princeton,United Healthcare,Princeton,Evening,0,1,0,0,0
+Call,Unknown,7.5,Marlboro,United Healthcare,Freehold,Evening,0,1,0,0,0
+Call,Unknown,17.5,Oceanport,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Unknown,12.5,Princeton Junction,BCBS,Princeton,Evening,0,1,0,0,0
+Call,Unknown,52.5,Freehold,United Healthcare,Freehold,Morning,0,1,0,0,0
+Call,Unknown,22.5,Farmingdale,Aetna,Virtual,Morning,1,0,0,0,0
+Call,Unknown,52.5,Colombus,BCBS,Virtual,Morning,0,1,0,0,0
+Call,Unknown,22.5,Brielle,BCBS,Virtual,Morning,0,1,0,0,0
+Call,Unknown,72.5,Hamilton,Medicare,Virtual,Morning,0,1,0,0,0
+Call,Unknown,27.5,Fort Lee,BCBS,Virtual,Morning,0,1,0,0,0
+Call,Unknown,67.5,Jackson,Meritain,Freehold,Morning,0,1,0,0,0
+Call,Unknown,22.5,Middletown,BCBS,Freehold,Morning,1,0,0,0,0
+Call,Unknown,57.5,Millstone,Aetna,Freehold,Morning,0,1,0,0,0
+Call,Unknown,22.5,Glen Ridge,Aetna,Virtual,Morning,1,0,0,0,0
+Call,Unknown,37.5,Freehold,Aetna,Freehold,Morning,0,1,0,0,0
+Call,Unknown,82.5,Freehold,Aetna,Freehold,Morning,0,1,0,0,0
+Call,Unknown,42.5,Bordentown,BCBS,Virtual,Morning,0,1,0,0,0
+Call,Unknown,17.5,Holmdel,BCBS,Freehold,Morning,0,1,0,0,0
+Call,Unknown,87.5,Monroe,Medicare,Princeton,Morning,0,1,0,0,0
+Call,Family/Friend,40.0,Jackson,BCBS,Freehold,Morning,0,0,0,1,0
+Call,Family/Friend,42.5,Marlboro,United Healthcare,Freehold,Evening,1,1,0,0,0
+Boom Form,Family/Friend,22.5,Freehold,BCBS,Freehold,Morning,0,1,0,0,0
+Boom Form,Family/Friend,37.5,Freehold,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Old Bridge,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,32.5,East Brunswick,BCBS,Freehold,Evening,0,1,0,0,0
+Boom Form,Family/Friend,57.5,Freehold,United Healthcare,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,42.5,Freehold,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Freehold,BCBS,Freehold,Morning,0,1,0,0,0
+Call,Family/Friend,32.5,Trenton,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Family/Friend,22.5,Freehold,Aetna,Freehold,Morning,0,1,0,0,0
+Call,Family/Friend,32.5,Wall,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Family/Friend,22.5,Morganville,BCBS,Freehold,Evening,0,1,0,0,0
+Text,Family/Friend,52.5,Englishtown,BCBS,Freehold,Morning,0,1,0,0,0
+Text,Family/Friend,22.5,Toms River,BCBS,Freehold,Evening,0,1,0,0,0
+Boom Form,Family/Friend,12.5,Neptune,BCBS,Freehold,Evening,0,1,0,0,0
+Boom Form,Family/Friend,3.0,Morganville,Cigna,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,7.5,Freehold,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,17.5,Marlboro,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Family/Friend,12.5,Manalapan,Aetna,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,12.5,Freehold,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,7.5,Jackson,Oxford,Freehold,Afternoon,0,1,0,0,0
+Call,Family/Friend,12.5,Howell,BCBS,Freehold,Evening,0,1,0,0,0
+Text,Family/Friend,32.5,Toms River,United Healthcare,Freehold,Afternoon,1,0,0,0,0
+Other,Google or another search engine,67.5,Freehold,Medicare,Freehold,Afternoon,0,0,0,1,0
+Text,Google or another search engine,47.5,Howell,Oxford,Freehold,Morning,0,0,0,1,0
+Boom Form,Google or another search engine,22.5,Howell,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,42.5,Manalapan,Aetna,Freehold,Evening,0,1,0,0,0
+Boom Form,Google or another search engine,57.5,Unknown,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Google or another search engine,22.5,Roselle,Aetna,Freehold,Morning,0,1,0,0,0
+Call,Google or another search engine,62.5,Brick,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Google or another search engine,22.5,Freehold,Cigna,Freehold,Afternoon,0,1,0,0,0
+Call,Google or another search engine,37.5,Colts Neck,Oxford,Freehold,Evening,0,1,0,0,0
+Boom Form,Google or another search engine,17.5,Jackson,BCBS,Freehold,Evening,0,1,0,0,0
+Boom Form,Google or another search engine,7.5,Allentown,Aetna,Freehold,Evening,0,1,0,0,0
+Call,Google or another search engine,7.5,Marlboro,Cigna,Freehold,Evening,0,1,0,0,0
+Boom Form,Healthcare Provider,32.5,Roselle,Cigna,Freehold,Morning,0,1,0,0,0
+Call,Healthcare Provider,72.5,Monroe,Medicare,Freehold,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,62.5,Matawan,Cigna,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,17.5,Howell,Unknown,Freehold,Evening,0,1,0,0,0
+Boom Form,Healthcare Provider,12.5,Manalapan,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Healthcare Provider,7.5,Freehold,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Healthcare Provider,7.5,Freehold,BCBS,Freehold,Evening,0,1,0,0,0
+Boom Form,Healthcare Provider,67.5,Bordentown,Aetna,Freehold,Afternoon,1,0,0,0,0
+Boom Form,Healthcare Provider,17.5,Unknown,Cigna,Freehold,Evening,1,0,0,0,0
+Call,Healthcare Provider,32.5,Freehold,Aetna,Freehold,Evening,1,0,0,0,0
+Call,Insurance Company,57.5,Freehold,Cigna,Freehold,Evening,0,0,0,1,0
+Boom Form,Insurance Company,32.5,Atlantic Highlands,BCBS,Freehold,Evening,1,1,0,0,0
+Boom Form,Insurance Company,27.5,Freehold,BCBS,Freehold,Evening,1,1,0,0,0
+Boom Form,Insurance Company,27.5,Unknown,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Insurance Company,22.5,Monmouth Junction,Aetna,Freehold,Morning,0,1,0,0,0
+Boom Form,Insurance Company,27.5,Monroe,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Insurance Company,17.5,Morganville,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Insurance Company,67.5,Freehold,UMR,Freehold,Afternoon,0,1,0,0,0
+Call,Insurance Company,17.5,Freehold,Cigna,Freehold,Evening,1,1,0,0,0
+Call,Insurance Company,12.5,Hazlet,Cigna,Freehold,Evening,0,1,0,0,0
+Call,Insurance Company,42.5,Freehold,BCBS,Freehold,Evening,1,0,0,0,0
+Call,Insurance Company,3.0,Freehold,United Healthcare,Freehold,Evening,0,1,0,0,0
+Text,Internal TOL Referral ,47.5,Freehold,Other,Freehold,Afternoon,0,0,0,1,0
+Text,Internal TOL Referral ,60.0,Freehold,BCBS,Freehold,Afternoon,0,0,0,1,0
+Other,Internal TOL Referral ,7.5,Point Pleasant,Oxford,Freehold,Evening,0,1,0,0,0
+Boom Form,Social Media,37.5,Morganville,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Social Media,7.5,Colts Neck,Aetna,Freehold,Evening,1,0,0,0,0
+Boom Form,Unknown,60.0,Tinton Falls,BCBS,Freehold,Morning,0,0,0,1,0
+Call,Unknown,62.5,Jackson,BCBS,Freehold,Morning,0,0,1,0,0
+Boom Form,Unknown,52.5,Manalapan,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Unknown,52.5,Monroe,MagnaCare,Freehold,Afternoon,0,1,0,0,0
+Call,Unknown,17.5,Red Bank,United Healthcare,Freehold,Evening,1,1,0,0,0
+Call,Unknown,12.5,Freehold,United Healthcare,Freehold,Afternoon,0,1,0,0,0
+Call,Unknown,12.5,Jackson,Other,Freehold,Morning,0,1,0,0,0
+Boom Form,Family/Friend,67.5,Princeton Junction,Medicare,Princeton,Morning,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Princeton Junction,Aetna,Princeton,Morning,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Jackson,Aetna,Princeton,Evening,0,1,0,0,0
+Call,Family/Friend,47.5,Hightstown,UMR,Princeton,Afternoon,0,1,0,0,0
+Call,Family/Friend,7.5,Bridgewater,Oxford,Princeton,Evening,0,1,0,0,0
+Call,Family/Friend,7.5,Princeton Junction,Cigna,Princeton,Evening,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Princeton,United Healthcare,Princeton,Afternoon,1,0,0,0,0
+Boom Form,Google or another search engine,22.5,Hamilton,BCBS,Princeton,Morning,1,1,0,0,0
+Call,Google or another search engine,27.5,Titusville,Other,Princeton,Morning,1,1,0,0,0
+Boom Form,Google or another search engine,37.5,Cranbury,United Healthcare,Princeton,Morning,0,1,0,0,0
+Call,Google or another search engine,27.5,Plainsboro,Cigna,Princeton,Afternoon,0,1,0,0,0
+Call,Google or another search engine,17.5,Princeton Junction,Aetna,Princeton,Evening,0,1,0,0,0
+Call,Google or another search engine,22.5,Plainsboro,United Healthcare,Princeton,Evening,1,0,0,0,0
+Boom Form,Google or another search engine,22.5,California,BCBS,Princeton,Morning,0,1,0,0,0
+Call,Healthcare Provider,62.5,Mount Holly,BCBS,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,17.5,Princeton Junction,Cigna,Princeton,Evening,0,1,0,0,0
+Call,Healthcare Provider,12.5,PA,Aetna,Princeton,Evening,0,1,0,0,0
+Call,Healthcare Provider,7.5,Fieldsboro,BCBS,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Insurance Company,22.5,Trenton,Cigna,Princeton,Morning,0,1,0,0,0
+Boom Form,Insurance Company,27.5,Monmouth Junction,Cigna,Princeton,Afternoon,0,1,0,0,0
+Call,Insurance Company,22.5,Old Bridge,Aetna,Princeton,Afternoon,0,1,0,0,0
+Call,Insurance Company,47.5,Lawrence Township,Cigna,Princeton,Afternoon,0,1,0,0,0
+Call,Insurance Company,47.5,Princeton Junction,United Healthcare,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Insurance Company,7.5,Belle Mead,United Healthcare,Princeton,Afternoon,0,1,0,0,0
+Call,Insurance Company,17.5,Princeton Junction,Cigna,Princeton,Evening,0,1,0,0,0
+Call,Insurance Company,32.5,Princeton,Unknown,Princeton,Afternoon,1,0,0,0,0
+Call,Unknown,57.5,Monroe,BCBS,Princeton,Morning,0,1,0,0,0
+Boom Form,Community Event,37.5,Hopewell,Aetna,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,17.5,Manalapan,BCBS,Virtual,Morning,0,1,0,0,0
+Boom Form,Family/Friend,17.5,East Brunswick,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,37.5,Toms River,BCBS,Virtual,Morning,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Belmar,United Healthcare,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Howell,Cigna,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,42.5,Ocean,BCBS,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Brielle,BCBS,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Edgewater Park ,Oxford,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Wayne,Oxford,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Freehold,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,22.5,PA,Aetna,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,32.5,Old Bridge,BCBS,Virtual,Morning,0,1,0,0,0
+Call,Family/Friend,47.5,Carteret,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,22.5,Port Monmouth,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,37.5,Freehold,Aetna,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,22.5,East Brunswick,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,22.5,Manahawkin,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,22.5,Colts Neck,Optum,Virtual,Morning,0,1,0,0,0
+Call,Family/Friend,27.5,East Windsor,BCBS,Virtual,Evening,0,1,0,0,0
+Text,Family/Friend,37.5,Freehold,BCBS,Virtual,Morning,0,1,0,0,0
+Text,Family/Friend,32.5,Toms River,BCBS,Virtual,Afternoon,0,1,0,0,0
+Text,Family/Friend,17.5,Old Bridge,BCBS,Virtual,Evening,0,1,0,0,0
+Text,Family/Friend,17.5,Bernardsville,Cigna,Virtual,Evening,0,1,0,0,0
+Call,Google or another search engine,30.0,Browns Mills,BCBS,Virtual,Morning,0,0,0,1,0
+Boom Form,Google or another search engine,22.5,Ewing,BCBS,Virtual,Evening,1,1,0,0,0
+Boom Form,Google or another search engine,62.5,Allentown,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,22.5,Bayville,Meritain,Virtual,Morning,0,1,0,0,0
+Boom Form,Google or another search engine,32.5,North Brunswick,United Healthcare,Virtual,Evening,0,1,0,0,0
+Call,Google or another search engine,57.5,Little Silver,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Google or another search engine,27.5,New Brunswick,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Google or another search engine,37.5,Freehold,BCBS,Virtual,Morning,0,1,0,0,0
+Call,Google or another search engine,52.5,Middletown,BCBS,Virtual,Evening,0,1,0,0,0
+Boom Form,Google or another search engine,52.5,Skillman,BCBS,Virtual,Morning,1,0,0,0,0
+Boom Form,Healthcare Provider,22.5,Princeton Junction,BCBS,Virtual,Evening,1,1,0,0,0
+Boom Form,Healthcare Provider,22.5,Freehold,BCBS,Virtual,Evening,1,1,0,0,0
+Call,Healthcare Provider,47.5,Jackson,BCBS,Virtual,Morning,0,1,0,0,0
+Call,Healthcare Provider,32.5,Philadelphia,United Healthcare,Virtual,Morning,0,1,0,0,0
+Call,Healthcare Provider,67.5,Freehold,Medicare,Virtual,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,27.5,PA,Aetna,Virtual,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,27.5,Long Branch,BCBS,Virtual,Evening,0,1,0,0,0
+Boom Form,Healthcare Provider,37.5,Fair Lawn,United Healthcare,Virtual,Evening,1,0,0,0,0
+Boom Form,Healthcare Provider,22.5,Lakehurst,United Healthcare,Virtual,Evening,1,0,0,0,0
+Boom Form,Healthcare Provider,22.5,New York,Optum,Virtual,Morning,1,0,0,0,0
+Boom Form,Healthcare Provider,32.5,Penningotn,United Healthcare,Virtual,Evening,1,0,0,0,0
+Boom Form,Insurance Company,22.5,Jersey City,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Insurance Company,27.5,Princeton,Aetna,Virtual,Morning,0,1,0,0,0
+Boom Form,Insurance Company,32.5,Freehold,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Insurance Company,22.5,Princeton,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Call,Insurance Company,27.5,Forked River,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Insurance Company,22.5,Washington,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Insurance Company,37.5,Freehold,BCBS,Virtual,Morning,1,0,0,0,0
+Text,Insurance Company,27.5,Plainsboro,United Healthcare,Virtual,Morning,1,0,0,0,0
+Call,Insurance Company,32.5,Hopatcong,Quest,Virtual,Afternoon,0,1,0,0,0
+Text,Internal TOL Referral ,32.5,Keansburg,BCBS,Virtual,Afternoon,0,0,0,1,0
+Call,Internal TOL Referral ,17.5,Rumson,Aetna,Virtual,Morning,0,1,0,0,0
+Call,Internal TOL Referral ,27.5,Oakhurst,BCBS,Virtual,Afternoon,0,1,0,0,0
+Text,Internal TOL Referral ,32.5,Brick,BCBS,Virtual,Morning,1,0,0,0,0
+Call,Social Media,42.5,Manalapan,BCBS,Virtual,Morning,0,1,0,0,0
+Call,Unknown,52.5,Hazlet,Emblem Health,Virtual,Evening,0,1,0,0,0
+Boom Form,Healthcare Provider,32.5,Highland Park,Aetna,Virtual,Evening,1,0,0,0,0
+Call,Unknown,42.5,Burlington,Aetna,Freehold,Morning,0,0,0,0,1
+Boom Form,Google or another search engine,22.5,Freehold,United Healthcare,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Insurance Company,47.5,Princeton Junction,Cigna,Princeton,Morning,0,1,0,0,0
+Boom Form,Family/Friend,57.5,Manalapan,MagnaCare,Freehold,Morning,0,1,0,0,0
+Boom Form,Family/Friend,47.5,Manalapan,Cigna,Freehold,Evening,0,1,0,0,0
+Other,Insurance Company,57.5,Freehold,Other,Freehold,Evening,0,1,0,0,0
+Boom Form,Family/Friend,17.5,Marlboro,Aetna,Virtual,Evening,0,1,0,0,0
+Call,Insurance Company,32.5,Princeton,United Healthcare,Princeton,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,27.5,Millstone,Aetna,Princeton,Evening,0,1,0,0,0
+Call,Healthcare Provider,57.5,Asbury Park,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,17.5,Freehold,BCBS,Freehold,Morning,0,1,0,0,0
+Call,Google or another search engine,42.5,Manalapan,Cigna,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,27.5,Marlboro,BCBS,Freehold,Evening,0,1,0,0,0
+Boom Form,Healthcare Provider,27.5,Garwood,BCBS,Virtual,Morning,1,1,0,0,0
+Boom Form,Google or another search engine,57.5,North Brunswick,United Healthcare,Virtual,Afternoon,1,0,0,0,0
+Boom Form,Family/Friend,22.5,Freehold,United Healthcare,Freehold,Morning,0,1,0,0,0
+Boom Form,Healthcare Provider,42.5,Elizabeth,United Healthcare,Virtual,Morning,1,0,0,0,0
+Call,Healthcare Provider,22.5,Dumont,United Healthcare,Virtual,Morning,1,0,0,0,0
+Boom Form,Family/Friend,27.5,Toms River,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,12.5,Freehold,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Lincroft,BCBS,Freehold,Afternoon,1,0,0,0,0
+Boom Form,Google or another search engine,32.5,Howell,BCBS,Freehold,Afternoon,0,0,0,1,0
+Boom Form,Google or another search engine,17.5,Jackson,United Healthcare,Freehold,Afternoon,0,1,0,0,0
+Call,Family/Friend,47.5,Millstone,Meritain,Freehold,Afternoon,0,1,0,0,0
+Call,Family/Friend,7.5,Manalapan,Aetna,Freehold,Afternoon,0,1,0,0,0
+Call,Family/Friend,12.5,Howell,Other,Freehold,Afternoon,0,1,0,0,0
+Call,Family/Friend,12.5,Freehold,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Google or another search engine,40.0,Neptune,BCBS,Freehold,Afternoon,0,0,0,1,0
+Call,Google or another search engine,27.5,Neptune,Cigna,Freehold,Afternoon,0,0,0,1,0
+Call,Google or another search engine,67.5,Freehold,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Google or another search engine,42.5,Old Bridge,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Google or another search engine,17.5,Freehold,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Google or another search engine,12.5,Freehold,Aetna,Freehold,Afternoon,0,1,0,0,0
+Call,Google or another search engine,17.5,Marlboro,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,77.5,Jackson,Medicare,Freehold,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,32.5,Keansburg,United Healthcare,Freehold,Afternoon,1,0,0,0,0
+Call,Insurance Company,67.5,Freehold,Medicare,Freehold,Afternoon,0,1,0,0,0
+Call,Social Media,32.5,Manalapan,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Monroe,BCBS,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Trenton,BCBS,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,22.5,Ewing,Cigna,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,52.5,Edison,BCBS,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,17.5,Princeton,Aetna,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,27.5,Plainsboro,Cigna,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,22.5,Bloomsbury,United Healthcare,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,22.5,Hamilton,BCBS,Princeton,Afternoon,1,0,0,0,0
+Call,Family/Friend,27.5,Fieldsboro,BCBS,Princeton,Afternoon,0,1,0,0,0
+Call,Family/Friend,57.5,Plainsboro,BCBS,Princeton,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,22.5,Princeton,BCBS,Princeton,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,7.5,Fieldsboro,BCBS,Princeton,Afternoon,0,1,0,0,0
+Call,Internal TOL Referral ,22.5,Trenton,Aetna,Princeton,Afternoon,0,1,0,0,0
+Call,Unknown,52.5,Robbinsville,United Healthcare,Princeton,Afternoon,0,0,1,0,0
+Boom Form,Family/Friend,22.5,Old Bridge,Cigna,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Hoboken,Aetna,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Ewing,Cigna,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Fords,Cigna,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Trenton,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Asbury Park,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Somerset,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,22.5,New Egypt,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,17.5,North Brunswick,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,27.5,Verona,BCBS,Virtual,Afternoon,1,0,0,0,0
+Boom Form,Insurance Company,37.5,Freehold,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Insurance Company,32.5,Jackson,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Insurance Company,37.5,Kendall Park,Meritain,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,57.5,Penningotn,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,12.5,Millstone,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Google or another search engine,37.5,Hightstown,Cigna,Virtual,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,52.5,Lambertville,United Healthcare,Virtual,Afternoon,1,0,0,0,0
+Call,Insurance Company,62.5,Belle Mead,BCBS,Virtual,Afternoon,1,0,0,0,0
+Call,Internal TOL Referral ,62.5,Mount Holly,Other,Virtual,Afternoon,0,1,0,0,0
+Call,Internal TOL Referral ,22.5,Bridgewater,BCBS,Virtual,Afternoon,0,1,0,0,0
+Other,Family/Friend,67.5,Hillsborough,Medicare,Virtual,Afternoon,0,1,0,0,0
+Text,Insurance Company,17.5,Manalapan,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,32.5,Freehold,Cigna,Freehold,Evening,0,1,0,0,0
+Boom Form,Healthcare Provider,45.0,Jackson,Cigna,Freehold,Evening,0,0,0,1,0
+Boom Form,Insurance Company,52.5,Manalapan,BCBS,Freehold,Evening,0,1,0,0,0
+Boom Form,Insurance Company,12.5,East Brunswick,BCBS,Freehold,Evening,0,1,0,0,0
+Boom Form,Unknown,27.5,Manalapan,United Healthcare,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,42.5,Manalapan,BCBS,Freehold,Evening,0,0,0,1,0
+Call,Family/Friend,62.5,Marlboro,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,7.5,Howell,Meritain,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,7.5,Freehold,United Healthcare,Freehold,Evening,0,1,0,0,0
+Call,Google or another search engine,32.5,Freehold,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Google or another search engine,27.5,Red Bank,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Google or another search engine,7.5,Millstone,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Google or another search engine,7.5,Hazlet,Aetna,Freehold,Evening,0,1,0,0,0
+Call,Healthcare Provider,47.5,Cream Ridge,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Unknown,12.5,Manalapan,Cigna,Freehold,Evening,0,1,0,0,0
+Other,Unknown,57.5,Whiting,Cigna,Freehold,Evening,0,0,1,0,0
+Boom Form,Family/Friend,22.5,Jackson,United Healthcare,Princeton,Evening,0,1,0,0,0
+Boom Form,Family/Friend,7.5,Jackson,BCBS,Princeton,Evening,0,1,0,0,0
+Boom Form,Google or another search engine,27.5,East Windsor,Meritain,Princeton,Evening,0,1,0,0,0
+Boom Form,Google or another search engine,12.5,Plainsboro,BCBS,Princeton,Evening,0,1,0,0,0
+Boom Form,Google or another search engine,7.5,Penningotn,United Healthcare,Princeton,Evening,0,1,0,0,0
+Boom Form,Google or another search engine,12.5,Robbinsville,Cigna,Princeton,Evening,0,1,0,0,0
+Boom Form,Google or another search engine,7.5,Princeton,Aetna,Princeton,Evening,0,1,0,0,0
+Boom Form,Healthcare Provider,7.5,Lawrence Township,Cigna,Princeton,Evening,0,1,0,0,0
+Boom Form,School District,12.5,Plainsboro,Aetna,Princeton,Evening,0,1,0,0,0
+Call,Family/Friend,12.5,Princeton,United Healthcare,Princeton,Evening,0,1,0,0,0
+Call,Family/Friend,12.5,Hightstown,UMR,Princeton,Evening,0,1,0,0,0
+Call,Family/Friend,17.5,Freehold,Aetna,Princeton,Evening,0,1,0,0,0
+Call,Healthcare Provider,12.5,Princeton,Meritain,Princeton,Evening,0,1,0,0,0
+Call,Internal TOL Referral ,12.5,Brick,Cigna,Princeton,Evening,0,1,0,0,0
+Other,Family/Friend,12.5,Princeton Junction,United Healthcare,Princeton,Evening,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Freehold,BCBS,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,37.5,Morganville,Aetna,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,47.5,Union,Cigna,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Hillsborough,Aetna,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,17.5,Old Bridge,BCBS,Virtual,Evening,1,0,0,0,0
+Boom Form,Internal TOL Referral ,37.5,Highland Lakes,BCBS,Virtual,Evening,0,0,0,1,0
+Boom Form,Internal TOL Referral ,12.5,Millstone,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Family/Friend,47.5,Carteret,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Google or another search engine,27.5,Freehold,BCBS,Virtual,Evening,0,0,0,1,0
+Call,Healthcare Provider,32.5,Whiting,BCBS,Virtual,Evening,1,0,0,0,0
+Call,Internal TOL Referral ,22.5,Cedar Knolls,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Internal TOL Referral ,27.5,South Plainfield,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Internal TOL Referral ,42.5,Dover,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Internal TOL Referral ,17.5,Verona,Other,Virtual,Evening,0,1,0,0,0
+Call,Unknown,67.5,Boonton Township,BCBS,Virtual,Evening,0,0,1,0,0
+Text,Google or another search engine,47.5,Jackson,BCBS,Virtual,Evening,1,0,0,0,0
+Text,Internal TOL Referral ,37.5,Asbury Park,BCBS,Virtual,Evening,0,0,0,1,0
+Text,Internal TOL Referral ,12.5,Washington,BCBS,Virtual,Evening,0,1,0,0,0
+Text,Unknown,62.5,Somerset,BCBS,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,47.5,Colts Neck,BCBS,Freehold,Morning,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Monroe,BCBS,Freehold,Morning,0,1,0,0,0
+Boom Form,Google or another search engine,27.5,Monroe,Cigna,Freehold,Morning,0,1,0,0,0
+Boom Form,Google or another search engine,17.5,Morganville,United Healthcare,Freehold,Morning,0,1,0,0,0
+Boom Form,Google or another search engine,32.5,Freehold,United Healthcare,Freehold,Morning,1,0,0,0,0
+Boom Form,Healthcare Provider,12.5,Belleville,Aetna,Freehold,Morning,1,0,0,0,0
+Boom Form,Insurance Company,32.5,Freehold,BCBS,Freehold,Morning,1,0,0,0,0
+Boom Form,Social Media,62.5,Freehold,Aetna,Freehold,Morning,0,1,0,0,0
+Boom Form,Social Media,47.5,Manalapan,Aetna,Freehold,Morning,0,1,0,0,0
+Call,Family/Friend,47.5,Old Bridge,BCBS,Freehold,Morning,0,1,0,0,0
+Call,Family/Friend,37.5,Howell,Cigna,Freehold,Morning,0,1,0,0,0
+Call,Family/Friend,3.0,Toms River,BCBS,Freehold,Morning,0,1,0,0,0
+Call,Internal TOL Referral ,47.5,Freehold,Other,Freehold,Morning,0,1,0,0,0
+Text,Internal TOL Referral ,57.5,Princeton,BCBS,Princeton,Morning,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Mays Landing,BCBS,Virtual,Morning,0,1,0,0,0
+Boom Form,Healthcare Provider,32.5,Red Bank,Cigna,Virtual,Morning,1,0,0,0,0
+Call,Family/Friend,40.0,Tinton Falls,BCBS,Virtual,Morning,0,0,0,1,0
+Call,Family/Friend,67.5,Towaco,Medicare,Virtual,Morning,0,1,0,0,0
+Call,Family/Friend,67.5,Freehold,BCBS,Virtual,Morning,0,1,0,0,0
+Call,Google or another search engine,22.5,Robbinsville,Aetna,Virtual,Morning,0,1,0,0,0
+Other,Healthcare Provider,52.5,Maple Shade,BCBS,Virtual,Morning,1,0,0,0,0
+Boom Form,Family/Friend,22.5,Freehold,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,17.5,Brielle,Aetna,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Social Media,7.5,Freehold,Cigna,Freehold,Afternoon,0,1,0,0,0
+Call,Family/Friend,42.5,Manalapan,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Family/Friend,22.5,Morganville,Cigna,Freehold,Afternoon,0,1,0,0,0
+Call,Family/Friend,52.5,Neptune,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Family/Friend,17.5,Freehold,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Google or another search engine,17.5,Old Bridge,Aetna,Freehold,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,17.5,Freehold,Aetna,Freehold,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,7.5,Freehold,United Healthcare,Freehold,Afternoon,0,1,0,0,0
+Call,IOP,62.5,Freehold,United Healthcare,Freehold,Afternoon,0,1,0,0,0
+Other,Family/Friend,42.5,Manalapan,Aetna,Freehold,Afternoon,1,0,0,0,0
+Boom Form,Family/Friend,40.0,Princeton,Cigna,Princeton,Afternoon,0,0,0,1,0
+Boom Form,Family/Friend,17.5,Trenton,BCBS,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,17.5,Trenton,Aetna,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,22.5,Plainsboro,Aetna,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,42.5,Princeton Junction,Aetna,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,7.5,Plainsboro,BCBS,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Insurance Company,22.5,Princeton,BCBS,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Insurance Company,17.5,Old Bridge,Aetna,Princeton,Afternoon,0,1,0,0,0
+Call,Family/Friend,57.5,Edison,BCBS,Princeton,Afternoon,0,1,0,0,0
+Call,Google or another search engine,12.5,Plainsboro,United Healthcare,Princeton,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,72.5,East Brunswick,Medicare,Princeton,Afternoon,0,1,0,0,0
+Call,Insurance Company,17.5,Trenton,BCBS,Princeton,Afternoon,0,1,0,0,0
+Call,IOP,17.5,Robbinsville,BCBS,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,37.5,Manalapan,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Somerville,Aetna,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,47.5,Old Bridge,Cigna,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,32.5,Old Bridge,Amerihealth,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,27.5,Spotswood,Aetna,Virtual,Afternoon,1,0,0,0,0
+Call,Family/Friend,37.5,Monroe,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,32.5,Nutley,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Google or another search engine,47.5,Titusville,Meritain,Virtual,Afternoon,1,0,0,0,0
+Call,Healthcare Provider,17.5,Colts Neck,Cigna,Virtual,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,32.5,Manalapan,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,42.5,Bridgewater,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Insurance Company,57.5,Jackson,Cigna,Virtual,Afternoon,0,1,0,0,0
+Call,Insurance Company,27.5,Princeton,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Ocean,BCBS,Freehold,Evening,0,1,0,0,0
+Boom Form,Family/Friend,12.5,Freehold,BCBS,Freehold,Evening,0,1,0,0,0
+Boom Form,Google or another search engine,12.5,Jackson,BCBS,Freehold,Evening,0,1,0,0,0
+Boom Form,Google or another search engine,12.5,South Amboy,BCBS,Freehold,Evening,0,1,0,0,0
+Boom Form,Internal TOL Referral ,32.5,Matawan,United Healthcare,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,7.5,Freehold,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,17.5,Colts Neck,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,12.5,Freehold,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,12.5,Manalapan,Aetna,Freehold,Evening,0,1,0,0,0
+Call,Google or another search engine,22.5,Morganville,Aetna,Freehold,Evening,1,0,0,0,0
+Call,Google or another search engine,12.5,Marlboro,Optum,Freehold,Evening,0,1,0,0,0
+Call,Healthcare Provider,27.5,Freehold,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Healthcare Provider,47.5,Englishtown,Medicare,Freehold,Evening,0,1,0,0,0
+Call,IOP,12.5,Monroe,Aetna,Freehold,Evening,0,1,0,0,0
+Boom Form,Family/Friend,47.5,Penningotn,Aetna,Princeton,Evening,0,1,0,0,0
+Boom Form,Family/Friend,7.5,Princeton Junction,BCBS,Princeton,Evening,0,1,0,0,0
+Boom Form,Family/Friend,17.5,Trenton,Aetna,Princeton,Evening,0,1,0,0,0
+Boom Form,Family/Friend,17.5,Princeton Junction,BCBS,Princeton,Evening,0,1,0,0,0
+Boom Form,Family/Friend,7.5,Cranbury,Optum,Princeton,Evening,0,1,0,0,0
+Boom Form,Google or another search engine,32.5,Princeton Junction,BCBS,Princeton,Evening,0,0,0,1,0
+Boom Form,Google or another search engine,12.5,Skillman,Cigna,Princeton,Evening,0,1,0,0,0
+Boom Form,Healthcare Provider,22.5,Princeton,Aetna,Princeton,Evening,0,1,0,0,0
+Boom Form,Insurance Company,57.5,Princeton,BCBS,Princeton,Evening,1,0,0,0,0
+Boom Form,Insurance Company,32.5,Princeton Junction,Cigna,Princeton,Evening,0,1,0,0,0
+Call,Google or another search engine,12.5,Princeton,Aetna,Princeton,Evening,0,1,0,0,0
+Call,Healthcare Provider,12.5,Lawrence Township,BCBS,Princeton,Evening,1,0,0,0,0
+Call,Healthcare Provider,7.5,Princeton,BCBS,Princeton,Evening,0,1,0,0,0
+Call,Healthcare Provider,12.5,Princeton,United Healthcare,Princeton,Evening,0,1,0,0,0
+Call,Insurance Company,27.5,Princeton,Cigna,Princeton,Evening,0,1,0,0,0
+Call,Insurance Company,12.5,Ewing,BCBS,Princeton,Evening,0,1,0,0,0
+Call,Insurance Company,7.5,Lawrence Township,United Healthcare,Princeton,Evening,0,1,0,0,0
+Call,Insurance Company,12.5,Princeton,BCBS,Princeton,Evening,0,1,0,0,0
+Call,Unknown,40.0,Princeton,Aetna,Princeton,Evening,0,0,0,1,0
+Other,Healthcare Provider,12.5,Plainsboro,Aetna,Princeton,Evening,0,1,0,0,0
+Other,Internal TOL Referral ,12.5,Skillman,BCBS,Princeton,Evening,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Jackson,BCBS,Virtual,Evening,0,1,0,0,0
+Boom Form,Healthcare Provider,42.5,Freehold,Amerihealth,Virtual,Evening,0,1,0,0,0
+Boom Form,Healthcare Provider,17.5,Jackson,BCBS,Virtual,Evening,0,1,0,0,0
+Boom Form,Healthcare Provider,22.5,Bridgeton,BCBS,Virtual,Evening,1,0,0,0,0
+Boom Form,Social Media,32.5,Keyport,BCBS,Virtual,Evening,1,0,0,0,0
+Call,Family/Friend,27.5,Robbinsville,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Google or another search engine,27.5,Howell,BCBS,Virtual,Evening,1,0,0,0,0
+Call,Google or another search engine,37.5,Princeton Junction,BCBS,Virtual,Evening,1,0,0,0,0
+Call,Google or another search engine,27.5,Howell,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Healthcare Provider,17.5,Morganville,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Healthcare Provider,27.5,Whiting,BCBS,Virtual,Evening,1,0,0,0,0
+Call,Healthcare Provider,12.5,Scotch Plains,United Healthcare,Virtual,Evening,0,1,0,0,0
+Call,Healthcare Provider,12.5,Scotch Plains,United Healthcare,Virtual,Evening,0,1,0,0,0
+Call,Insurance Company,47.5,Matawan,BCBS,Virtual,Evening,1,0,0,0,0
+Call,Insurance Company,27.5,Franklin Park,Other,Virtual,Evening,1,0,0,0,0
+Other,Insurance Company,27.5,Ewing,Other,Virtual,Evening,0,1,0,0,0
+Boom Form,Google or another search engine,42.5,Manalapan,BCBS,Freehold,Morning,1,0,0,0,0
+Call,Family/Friend,72.5,Marlboro,Medicare,Freehold,Morning,0,1,0,0,0
+Call,Google or another search engine,37.5,Howell,BCBS,Freehold,Morning,0,1,0,0,0
+Call,Healthcare Provider,67.5,Marlboro,Cigna,Freehold,Morning,0,1,0,0,0
+Call,Insurance Company,27.5,Manalapan,United Healthcare,Freehold,Morning,1,0,0,0,0
+Boom Form,Healthcare Provider,47.5,Princeton,United Healthcare,Princeton,Morning,1,0,0,0,0
+Boom Form,Insurance Company,47.5,Princeton Junction,United Healthcare,Princeton,Morning,0,1,0,0,0
+Call,Family/Friend,22.5,Robbinsville,BCBS,Princeton,Morning,0,1,0,0,0
+Call,Google or another search engine,37.5,Trenton,BCBS,Princeton,Morning,0,1,0,0,0
+Call,Healthcare Provider,22.5,Trenton,United Healthcare,Princeton,Morning,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Brick,Cigna,Virtual,Morning,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Toms River,BCBS,Virtual,Morning,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Elizabeth,Aetna,Virtual,Morning,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Union,Meritain,Virtual,Morning,0,1,0,0,0
+Boom Form,Google or another search engine,27.5,Jersey City,Cigna,Virtual,Morning,0,1,0,0,0
+Boom Form,Healthcare Provider,62.5,Monroe,BCBS,Virtual,Morning,0,1,0,0,0
+Boom Form,Healthcare Provider,17.5,Wayne,Aetna,Virtual,Morning,1,0,0,0,0
+Boom Form,Healthcare Provider,30.309824902723737,Brookside,BCBS,Virtual,Morning,1,0,0,0,0
+Boom Form,IOP,22.5,Spring Lake,Cigna,Virtual,Morning,1,0,0,0,0
+Boom Form,Unknown,57.5,Forked River,Aetna,Virtual,Morning,0,0,0,1,0
+Call,Family/Friend,17.5,Freehold,BCBS,Virtual,Morning,1,0,0,0,0
+Call,Healthcare Provider,52.5,Trenton,BCBS,Virtual,Morning,0,1,0,0,0
+Call,Healthcare Provider,72.5,Spring Lake,Medicare,Virtual,Morning,0,1,0,0,0
+Call,Insurance Company,47.5,Atlantic Highlands,MagnaCare,Virtual,Morning,0,1,0,0,0
+Call,Bariatric Doctor,37.5,Hackensack,Aetna,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,55.0,East Windsor,BCBS,Princeton,Afternoon,0,0,0,1,0
+Boom Form,Family/Friend,27.5,Little Silver,Other,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Tinton Falls,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Family/Friend,22.5,Freehold,BCBS,Freehold,Afternoon,0,1,0,0,0
+Other,Family/Friend,42.5,Freehold,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Princeton Junction,BCBS,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,47.5,Florence,BCBS,Princeton,Afternoon,0,1,0,0,0
+Call,Family/Friend,17.5,East Windsor,United Healthcare,Princeton,Afternoon,0,1,0,0,0
+Call,Family/Friend,42.5,Monmouth Junction,BCBS,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Lambertville,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,22.5,South Amboy,Aetna,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,37.5,Newton,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,42.5,Point Pleasant,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Manalapan,Cigna,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Jersey City,Other,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,47.5,Manalapan,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,27.5,Old Bridge,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,52.5,Freehold,Medicare,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,17.5,Marlboro,Aetna,Freehold,Afternoon,0,1,0,0,0
+Other,Family/Friend,7.5,Freehold,Aetna,Freehold,Afternoon,0,1,0,0,0
+Other,Family/Friend,7.5,Manalapan,Aetna,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,17.5,Jackson,Amerihealth,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,12.5,Lakehurst,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,37.5,Kendall Park,BCBS,Princeton,Afternoon,1,0,0,0,0
+Call,Family/Friend,27.5,Helmetta,BCBS,Princeton,Evening,0,0,0,1,0
+Boom Form,Family/Friend,32.5,Manchester,Aetna,Freehold,Evening,0,1,0,0,0
+Boom Form,Family/Friend,17.5,Lawrence Township,BCBS,Princeton,Evening,0,1,0,0,0
+Call,Family/Friend,42.5,Princeton Junction,Cigna,Princeton,Evening,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Pennsauken,BCBS,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Helmetta,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Family/Friend,22.5,Saddle Brook,Cigna,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,7.5,Jamesburg,BCBS,Freehold,Evening,0,1,0,0,0
+Boom Form,Family/Friend,17.5,Unknown,BCBS,Freehold,Evening,1,1,0,0,0
+Boom Form,Family/Friend,12.5,Old Bridge,BCBS,Freehold,Evening,0,1,0,0,0
+Boom Form,Family/Friend,7.5,Marlboro,Aetna,Freehold,Evening,0,1,0,0,0
+Boom Form,Family/Friend,17.5,Manalapan,Aetna,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,7.5,Freehold,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,7.5,Freehold,Aetna,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,7.5,Jackson,United Healthcare,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,7.5,Jackson,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,7.5,Old Bridge,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,12.5,Old Bridge,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,17.5,Freehold,Aetna,Freehold,Evening,0,1,0,0,0
+Other,Family/Friend,7.5,Marlboro,BCBS,Freehold,Evening,0,1,0,0,0
+Other,Family/Friend,12.5,Freehold,BCBS,Freehold,Evening,0,1,0,0,0
+Other,Family/Friend,12.5,Colts Neck,Aetna,Freehold,Evening,0,1,0,0,0
+Other,Family/Friend,7.5,Colts Neck,Aetna,Freehold,Evening,0,1,0,0,0
+Text,Family/Friend,7.5,Freehold,BCBS,Freehold,Evening,0,1,0,0,0
+Boom Form,Family/Friend,17.5,Princeton,Aetna,Princeton,Evening,0,1,0,0,0
+Text,Family/Friend,17.5,Freehold,Cigna,Virtual,Evening,0,1,0,0,0
+Call,Family/Friend,12.5,Middletown,BCBS,Freehold,Evening,1,0,0,0,0
+Call,Family/Friend,27.5,Hightstown,BCBS,Virtual,Evening,1,0,0,0,0
+Call,Family/Friend,32.5,Spring Lake,BCBS,Freehold,Morning,0,1,0,0,0
+Call,Family/Friend,72.5,Howell,Medicare,Freehold,Morning,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Langhorne,BCBS,Princeton,Morning,0,1,0,0,0
+Boom Form,Family/Friend,42.5,Leonardo,Amerihealth,Princeton,Morning,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Lakehurst,BCBS,Princeton,Morning,0,1,0,0,0
+Boom Form,Family/Friend,37.5,Trenton,Cigna,Princeton,Morning,0,1,0,0,0
+Call,Family/Friend,32.5,Mount Holly,BCBS,Princeton,Morning,0,1,0,0,0
+Call,Family/Friend,27.5,Freehold,BCBS,Virtual,Morning,0,1,0,0,0
+Call,Family/Friend,27.5,Staten Island ,Aetna,Virtual,Morning,0,1,0,0,0
+Call,Family/Friend,32.5,Old Bridge,BCBS,Virtual,Morning,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Matawan,Aetna,Freehold,Morning,1,0,0,0,0
+Call,Google or another search engine,42.5,Manalapan,BCBS,Virtual,Afternoon,0,0,0,1,0
+Boom Form,Google or another search engine,17.5,Old Bridge,Aetna,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,27.5,Brick,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,32.5,Freehold,Aetna,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,22.5,Manalapan,Aetna,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,57.5,Howell,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Google or another search engine,42.5,Monroe,United Healthcare,Freehold,Afternoon,0,1,0,0,0
+Call,Google or another search engine,17.5,East Windsor,United Healthcare,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,42.5,Manalapan,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Google or another search engine,22.5,Hopewell,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Google or another search engine,12.5,New Egypt,Aetna,Freehold,Afternoon,0,1,0,0,0
+Call,Google or another search engine,17.5,Manalapan,Cigna,Freehold,Afternoon,0,1,0,0,0
+Call,Google or another search engine,40.0,Bradley Beach,BCBS,Freehold,Evening,0,0,0,1,0
+Call,Google or another search engine,27.5,Jackson,Other,Freehold,Evening,0,1,0,0,0
+Call,Google or another search engine,42.5,Freehold,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Google or another search engine,52.5,Freehold,United Healthcare,Virtual,Evening,0,1,0,0,0
+Boom Form,Google or another search engine,12.5,Freehold,Other,Freehold,Evening,0,1,0,0,0
+Boom Form,Google or another search engine,7.5,Freehold,United Healthcare,Freehold,Evening,0,1,0,0,0
+Call,Google or another search engine,7.5,Freehold,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Google or another search engine,7.5,Freehold,Aetna,Freehold,Evening,0,1,0,0,0
+Call,Google or another search engine,7.5,Manalapan,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Google or another search engine,12.5,Howell,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Google or another search engine,7.5,Princeton,BCBS,Princeton,Evening,0,1,0,0,0
+Call,Google or another search engine,12.5,Hamilton,BCBS,Princeton,Evening,0,1,0,0,0
+Boom Form,Google or another search engine,32.5,Marlboro,Aetna,Freehold,Evening,1,0,0,0,0
+Call,Google or another search engine,27.5,Long Branch,Aetna,Freehold,Evening,1,0,0,0,0
+Boom Form,Google or another search engine,42.5,Plainsboro,BCBS,Princeton,Evening,1,0,0,0,0
+Boom Form,Google or another search engine,52.5,Cranbury,BCBS,Princeton,Evening,1,0,0,0,0
+Call,Google or another search engine,27.5,Penningotn,BCBS,Princeton,Evening,1,0,0,0,0
+Boom Form,Google or another search engine,42.5,Freehold,BCBS,Freehold,Morning,0,1,0,0,0
+Call,Google or another search engine,37.5,Freehold,Aetna,Freehold,Morning,0,1,0,0,0
+Call,Google or another search engine,17.5,Jackson,Aetna,Virtual,Morning,0,1,0,0,0
+Boom Form,Healthcare Provider,22.5,Freehold,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,42.5,Manalapan,United Healthcare,Freehold,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,77.5,Freehold,Medicare,Freehold,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,67.5,Freehold,Medicare,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,52.5,Bordentown,Aetna,Princeton,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,77.5,Plainsboro,Medicare,Princeton,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,17.5,Ringoes,MagnaCare,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,17.5,Tabernacle,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,67.5,Marlboro,Medicare,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,22.5,East Brunswick,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,32.5,New Providence,Aetna,Virtual,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,22.5,Cream Ridge,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,27.5,Jersey City,Optum,Virtual,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,47.5,Barnegat,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,7.5,Manalapan,United Healthcare,Freehold,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,12.5,Howell,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,7.5,Milltown,UMR,Princeton,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,17.5,Ewing,BCBS,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,32.5,Lawrence Township,Cigna,Virtual,Evening,0,1,0,0,0
+Boom Form,Healthcare Provider,32.5,Toms River,BCBS,Virtual,Evening,0,1,0,0,0
+Boom Form,Healthcare Provider,27.5,Boonton Township,Cigna,Virtual,Evening,0,1,0,0,0
+Call,Healthcare Provider,27.5,Vorhees,Cigna,Virtual,Evening,0,1,0,0,0
+Boom Form,Healthcare Provider,7.5,Titusville,Aetna,Freehold,Evening,0,1,0,0,0
+Call,Healthcare Provider,12.5,Freehold,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Healthcare Provider,7.5,Freehold,United Healthcare,Freehold,Evening,0,1,0,0,0
+Boom Form,Healthcare Provider,7.5,Trenton,Aetna,Princeton,Evening,0,1,0,0,0
+Call,Healthcare Provider,7.5,Titusville,Meritain,Princeton,Evening,0,1,0,0,0
+Call,Healthcare Provider,7.5,Princeton,BCBS,Princeton,Evening,0,1,0,0,0
+Call,Healthcare Provider,17.5,Penningotn,BCBS,Princeton,Evening,0,1,0,0,0
+Call,Healthcare Provider,17.5,Plainsboro,Aetna,Princeton,Evening,0,1,0,0,0
+Call,Healthcare Provider,12.5,Titusville,Meritain,Princeton,Evening,0,1,0,0,0
+Call,Healthcare Provider,17.5,Perth Amboy,Aetna,Princeton,Evening,1,1,0,0,0
+Boom Form,Healthcare Provider,32.5,Manville,BCBS,Princeton,Evening,1,0,0,0,0
+Boom Form,Healthcare Provider,17.5,Bayonne,BCBS,Virtual,Evening,1,0,0,0,0
+Call,Healthcare Provider,37.5,Keyport,United Healthcare,Freehold,Morning,0,0,0,1,0
+Boom Form,Healthcare Provider,27.5,Brick,Cigna,Freehold,Morning,0,1,0,0,0
+Call,Healthcare Provider,62.5,Lakewood,BCBS,Freehold,Morning,0,1,0,0,0
+Boom Form,Healthcare Provider,42.5,Somerset,Other,Princeton,Morning,0,1,0,0,0
+Boom Form,Healthcare Provider,17.5,Trenton,Aetna,Princeton,Morning,0,1,0,0,0
+Boom Form,Healthcare Provider,47.5,Morganville,Meritain,Freehold,Morning,1,0,0,0,0
+Call,Healthcare Provider,22.5,East Rutherford,BCBS,Virtual,Morning,1,0,0,0,0
+Boom Form,Insurance Company,35.0,Flemington,BCBS,Freehold,Afternoon,0,0,0,1,0
+Boom Form,Insurance Company,22.5,South Amboy,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Insurance Company,27.5,Hazlet,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Insurance Company,37.5,Howell,Amerihealth,Princeton,Afternoon,0,1,0,0,0
+Text,Insurance Company,7.5,Manalapan,Aetna,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Insurance Company,32.5,Hamilton,Cigna,Princeton,Evening,0,1,0,0,0
+Boom Form,Insurance Company,7.5,Brick,BCBS,Freehold,Evening,0,1,0,0,0
+Boom Form,Insurance Company,7.5,Jackson,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Insurance Company,17.5,Freehold,Optum,Freehold,Evening,0,1,0,0,0
+Boom Form,Insurance Company,7.5,East Windsor,Other,Princeton,Evening,0,1,0,0,0
+Call,Insurance Company,12.5,Princeton,United Healthcare,Princeton,Evening,1,0,0,0,0
+Call,Insurance Company,27.5,Hazlet,BCBS,Freehold,Morning,0,1,0,0,0
+Boom Form,Insurance Company,32.5,Old Bridge,BCBS,Virtual,Morning,0,1,0,0,0
+Boom Form,Insurance Company,47.5,Montclair,Aetna,Virtual,Morning,0,1,0,0,0
+Call,Internal TOL Referral ,22.5,Manasquan,Other,Freehold,Afternoon,0,1,0,0,0
+Call,Internal TOL Referral ,47.5,Hammonton,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Internal TOL Referral ,40.0,Monroe,Amerihealth,Virtual,Evening,0,0,0,1,0
+Call,Internal TOL Referral ,22.5,Freehold,Aetna,Freehold,Evening,0,1,0,0,0
+Boom Form,Internal TOL Referral ,32.5,Mount Laurel,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Internal TOL Referral ,32.5,Harrison,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Internal TOL Referral ,37.5,Ramsey,Aetna,Virtual,Evening,0,1,0,0,0
+Call,Internal TOL Referral ,52.5,Brielle,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Internal TOL Referral ,22.5,Toms River,Cigna,Virtual,Evening,0,1,0,0,0
+Call,Internal TOL Referral ,32.5,Cliffside Park,Cigna,Virtual,Evening,0,1,0,0,0
+Call,Internal TOL Referral ,52.5,Toms River,Cigna,Virtual,Evening,0,1,0,0,0
+Call,Internal TOL Referral ,22.5,Bradley Beach,Aetna,Virtual,Evening,0,1,0,0,0
+Call,Internal TOL Referral ,52.5,Beachwood,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Internal TOL Referral ,7.5,Monroe,BCBS,Princeton,Evening,0,1,0,0,0
+Call,Internal TOL Referral ,12.5,Freehold,BCBS,Princeton,Evening,0,1,0,0,0
+Boom Form,Internal TOL Referral ,12.5,Randolph,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Internal TOL Referral ,17.5,Robbinsville,Aetna,Virtual,Evening,0,1,0,0,0
+Call,Internal TOL Referral ,52.5,Freehold,BCBS,Freehold,Morning,0,0,0,1,0
+Call,Internal TOL Referral ,47.5,Freehold,BCBS,Virtual,Morning,1,1,0,0,0
+Call,Internal TOL Referral ,27.5,Rumson,BCBS,Virtual,Morning,0,1,0,0,0
+Call,School District,47.5,Trenton,Aetna,Princeton,Afternoon,0,1,0,0,0
+Call,School District,17.5,Trenton,Aetna,Princeton,Afternoon,0,1,0,0,0
+Call,Social Media,52.5,Monroe,Medicare,Virtual,Afternoon,0,1,0,0,0
+Call,Social Media,7.5,Old Bridge,Optum,Freehold,Evening,0,1,0,0,0
+Call,Social Media,12.5,Monroe,BCBS,Freehold,Evening,0,1,0,0,0
+Boom Form,Social Media,12.5,Hamilton,Aetna,Princeton,Evening,0,1,0,0,0
+Boom Form,Social Media,7.5,Hamilton,BCBS,Princeton,Evening,0,1,0,0,0
+Boom Form,Social Media,22.5,Manalapan,BCBS,Virtual,Evening,1,0,0,0,0
+Call,Social Media,37.5,Freehold,BCBS,Freehold,Morning,0,1,0,0,0
+Boom Form,Social Media,42.5,Marlboro,UMR,Virtual,Morning,0,1,0,0,0
+Boom Form,Social Media,52.5,Howell,Aetna,Virtual,Morning,0,1,0,0,0
+Call,Unknown,62.5,Jackson,BCBS,Freehold,Evening,0,0,0,1,0
+Call,Unknown,32.5,Matawan,Other,Virtual,Evening,0,1,0,0,0
+Call,Unknown,7.5,Freehold,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Unknown,27.5,Morristown,Cigna,Virtual,Morning,0,1,0,0,0
+Call,Unknown,7.5,Freehold,United Healthcare,Freehold,Evening,0,1,0,0,0
+Call,Unknown,52.5,Jackson,United Healthcare,Virtual,Morning,0,1,0,0,0
+Call,Bariatric Doctor,52.5,Woodbridge,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,47.5,Sea Girt,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,67.5,Freehold,Medicare,Freehold,Afternoon,0,1,0,0,0
+Call,Family/Friend,52.5,Colts Neck,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Family/Friend,22.5,Parlin,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Family/Friend,22.5,Freehold,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Family/Friend,32.5,Toms River,Cigna,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Plainsboro,BCBS,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Manahawkin,Aetna,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,42.5,Kendall Park,UMR,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,42.5,Freehold,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,37.5,Cranford,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Union Beach,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Burlington,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Passaic,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,37.5,Princeton Junction,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,37.5,East Orange,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,17.5,Princeton Junction,Cigna,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,17.5,Toms River,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Freehold,BCBS,Virtual,Afternoon,1,0,0,0,0
+Call,Family/Friend,47.5,East Windsor,Cigna,Virtual,Evening,0,0,0,1,0
+Other,Family/Friend,30.0,East Windsor,BCBS,Virtual,Evening,0,0,0,1,0
+Call,Family/Friend,52.5,Freehold,BCBS,Freehold,Evening,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Bradley Beach,BCBS,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Morganville,BCBS,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,52.5,Monroe,BCBS,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Freehold,Other,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,42.5,Hillside,Other,Virtual,Evening,0,1,0,0,0
+Text,Family/Friend,52.5,Holmdel,Cigna,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,7.5,Matawan,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,7.5,Morganville,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,7.5,Millstone,Other,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,12.5,Manalapan,Cigna,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,17.5,Howell,UMR,Freehold,Evening,0,1,0,0,0
+Boom Form,Family/Friend,7.5,Titusville,BCBS,Princeton,Evening,0,1,0,0,0
+Call,Family/Friend,12.5,Ewing,Aetna,Princeton,Evening,0,1,0,0,0
+Call,Family/Friend,47.5,Pompton Plains,United Healthcare,Virtual,Morning,0,0,0,1,0
+Call,Family/Friend,42.5,Jackson,Aetna,Freehold,Morning,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Robbinsville,BCBS,Princeton,Morning,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Princeton,BCBS,Princeton,Morning,0,1,0,0,0
+Call,Family/Friend,27.5,East Windsor,Aetna,Princeton,Morning,0,1,0,0,0
+Call,Family/Friend,22.5,Princeton,BCBS,Princeton,Morning,0,1,0,0,0
+Boom Form,Family/Friend,42.5,Howell,BCBS,Virtual,Morning,0,1,0,0,0
+Boom Form,Family/Friend,37.5,Martinsville,Aetna,Virtual,Morning,0,1,0,0,0
+Boom Form,Family/Friend,7.5,Hillsborough,Other,Princeton,Morning,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Matawan,Optum,Virtual,Morning,1,0,0,0,0
+Boom Form,Family/Friend,32.5,Red Bank,BCBS,Virtual,Morning,1,0,0,0,0
+Call,Family/Friend,17.5,Pompton Plains,United Healthcare,Virtual,Morning,1,0,0,0,0
+Other,Google or another search engine,22.5,Plainsboro,BCBS,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,50.0,Hamilton,BCBS,Princeton,Afternoon,0,0,0,1,0
+Boom Form,Google or another search engine,27.5,Morganville,United Healthcare,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,22.5,East Brunswick,UMR,Freehold,Afternoon,0,1,0,0,0
+Call,Google or another search engine,32.5,Manalapan,Cigna,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,22.5,Skillman,Aetna,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,27.5,Princeton,Aetna,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,27.5,Princeton,Aetna,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,22.5,Freehold,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Google or another search engine,27.5,Middletown,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Google or another search engine,32.5,Freehold,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Google or another search engine,42.5,Howell,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Google or another search engine,32.5,Brick,Aetna,Virtual,Afternoon,0,1,0,0,0
+Call,Google or another search engine,17.5,Matawan,Cigna,Freehold,Afternoon,0,1,0,0,0
+Call,Google or another search engine,12.5,Jackson,Aetna,Freehold,Afternoon,0,1,0,0,0
+Call,Google or another search engine,22.5,Elmer,Aetna,Freehold,Afternoon,1,0,0,0,0
+Call,Google or another search engine,22.5,Freehold,Cigna,Freehold,Evening,0,1,0,0,0
+Call,Google or another search engine,32.5,Toms River,Cigna,Virtual,Evening,0,1,0,0,0
+Boom Form,Google or another search engine,7.5,Freehold,BCBS,Freehold,Evening,0,1,0,0,0
+Boom Form,Google or another search engine,12.5,Morganville,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Google or another search engine,7.5,Wrightstown,United Healthcare,Freehold,Evening,0,1,0,0,0
+Call,Google or another search engine,17.5,Jackson,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Google or another search engine,57.5,Freehold,Cigna,Freehold,Morning,0,1,0,0,0
+Boom Form,Google or another search engine,32.5,East Brunswick,BCBS,Virtual,Morning,0,1,0,0,0
+Call,Google or another search engine,27.5,Jersey City,Aetna,Virtual,Morning,0,1,0,0,0
+Boom Form,Google or another search engine,37.5,Howell,Cigna,Virtual,Morning,1,0,0,0,0
+Boom Form,Healthcare Provider,17.5,South Plainfield,Aetna,Virtual,Morning,1,0,0,0,0
+Call,Healthcare Provider,40.0,Freehold,BCBS,Princeton,Morning,0,0,0,1,0
+Boom Form,Healthcare Provider,47.5,Freehold,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Healthcare Provider,7.5,Howell,Other,Freehold,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,27.5,Manalapan,BCBS,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,12.5,Manalapan,BCBS,Freehold,Morning,0,1,0,0,0
+Call,Healthcare Provider,52.5,Jackson,BCBS,Virtual,Morning,0,0,0,0,1
+Call,Healthcare Provider,47.5,Trenton,Aetna,Princeton,Afternoon,0,0,0,0,1
+Call,Healthcare Provider,32.5,Englishtown,BCBS,Virtual,Morning,0,0,0,0,1
+Boom Form,Healthcare Provider,42.5,Robbinsville,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Healthcare Provider,17.5,Manalapan,United Healthcare,Freehold,Evening,0,1,0,0,0
+Call,Healthcare Provider,17.5,Cranbury,Aetna,Princeton,Evening,0,1,0,0,0
+Call,Healthcare Provider,37.5,Princeton,Aetna,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,17.5,Jackson,Aetna,Virtual,Afternoon,1,0,0,0,0
+Call,Healthcare Provider,17.5,Allenhurst,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,12.5,Burlington,BCBS,Princeton,Evening,1,0,0,0,0
+Boom Form,Healthcare Provider,22.5,Brick,BCBS,Freehold,Evening,0,1,0,0,0
+Boom Form,Healthcare Provider,27.5,Lawrence Township,BCBS,Princeton,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,12.5,Morganville,United Healthcare,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,3.0,East Windsor,Aetna,Princeton,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,52.5,Old Bridge,Cigna,Freehold,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,32.5,Princeton,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,17.5,Millstone,United Healthcare,Freehold,Evening,1,1,0,0,0
+Boom Form,Healthcare Provider,42.5,Chester,BCBS,Virtual,Evening,1,0,0,0,0
+Boom Form,Healthcare Provider,22.5,PA,Aetna,Virtual,Evening,1,0,0,0,0
+Call,Healthcare Provider,27.5,NY,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,47.5,PA,BCBS,Virtual,Evening,0,1,0,0,0
+Boom Form,Insurance Company,57.5,Hightstown,BCBS,Princeton,Afternoon,0,1,0,0,0
+Call,Insurance Company,57.5,Princeton,BCBS,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Insurance Company,32.5,South River,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Insurance Company,32.5,Trenton,Cigna,Virtual,Afternoon,0,1,0,0,0
+Call,Insurance Company,52.5,Howell,Aetna,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Insurance Company,32.5,Trenton,Cigna,Virtual,Evening,0,1,0,0,0
+Boom Form,Insurance Company,27.5,Trenton,Surest United Healthcare,Virtual,Evening,0,1,0,0,0
+Call,Insurance Company,27.5,Little Egg Harbor,Cigna,Virtual,Evening,0,1,0,0,0
+Call,Insurance Company,32.5,Colts Neck,Other,Freehold,Morning,0,1,0,0,0
+Boom Form,Insurance Company,27.5,Plainsboro,Cigna,Princeton,Morning,0,1,0,0,0
+Boom Form,Insurance Company,47.5,Princeton,United Healthcare,Princeton,Morning,0,1,0,0,0
+Call,Insurance Company,22.5,Princeton Junction,Cigna,Princeton,Morning,0,1,0,0,0
+Boom Form,Insurance Company,22.5,Marlboro,United Healthcare,Virtual,Morning,0,1,0,0,0
+Boom Form,Insurance Company,32.5,Browns Mills,BCBS,Virtual,Morning,1,0,0,0,0
+Boom Form,Insurance Company,22.5,Jersey City,BCBS,Virtual,Morning,1,0,0,0,0
+Call,Internal TOL Referral ,27.5,Freehold,Aetna,Freehold,Evening,0,1,0,0,0
+Call,Internal TOL Referral ,27.5,Bayville,BCBS,Virtual,Morning,0,1,0,0,0
+Call,Internal TOL Referral ,12.5,Old Bridge,United Healthcare,Freehold,Afternoon,0,0,0,0,1
+Call,Internal TOL Referral ,17.5,Bayville,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Internal TOL Referral ,52.5,Manahawkin,Other,Virtual,Afternoon,0,1,0,0,0
+Call,Internal TOL Referral ,27.5,Old Bridge,Aetna,Virtual,Afternoon,0,1,0,0,0
+Call,Internal TOL Referral ,32.5,Barnegat,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Internal TOL Referral ,27.5,Point Pleasant,BCBS,Virtual,Morning,0,1,0,0,0
+Call,Internal TOL Referral ,30.0,Farmingdale,Cigna,Freehold,Afternoon,0,0,0,1,0
+Call,Internal TOL Referral ,37.5,Freehold,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Call,Internal TOL Referral ,37.5,Freehold,United Healthcare,Freehold,Evening,0,1,0,0,0
+Boom Form,Social Media,42.5,Manalapan,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Call,Social Media,12.5,Marlboro,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Social Media,3.0,Freehold,Aetna,Freehold,Evening,0,1,0,0,0
+Call,Social Media,37.5,Manalapan,BCBS,Virtual,Evening,1,0,0,0,0
+Call,Social Media,37.5,Red Bank,Aetna,Freehold,Morning,0,1,0,0,0
+Call,Social Media,7.5,Manalapan,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Social Media,42.5,Tinton Falls,BCBS,Virtual,Morning,0,1,0,0,0
+Boom Form,Unknown,47.5,Freehold,Aetna,Freehold,Afternoon,0,1,0,0,0
+Call,Unknown,47.5,Freehold,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Unknown,22.5,Englishtown,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Unknown,30.0,Jackson,BCBS,Freehold,Evening,0,0,0,1,0
+Call,Unknown,62.5,Jackson,Other,Freehold,Evening,0,0,1,0,0
+Call,Unknown,22.5,Barnegat,BCBS,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,52.5,Randolph,Aetna,Virtual,Evening,0,1,0,0,0
+Call,Google or another search engine,37.5,Princeton,Other,Princeton,Morning,1,0,0,0,0
+Boom Form,Insurance Company,42.5,East Brunswick,BCBS,Freehold,Morning,0,1,0,0,0
+Other,Google or another search engine,25.0,New Egypt,Meritain,Princeton,Evening,0,0,0,1,0
+Call,Internal TOL Referral ,37.5,Freehold,Cigna,Freehold,Evening,0,1,0,0,0
+Boom Form,Family/Friend,32.5,East Windsor,BCBS,Princeton,Evening,0,1,0,0,0
+Call,Social Media,17.5,Freehold,BCBS,Virtual,Evening,0,1,0,0,0
+Boom Form,Social Media,37.5,Manalapan,Aetna,Virtual,Morning,1,0,0,0,0
+Call,Healthcare Provider,17.5,Princeton Junction,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Internal TOL Referral ,7.5,Tinton Falls,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,32.5,Browns Mills,Other,Freehold,Afternoon,0,0,0,1,0
+Call,Insurance Company,27.5,Trenton,United Healthcare,Princeton,Afternoon,0,1,0,0,0
+Call,Alison D'Mello,17.5,Cream Ridge,Meritain,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Toms River,United Healthcare,Virtual,Morning,0,1,0,0,0
+Call,Insurance Company,12.5,Freehold,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Healthcare Provider,37.5,Parlin,BCBS,Virtual,Morning,1,0,0,0,0
+Other,Unknown,47.5,Jackson,Aetna,Freehold,Evening,0,1,0,0,0
+Other,Unknown,52.5,Plainsboro,Meritain,Princeton,Evening,0,0,1,0,0
+Boom Form,Google or another search engine,67.5,Manalapan,Meritain,Freehold,Afternoon,0,0,1,0,0
+Call,Family/Friend,32.5,Manalapan,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Allentown,BCBS,Virtual,Evening,0,1,0,0,0
+Boom Form,Healthcare Provider,42.5,Bound Brook,BCBS,Virtual,Morning,0,1,0,0,0
+Boom Form,Family/Friend,37.5,Little Silver,United Healthcare,Virtual,Morning,0,1,0,0,0
+Boom Form,Insurance Company,32.5,Plainsboro,Aetna,Princeton,Evening,0,1,0,0,0
+Call,Healthcare Provider,22.5,Freehold,Optum,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Freehold,United Healthcare,Princeton,Evening,0,1,0,0,0
+Call,Internal TOL Referral ,35.0,Freehold,Aetna,Freehold,Morning,0,0,0,1,0
+Call,Insurance Company,32.5,Princeton Junction,United Healthcare,Princeton,Morning,0,1,0,0,0
+Boom Form,Insurance Company,22.5,Manalapan,Cigna,Freehold,Afternoon,0,1,0,0,0
+Other,Family/Friend,47.5,Trenton,BCBS,Princeton,Evening,0,0,0,1,0
+Boom Form,Google or another search engine,42.5,Princeton,United Healthcare,Princeton,Evening,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Trenton,Cigna,Virtual,Afternoon,0,1,0,0,0
+Call,Insurance Company,57.5,Martinsville,Cigna,Virtual,Morning,0,1,0,0,0
+Other,Family/Friend,32.5,Brick,Aetna,Virtual,Afternoon,0,1,0,0,0
+Other,Family/Friend,47.5,Manalapan,Meritain,Virtual,Morning,1,0,0,0,0
+Boom Form,Google or another search engine,22.5,Galloway,BCBS,Virtual,Afternoon,1,0,0,0,0
+Boom Form,Insurance Company,27.5,Hoboken,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,12.5,Manalapan,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Google or another search engine,17.5,Howell,BCBS,Virtual,Morning,0,1,0,0,0
+Boom Form,Family/Friend,37.5,Bordentown,Aetna,Princeton,Evening,0,1,0,0,0
+Call,Insurance Company,12.5,North Brunswick,Other,Princeton,Evening,1,0,0,0,0
+Text,Family/Friend,52.5,Toms River,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,27.5,Old Bridge,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Insurance Company,37.5,East Windsor,Cigna,Princeton,Afternoon,0,1,0,0,0
+Call,Family/Friend,52.5,Forked River,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,12.5,Penningotn,BCBS,Princeton,Evening,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Hazlet,Aetna,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,32.5,Freehold,BCBS,Virtual,Morning,0,1,0,0,0
+Call,Healthcare Provider,22.5,Oceanport,Aetna,Freehold,Afternoon,0,1,0,0,0
+Call,Insurance Company,17.5,Princeton Junction,BCBS,Princeton,Morning,1,0,0,0,0
+Call,Healthcare Provider,12.5,Monroe,United Healthcare,Princeton,Evening,1,0,0,0,0
+Call,Family/Friend,17.5,Matawan,United Healthcare,Virtual,Evening,0,1,0,0,0
+Boom Form,Google or another search engine,12.5,Princeton Junction,United Healthcare,Princeton,Evening,0,1,0,0,0
+Call,Google or another search engine,42.5,Hamilton,Optum,Princeton,Evening,0,0,0,1,0
+Call,Family/Friend,7.5,Spotswood,BCBS,Freehold,Morning,0,1,0,0,0
+Boom Form,Healthcare Provider,22.5,Galloway,Cigna,Virtual,Morning,1,0,0,0,0
+Call,Family/Friend,62.5,Freehold,BCBS,Freehold,Morning,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Freehold,Aetna,Virtual,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,57.5,Freehold,BCBS,Freehold,Morning,0,1,0,0,0
+Boom Form,Healthcare Provider,37.5,Freehold,Aetna,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Manalapan,United Healthcare,Virtual,Evening,0,1,0,0,0
+Call,Family/Friend,57.5,Springfield,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Healthcare Provider,12.5,Princeton Junction,BCBS,Princeton,Evening,0,1,0,0,0
+Call,Social Media,12.5,Cranbury,BCBS,Princeton,Evening,0,1,0,0,0
+Call,Family/Friend,27.5,Morganville,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Insurance Company,52.5,Howell,BCBS,Freehold,Morning,0,1,0,0,0
+Boom Form,Family/Friend,47.5,Parlin,MagnaCare,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,17.5,Toms River,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Social Media,12.5,Cranbury,BCBS,Princeton,Evening,0,1,0,0,0
+Call,Family/Friend,17.5,Jackson,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Family/Friend,32.5,Cliffwood,Aetna,Freehold,Afternoon,0,1,0,0,0
+Call,Insurance Company,32.5,Freehold,Cigna,Virtual,Afternoon,0,1,0,0,0
+Other,Unknown,37.5,East Windsor,Other,Princeton,Morning,0,1,0,0,0
+Call,Internal TOL Referral,37.5,East Windsor,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,37.5,Plainsboro,Aetna,Princeton,Afternoon,0,0,0,1,0
+Call,Healthcare Provider,52.5,Robbinsville,Aetna,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,22.5,Penningotn,Aetna,Princeton,Evening,1,0,0,0,0
+Call,Insurance Company,32.5,Matawan,Cigna,Virtual,Evening,0,1,0,0,0
+Call,Healthcare Provider,37.5,Brick,United Healthcare,Freehold,Morning,1,0,0,0,0
+Call,Healthcare Provider,22.5,Belle Mead,BCBS,Princeton,Evening,0,1,0,0,0
+Call,Healthcare Provider,12.5,Monroe,Aetna,Princeton,Afternoon,0,1,0,0,0
+Call,Google or another search engine,12.5,Freehold,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Google or another search engine,27.5,Manalapan,Cigna,Virtual,Evening,1,0,0,0,0
+Other,Unknown,37.5,Forked River,BCBS,Virtual,Afternoon,0,1,0,0,0
+Call,Insurance Company,47.5,Lawrence Township,Cigna,Virtual,Morning,0,1,0,0,0
+Boom Form,Google or another search engine,27.5,Freehold,Aetna,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,32.5,Old Bridge,BCBS,Virtual,Morning,1,0,0,0,0
+Boom Form,Family/Friend,30.309824902723737,Cranbury,BCBS,Princeton,Evening,0,1,0,0,0
+Boom Form,Family/Friend,37.5,Marlboro,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Call,Insurance Company,12.5,Freehold,United Healthcare,Freehold,Afternoon,0,1,0,0,0
+Call,Internal TOL Referral,47.5,Holmdel,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,22.5,Keansburg,BCBS,Virtual,Morning,1,0,0,0,0
+Call,Healthcare Provider,47.5,Bridgewater,Aetna,Virtual,Evening,1,0,0,0,0
+Call,Insurance Company,32.5,Manalapan,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,62.5,Princeton,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Google or another search engine,27.5,Parlin,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,22.5,Tabernacle,Aetna,Virtual,Morning,0,1,0,0,0
+Call,Family/Friend,3.0,Freehold,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Google or another search engine,12.5,Plainsboro,Aetna,Princeton,Evening,0,1,0,0,0
+Boom Form,Family/Friend,22.5,Budd Lake,Cigna,Princeton,Morning,0,1,0,0,0
+Boom Form,Google or another search engine,50.0,Trenton,Aetna,Princeton,Evening,0,0,0,1,0
+Boom Form,Healthcare Provider,42.5,Monroe,United Healthcare,Virtual,Morning,0,1,0,0,0
+Call,Family/Friend,7.5,Jackson,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,52.5,Eatontown,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Call,Google or another search engine,62.5,Marlboro,Aetna,Virtual,Evening,1,0,0,0,0
+Boom Form,Unknown,22.5,Toms River,Other,Freehold,Morning,0,1,0,0,0
+Boom Form,Family/Friend,47.5,Verona,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,12.5,Somerville,Aetna,Princeton,Evening,0,1,0,0,0
+Boom Form,Family/Friend,57.5,Trenton,BCBS,Virtual,Evening,0,1,0,0,0
+Boom Form,Google or another search engine,12.5,Princeton,United Healthcare,Princeton,Evening,0,1,0,0,0
+Boom Form,Family/Friend,27.5,Little Ferry,BCBS,Virtual,Evening,0,1,0,0,0
+Boom Form,Family/Friend,22.5,New Brunswick,Aetna,Virtual,Afternoon,0,1,0,0,0
+Call,Family/Friend,62.5,Princeton,BCBS,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,42.5,Montclair,BCBS,Virtual,Morning,1,0,0,0,0
+Boom Form,Family/Friend,32.5,Sayreville,Aetna,Virtual,Evening,1,0,0,0,0
+Boom Form,Healthcare Provider,42.5,Montclair,BCBS,Virtual,Morning,1,0,0,0,0
+Boom Form,Family/Friend,32.5,Sayreville,Aetna,Virtual,Evening,1,0,0,0,0
+Boom Form,Healthcare Provider,37.5,Colts Neck,BCBS,Virtual,Morning,0,1,0,0,0
+Boom Form,Healthcare Provider,32.5,Clifton,Cigna,Virtual,Afternoon,0,1,0,0,0
+Call,Unknown,32.5,Franklin Park,Cigna,Virtual,Morning,0,1,0,0,0
+Call,Healthcare Provider,17.5,Lawrenceville,Aetna,Princeton,Evening,0,1,0,0,0
+Call,Insurance Company,17.5,Millstone,BCBS,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Insurance Company,27.5,Plainsboro,Aetna,Princeton,Morning,0,1,0,0,0
+Boom Form,Google or another search engine,32.5,Princeton,United Healthcare,Princeton,Afternoon,0,1,0,0,0
+Boom Form,Insurance Company,7.5,Old Bridge,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Google or another search engine,27.5,Freehold,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Family/Friend,32.5,Helmetta,BCBS,Virtual,Morning,1,0,0,0,0
+Call,Google or another search engine,22.5,Springfield,BCBS,Virtual,Evening,1,0,0,0,0
+Other,Internal TOL Referral,7.5,Freehold,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,37.5,Hightstown,Cigna,Virtual,Morning,1,0,0,0,0
+Boom Form,Google or another search engine,17.5,Manalapan,United Healthcare,Virtual,Afternoon,0,1,0,0,0
+Call,Internal TOL Referral,32.5,Colts Neck,BCBS,Virtual,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,32.5,South Amboy,BCBS,Princeton,Evening,0,1,0,0,0
+Call,Google or another search engine,7.5,Manalapan,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Insurance Company,47.5,Freehold,BCBS,Freehold,Morning,0,1,0,0,0
+Call,Family/Friend,52.5,Millstone,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,35.0,Cookstown,United Healthcare,Virtual,Evening,0,0,0,1,0
+Call,Insurance Company,42.5,Freehold,Cigna,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Healthcare Provider,32.5,Morristown,BCBS,Virtual,Morning,1,0,0,0,0
+Boom Form,Family/Friend,52.5,Trenton,BCBS,Princeton,Afternoon,0,1,0,0,0
+Call,Healthcare Provider,27.5,Old Bridge,BCBS,Virtual,Evening,0,1,0,0,0
+Call,Insurance Company,12.5,Manalapan,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Google or another search engine,17.5,Freehold,BCBS,Freehold,Evening,0,1,0,0,0
+Call,Family/Friend,7.5,Howell,Cigna,Freehold,Evening,0,1,0,0,0
+Call,Google or another search engine,7.5,Lawrence Township,Cigna,Princeton,Evening,0,1,0,0,0
+Call,Family/Friend,27.5,Fords,BCBS,Virtual,Morning,0,1,0,0,0
+Other,Family/Friend,27.5,Monroe,United Healthcare,Virtual,Afternoon,1,0,0,0,0
+Call,Healthcare Provider,7.5,Colts Neck,BCBS,Freehold,Afternoon,0,1,0,0,0
+Call,Family/Friend,12.5,Marlboro,Aetna,Freehold,Morning,1,0,0,0,0
+Other,Family/Friend,17.5,Howell,BCBS,Freehold,Afternoon,0,1,0,0,0
+Boom Form,Family/Friend,42.5,Colts Neck,BCBS,Virtual,Afternoon,0,1,0,0,0
