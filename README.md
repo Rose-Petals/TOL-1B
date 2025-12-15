@@ -118,14 +118,35 @@ Statistical Tests.ipynb
 ## 🧠 **Model Development**
 We built 4 different ML models to predict whether a new client at Tree Of Life would choose a morning appointment or not.
 
+### Objective
+The goal of these models is to predict is a client will take a **morning appointment** or **not**.
+
 ### 1. Logistic Regression
 ### 2. Decision Tree
+Decision Tree is a model that splits data into smaller groups based on client features 
+#### Pros and Cons
+**Pros**
+- Can capture complex patterns in data
+
+**Cons**
+- Prone to overfitting (memorizing the training data)
+
+#### Results
+- **Precision** : 0.33
+- **Recall** : 0.53
+- **F1 Score** : 0.41
+- **Accuracy** : 0.62
+
+- The 0.53 recall value means that the around 53% of the morning appointments will be predicted corectly.
+- The accuracy value shows that 62% of the predictions made by the model were correct.
+- The low values are due to class imbalance 
+
+#### Feature Importance
+
+
 ### 3. Gradient Boosting
 
 Gradient Boosting is an ensemble learning method that builds a sequence of models, where each subsequent model focuses on correcting the errors of the previous ones.
-
-#### Objective
-The goal of this model is to predict whether a patient prefers a **morning appointment** or **not**.
 
 #### Model Choice
 We used the **XGBoost** implementation of Gradient Boosting. This allowed us to assign greater weight to patients who prefer morning appointments in order to compensate for class imbalance in the target variable.
@@ -136,11 +157,13 @@ We used the **XGBoost** implementation of Gradient Boosting. This allowed us to 
 - Captures complex feature interactions effectively
 
 **Cons**
-- Prone to overfitting if not carefully tuned
+- Prone to overfitting (memorizing training data) if not carefully tuned 
 
 #### Results
-
-<img src="assets/ClassificationReportGradientBooting.png" alt="ClassificationReport" width="400" height="400">
+- **Precision** : 0.30
+- **Recall** : 0.91
+- **F1 Score** : 0.45
+- **Accuracy** : 0.45
 
 - The Gradient Boosting model achieved very high **Recall** suggesting that most of the morning appointments are predicted as morning by the model.
 - However, the low **Precision** indicates that many non-morning appointments are also labelled as morning.
@@ -150,6 +173,12 @@ We used the **XGBoost** implementation of Gradient Boosting. This allowed us to 
 Feature importance analysis shows which input variables contributed most to the model’s predictions, providing interpretability into the factors influencing appointment time preference.
 
 <img src="assets/FeatureImportanceGradientBoosting.png" alt="FeatureImportance" width="400" height="400">
+
+The features that influence the predictions the most are: 
+- Most influential variables:
+- Clients from waitlist
+- Age 10 - 20
+However according to the statitical analysis, these contribute by predicting clients that do not prefer morning appointments.
 
 ### 4. Random Forest
 
@@ -177,6 +206,11 @@ Feature importance analysis shows which input variables contributed most to the 
 * Confusion matrix, precision-recall curve, feature importance plot, prediction distribution, outputs from fairness or explainability tools
 
 ---
+
+## 🔥 **Challenges**
+1. **Class Imbalance** : 75% of the data consisted of non-morning patients while 25% of the data consisted of morning clients. This made it difficult for the model to learn patterns among the morning clients.
+2. **Combining Datasets** : We had 3 separate datasets with slightly different features, columns names, and data types. This made merging them a bit difficult. We also lost a lot of columns (unique to a particular dataset) due to merging. 
+3. **Establishing Team Meetings** : Since our team members all come from different colleges and time zones, it was a challenge to schedule meetings and collaborate effectively.
 
 ## 🚀 **Next Steps**
 
