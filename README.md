@@ -11,20 +11,17 @@
 | Anika Razzak       | @anikarazz    | Data exploration and standardization, Random Forest model building and training          |
 | Ariana Yahia       | @ArianaY123   |                                                                                          |
 | Chinny Igwuilo     | @             |                                                                                          |
-| Fnu Pankhuri       | @Rose-Petals  |                                                                                          |
+| Fnu Pankhuri       | @Rose-Petals  | Data Cleaning and exploration, Logistic Regression, Project Management                   |
 | Mofe Sam-Adelusimo | @mofex99      |                                                                                          |
 | Shreena Thakker    | @shreenat     | Data Cleaning, Statistical Analysis, Decision Tree Model Tuning, Gradient Descent Model  |
 
 ---
-
 ## 🎯 **Project Highlights**
 
-**Example:**
+- Developed Logistic Regression, Random Forest Tree, Gradient Boost, and Decision Tree machine learning models to address demographic of patients most likely to take morning appointments.
+- Compared models using F1 scores, accuracy, recall, precision, and accuracy.
+- Generated demographics for Tree of Life Counseling to target for their morning appoitnments.
 
-- Developed a machine learning model using `[model type/technique]` to address `[challenge project task]`.
-- Achieved `[key metric or result]`, demonstrating `[value or impact]` for `[host company]`.
-- Generated actionable insights to inform business decisions at `[host company or stakeholders]`.
-- Implemented `[specific methodology]` to address industry constraints or expectations.
 
 ---
 
