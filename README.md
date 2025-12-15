@@ -142,6 +142,11 @@ Decision Tree is a model that splits data into smaller groups based on client fe
 - The low values are due to class imbalance 
 
 #### Feature Importance
+<img src="assets/FeatureImportanceDecisionTree.png" alt="FeatureImportance" width="400" height="400">
+
+The features that influenced the predictions the most are: 
+- Virtual appointments
+- Waitlist intake
 
 
 ### 3. Gradient Boosting
@@ -174,7 +179,7 @@ Feature importance analysis shows which input variables contributed most to the 
 
 <img src="assets/FeatureImportanceGradientBoosting.png" alt="FeatureImportance" width="400" height="400">
 
-The features that influence the predictions the most are: 
+The features that influenced the predictions the most are: 
 - Most influential variables:
 - Clients from waitlist
 - Age 10 - 20
