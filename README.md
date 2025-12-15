@@ -212,14 +212,6 @@ All features were one-hot encoded. The target variable was `appointment_time`.
 #### Key Insight
 This model was used primarily for **interpretability rather than pure prediction**. Feature importance analysis highlighted **referral sources** as one of the strongest predictors of appointment timing. From the model, we were able to dig deeper and identify the most influential referrer sources, which were **Friends/Family** and **Healthcare Provider**. This directly supports the client’s goal of identifying which referral sources are associated with specific appointment behaviors, enabling more targeted and effective marketing toward key demographic groups to improve morning appointment utilization.
 
-
-**You might consider describing the following (as applicable):**
-
-* Model(s) used (e.g., CNN with transfer learning, regression models)
-* Feature selection and Hyperparameter tuning strategies
-* Training setup (e.g., % of data for training/validation, evaluation metric, baseline performance)
-
-
 ---
 
 ## 📈 **Results & Key Findings**
