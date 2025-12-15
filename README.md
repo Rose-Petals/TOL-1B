@@ -227,7 +227,6 @@ We evaluated our classification models using:
 - Precision: **0.30**
 - Recall: **0.91**
 
-## How the Model Performed
 Overall, the models helped compare both predictive performance and feature importance. While Logistic Regression performed well on accuracy, it struggled with recall due to class imbalance. Tree-based models (Decision Tree, Random Forest, Gradient Boosting) better captured non-linear relationships and produced more actionable insights.
 
 ## Key Findings (Feature / Variable Importance)
@@ -257,6 +256,8 @@ Performance varied across age groups, with younger clients (10–20) showing str
 2. **Combining Datasets** : We had 3 separate datasets with slightly different features, columns names, and data types. This made merging them a bit difficult. We also lost a lot of columns (unique to a particular dataset) due to merging. 
 3. **Establishing Team Meetings** : Since our team members all come from different colleges and time zones, it was a challenge to schedule meetings and collaborate effectively.
 
+---
+
 ## 🚀 **Next Steps**
 
 To address these issues, future work would focus on:
@@ -277,15 +278,6 @@ Using these insights, we would simulate potential locations and evaluate which a
 
 ### Future Direction
 With expanded demographic and geographic data, models could be retrained and validated to ensure insights remain accurate and actionable. This approach would allow the client to scale operations while targeting communities with the greatest projected impact.
-
----
-
-## 📝 **License**
-
-If applicable, indicate how your project can be used by others by specifying and linking to an open source license type (e.g., MIT, Apache 2.0). Make sure your Challenge Advisor approves of the selected license type.
-
-**Example:**
-This project is licensed under the MIT License.
 
 ---
 
