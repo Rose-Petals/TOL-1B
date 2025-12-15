@@ -214,7 +214,6 @@ All features were one-hot encoded. The target variable was `appointment_time`.
 
 ## 📈 **Results & Key Findings**
 
-## Model Performance (Metrics)
 We evaluated our classification models using:
 - **Accuracy** (overall correctness)
 - **Precision / Recall / F1-score** (to balance false positives vs. false negatives)
