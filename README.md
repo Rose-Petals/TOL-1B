@@ -6,24 +6,14 @@
 
 **Example:**
 
-| Name               | GitHub Handle | Contribution                                                                      |
-|--------------------|---------------|-----------------------------------------------------------------------------------|
-| Anika Razzak       | @anikarazz    | Data exploration and standardization, Random Forest model building and training   |
-| Ariana Yahia       | @ArianaY123   | Data collection, exploratory data analysis (EDA), dataset documentation           |
-| Chinny Igwuilo     | @             | Data preprocessing, feature engineering, data validation                          |
-| Fnu Pankhuri       | @Rose-Petals  | Model selection, hyperparameter tuning, model training and optimization           |
-| Mofe Sam-Adelusimo | @mofex99      | Model evaluation, performance analysis, results interpretation                    |
-| Shreena Thakker    | @shreenat     | Model evaluation, performance analysis, results interpretation                    |
-
-
-
-| Name             | GitHub Handle | Contribution                                                                                    |
-|------------------|---------------|-------------------------------------------------------------------------------------------------|
-| Shreena Thakker  | @shreenat     | Data Cleaning, Statistical Analysis, Decision Tree Model Tuning, Gradient Descent Model         |
-|                  |               |                                                                                                 |
-|                  |               |                                                                                                 |
-|                  |               |                                                                                                 |
-|                  |               |                                                                                                 |
+| Name               | GitHub Handle | Contribution                                                                             |
+|--------------------|---------------|------------------------------------------------------------------------------------------|
+| Anika Razzak       | @anikarazz    | Data exploration and standardization, Random Forest model building and training          |
+| Ariana Yahia       | @ArianaY123   |                                                                                          |
+| Chinny Igwuilo     | @             |                                                                                          |
+| Fnu Pankhuri       | @Rose-Petals  |                                                                                          |
+| Mofe Sam-Adelusimo | @mofex99      |                                                                                          |
+| Shreena Thakker    | @shreenat     | Data Cleaning, Statistical Analysis, Decision Tree Model Tuning, Gradient Descent Model  |
 
 ---
 
@@ -192,12 +182,6 @@ If applicable, indicate how your project can be used by others by specifying and
 
 **Example:**
 This project is licensed under the MIT License.
-
----
-
-## 📄 **References** (Optional but encouraged)
-
-Cite relevant papers, articles, or resources that supported your project.
 
 ---
 
