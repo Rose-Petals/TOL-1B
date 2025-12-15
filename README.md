@@ -47,13 +47,6 @@
 
 ## 📊 **Data Exploration**
 
-**You might consider describing the following (as applicable):**
-
-* The dataset(s) used: origin, format, size, type of data
-* Data exploration and preprocessing approaches
-* Insights from your Exploratory Data Analysis (EDA)
-* Challenges and assumptions when working with the dataset(s)
-
 **Data Cleaning Steps**
 - Created uniform and easy to understand column names for the columns
 - Replaced missing values with 'Unknown' category
