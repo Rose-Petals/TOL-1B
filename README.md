@@ -6,13 +6,15 @@
 
 **Example:**
 
-| Name             | GitHub Handle | Contribution                                                             |
-|------------------|---------------|--------------------------------------------------------------------------|
-| Taylor Nguyen    | @taylornguyen | Data exploration, visualization, overall project coordination            |
-| Jordan Ramirez   | @jramirez     | Data collection, exploratory data analysis (EDA), dataset documentation  |
-| Amina Hassan     | @aminahassan  | Data preprocessing, feature engineering, data validation                 |
-| Priya Mehta      | @pmehta       | Model selection, hyperparameter tuning, model training and optimization  |
-| Chris Park       | @chrispark    | Model evaluation, performance analysis, results interpretation           |
+| Name               | GitHub Handle | Contribution                                                                      |
+|--------------------|---------------|-----------------------------------------------------------------------------------|
+| Anika Razzak       | @anikarazz    | Data exploration and standardization, Random Forest model building and training   |
+| Ariana Yahia       | @ArianaY123   | Data collection, exploratory data analysis (EDA), dataset documentation           |
+| Chinny Igwuilo     | @             | Data preprocessing, feature engineering, data validation                          |
+| Fnu Pankhuri       | @Rose-Petals  | Model selection, hyperparameter tuning, model training and optimization           |
+| Mofe Sam-Adelusimo | @mofex99      | Model evaluation, performance analysis, results interpretation                    |
+| Shreena Thakker    | @shreenat     | Model evaluation, performance analysis, results interpretation                    |
+
 
 
 | Name             | GitHub Handle | Contribution                                                                                    |
