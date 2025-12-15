@@ -186,7 +186,31 @@ The features that influenced the predictions the most are:
 However according to the statitical analysis, these contribute by predicting clients that do not prefer morning appointments.
 
 ### 4. Random Forest
+A Random Forest multi-class classification model was used to predict appointment time
+(Morning, Afternoon, Evening) based on client demographic and intake-related features.
+Random Forest was selected for its ability to handle categorical data and provide
+interpretable feature importance.
 
+#### Features
+The model was trained using the following predictors:
+- Intake method
+- Referral source
+- Age group
+- Appointment location
+
+All features were one-hot encoded. The target variable was `appointment_time`.
+
+#### Training & Evaluation
+- Train/Test Split: 80% / 20%
+- Model: Random Forest (300 trees, class-weighted)
+- Evaluation Metrics: Accuracy, Precision, Recall, F1-score
+
+#### Results (after class balance):
+- Overall accuracy: ~47% (above random baseline of ~33%)
+- Morning F1-score: ~0.37
+
+#### Key Insight
+This model was used primarily for **interpretability rather than pure prediction**. Feature importance analysis highlighted **referral sources** as one of the strongest predictors of appointment timing. From the model, we were able to dig deeper and identify the most influential referrer sources, which were **Friends/Family** and **Healthcare Provider**. This directly supports the client’s goal of identifying which referral sources are associated with specific appointment behaviors, enabling more targeted and effective marketing toward key demographic groups to improve morning appointment utilization.
 
 
 **You might consider describing the following (as applicable):**
