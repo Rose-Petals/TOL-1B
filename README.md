@@ -10,7 +10,7 @@
 |--------------------|---------------|------------------------------------------------------------------------------------------|
 | Anika Razzak       | @anikarazz    | Data exploration and standardization, Random Forest model building and training          |
 | Ariana Yahia       | @ArianaY123   | Data Cleaning, Statistical Analysis, Building and Tuning Decision Tree Model             |
-| Chinny Igwuilo     | @             |                                                                                          |
+| Chinny Igwuilo     | @ChinnyIgwuilo| Decision Tree Model tuning                                                               |
 | Fnu Pankhuri       | @Rose-Petals  | Data Cleaning and exploration, Logistic Regression, Project Management                   |
 | Mofe Sam-Adelusimo | @mofex99      |                                                                                          |
 | Shreena Thakker    | @shreenat     | Data Cleaning, Statistical Analysis, Decision Tree Model Tuning, Gradient Descent Model  |
